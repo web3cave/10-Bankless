@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T06:43:56.450Z</id>
+    <id>urn:2022-03-27T06:43:00.997Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-26T06:43:56.450Z</updated>
+    <updated>2022-03-27T06:43:00.997Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS: PoW vs PoS | Lyn Alden & Justin Drake]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs</id>
+        <link href="https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs"/>
+        <updated>2022-03-26T11:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (89 min) | Which is the future of the global money system?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: The Institutions Are Here | Vitalik & Brady BFFs | Verge of the Merge | Senator Warren, Sup?]]></title>
         <id>https://shows.banklesshq.com/p/rollup-the-institutions-are-here</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-i-was-wrong-we-need-crypto"/>
         <updated>2022-03-07T11:30:35.000Z</updated>
         <summary type="html"><![CDATA[Listen now (18 min) | Debriefing the Episode with DHH]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙 108 - I Was Wrong, We Need Crypto | DHH]]></title>
-        <id>https://shows.banklesshq.com/p/-108-i-was-wrong-we-need-crypto-dhh</id>
-        <link href="https://shows.banklesshq.com/p/-108-i-was-wrong-we-need-crypto-dhh"/>
-        <updated>2022-03-07T11:30:35.000Z</updated>
-        <summary type="html"><![CDATA[From skeptic to believer]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

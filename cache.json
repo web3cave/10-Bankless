@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (89 min) | Which is the future of the global money system?",
+          "link": "https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs",
+          "publishedOn": "2022-03-26T11:58:25.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS: PoW vs PoS | Lyn Alden & Justin Drake",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/1m12zgJ42dI",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/1m12zgJ42dI"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-the-institutions-are-here",
           "author": "Ryan Sean Adams",
           "description": "Listen now (101 min) | 4th Week of March 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/YTmZuoD1otw"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/-108-i-was-wrong-we-need-crypto-dhh",
-          "author": "Ryan Sean Adams",
-          "description": "From skeptic to believer",
-          "link": "https://shows.banklesshq.com/p/-108-i-was-wrong-we-need-crypto-dhh",
-          "publishedOn": "2022-03-07T11:30:35.000Z",
-          "wordCount": null,
-          "title": "🎙 108 - I Was Wrong, We Need Crypto | DHH",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/50a37df5-0d6d-4cd0-ae98-78dba41fb1f5_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/50a37df5-0d6d-4cd0-ae98-78dba41fb1f5_2668x1501.jpeg"
         }
       ]
     }
