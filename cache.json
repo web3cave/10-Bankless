@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios",
+          "author": "David Hoffman",
+          "description": "Listen now (53 min) | Web3 storytelling at its best",
+          "link": "https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios",
+          "publishedOn": "2022-03-27T18:08:59.000Z",
+          "wordCount": null,
+          "title": "Shibuya’s Rethinking Production Studios with pplpleasr, Maciej Kuciara & Jacky | Alpha Leak",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/UgYAPkc29-A",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/UgYAPkc29-A"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs",
           "author": "Ryan Sean Adams",
           "description": "Listen now (89 min) | Which is the future of the global money system?",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/jdHoBeIyVsg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-i-was-wrong-we-need-crypto",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (18 min) | Debriefing the Episode with DHH",
-          "link": "https://shows.banklesshq.com/p/debrief-i-was-wrong-we-need-crypto",
-          "publishedOn": "2022-03-07T11:30:35.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - I Was Wrong, We Need Crypto",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/YTmZuoD1otw",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/YTmZuoD1otw"
         }
       ]
     }

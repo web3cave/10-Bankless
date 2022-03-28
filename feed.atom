@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-27T06:43:00.997Z</id>
+    <id>urn:2022-03-28T06:48:53.887Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-27T06:43:00.997Z</updated>
+    <updated>2022-03-28T06:48:53.887Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shibuya’s Rethinking Production Studios with pplpleasr, Maciej Kuciara & Jacky | Alpha Leak]]></title>
+        <id>https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios</id>
+        <link href="https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios"/>
+        <updated>2022-03-27T18:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (53 min) | Web3 storytelling at its best]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EARLY ACCESS: PoW vs PoS | Lyn Alden & Justin Drake]]></title>
         <id>https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Exploring Emergence, Crypto Gaming, and New York City]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - I Was Wrong, We Need Crypto]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-i-was-wrong-we-need-crypto</id>
-        <link href="https://shows.banklesshq.com/p/debrief-i-was-wrong-we-need-crypto"/>
-        <updated>2022-03-07T11:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (18 min) | Debriefing the Episode with DHH]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
