@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (46 min) | Debriefing the debate with Lyn Alden & Justin Drake.",
+          "link": "https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98",
+          "publishedOn": "2022-03-28T18:01:40.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - The PoW vs. PoS Debate | Lyn Alden & Justin Drake",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/QBIjMCAeqSc",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/QBIjMCAeqSc"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and",
+          "author": "Ryan Sean Adams",
+          "description": "Which is the future of the global money system?",
+          "link": "https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and",
+          "publishedOn": "2022-03-28T10:30:38.000Z",
+          "wordCount": null,
+          "title": "The PoW vs. PoS Debate | Lyn Alden & Justin Drake",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fa75ceae-848b-4335-a476-0db49de848d7_2061x1159.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fa75ceae-848b-4335-a476-0db49de848d7_2061x1159.jpeg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios",
           "author": "David Hoffman",
           "description": "Listen now (53 min) | Web3 storytelling at its best",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/lslsJp-ykQg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/-fortress-russia-crumbles-kyla-scanlon",
-          "author": "Ryan Sean Adams",
-          "description": "What happens next?",
-          "link": "https://shows.banklesshq.com/p/-fortress-russia-crumbles-kyla-scanlon",
-          "publishedOn": "2022-03-09T11:30:39.000Z",
-          "wordCount": null,
-          "title": "📺 Fortress Russia Crumbles | Kyla Scanlon",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/l0uyf42YpiY",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/l0uyf42YpiY"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/marguerite-decourcelle-aka-coin-artist",
-          "author": "David Hoffman",
-          "description": "Exploring Emergence, Crypto Gaming, and New York City",
-          "link": "https://shows.banklesshq.com/p/marguerite-decourcelle-aka-coin-artist",
-          "publishedOn": "2022-03-08T12:40:42.000Z",
-          "wordCount": null,
-          "title": "Coin Artist on Building *real* Crypto-Games | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/jdHoBeIyVsg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/jdHoBeIyVsg"
         }
       ]
     }

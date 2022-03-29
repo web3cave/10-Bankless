@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-28T06:48:53.887Z</id>
+    <id>urn:2022-03-29T06:25:59.039Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-28T06:48:53.887Z</updated>
+    <updated>2022-03-29T06:25:59.039Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - The PoW vs. PoS Debate | Lyn Alden & Justin Drake]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98</id>
+        <link href="https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98"/>
+        <updated>2022-03-28T18:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (46 min) | Debriefing the debate with Lyn Alden & Justin Drake.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The PoW vs. PoS Debate | Lyn Alden & Justin Drake]]></title>
+        <id>https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and</id>
+        <link href="https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and"/>
+        <updated>2022-03-28T10:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Which is the future of the global money system?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shibuya’s Rethinking Production Studios with pplpleasr, Maciej Kuciara & Jacky | Alpha Leak]]></title>
         <id>https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[2nd Week of March, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📺 Fortress Russia Crumbles | Kyla Scanlon]]></title>
-        <id>https://shows.banklesshq.com/p/-fortress-russia-crumbles-kyla-scanlon</id>
-        <link href="https://shows.banklesshq.com/p/-fortress-russia-crumbles-kyla-scanlon"/>
-        <updated>2022-03-09T11:30:39.000Z</updated>
-        <summary type="html"><![CDATA[What happens next?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coin Artist on Building *real* Crypto-Games | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/marguerite-decourcelle-aka-coin-artist</id>
-        <link href="https://shows.banklesshq.com/p/marguerite-decourcelle-aka-coin-artist"/>
-        <updated>2022-03-08T12:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Exploring Emergence, Crypto Gaming, and New York City]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
