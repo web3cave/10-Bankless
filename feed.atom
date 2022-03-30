@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T06:25:59.039Z</id>
+    <id>urn:2022-03-30T06:26:43.289Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-29T06:25:59.039Z</updated>
+    <updated>2022-03-30T06:26:43.289Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Next Phase of Humanity with Metadreamer | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer</id>
+        <link href="https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer"/>
+        <updated>2022-03-29T11:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (73 min) | Intersubjective Emergent Democracy and Other Heady Topics]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - The PoW vs. PoS Debate | Lyn Alden & Justin Drake]]></title>
         <id>https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-sbf"/>
         <updated>2022-03-12T10:30:36.000Z</updated>
         <summary type="html"><![CDATA[Listen now (82 min) | Sam Bankman-Fried will make $1 Trillion and Give It Away]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Biden’s Crypto Executive Order | Sanctions & Commodities | Coinbase & MetaMask | Bear Watch?!]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-bidens-crypto-executive-order</id>
-        <link href="https://shows.banklesshq.com/p/rollup-bidens-crypto-executive-order"/>
-        <updated>2022-03-10T11:30:37.000Z</updated>
-        <summary type="html"><![CDATA[2nd Week of March, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

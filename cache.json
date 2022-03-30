@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer",
+          "author": "David Hoffman",
+          "description": "Listen now (73 min) | Intersubjective Emergent Democracy and Other Heady Topics",
+          "link": "https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer",
+          "publishedOn": "2022-03-29T11:15:38.000Z",
+          "wordCount": null,
+          "title": "The Next Phase of Humanity with Metadreamer | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/oqeeZwQr7TQ",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/oqeeZwQr7TQ"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98",
           "author": "Ryan Sean Adams",
           "description": "Listen now (46 min) | Debriefing the debate with Lyn Alden & Justin Drake.",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/pHrhOg4l4Gw"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-bidens-crypto-executive-order",
-          "author": "Ryan Sean Adams",
-          "description": "2nd Week of March, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-bidens-crypto-executive-order",
-          "publishedOn": "2022-03-10T11:30:37.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Biden’s Crypto Executive Order | Sanctions & Commodities | Coinbase & MetaMask | Bear Watch?!",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/lslsJp-ykQg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/lslsJp-ykQg"
         }
       ]
     }
