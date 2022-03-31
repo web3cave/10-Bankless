@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/-the-return-of-aave-stani-kulechov",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (76 min) | Aave v3 and Lens Protocol",
+          "link": "https://shows.banklesshq.com/p/-the-return-of-aave-stani-kulechov",
+          "publishedOn": "2022-03-30T09:57:36.000Z",
+          "wordCount": null,
+          "title": "📺 The Return of Aave | Stani Kulechov",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/efYdMSfUPXs",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/efYdMSfUPXs"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer",
           "author": "David Hoffman",
           "description": "Listen now (73 min) | Intersubjective Emergent Democracy and Other Heady Topics",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/YZ82EdcbnDs"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-sbf",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (82 min) | Sam Bankman-Fried will make $1 Trillion and Give It Away",
-          "link": "https://shows.banklesshq.com/p/early-access-sbf",
-          "publishedOn": "2022-03-12T10:30:36.000Z",
-          "wordCount": null,
-          "title": "EARLY ACCESS: SBF and the Future of FTX",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/pHrhOg4l4Gw",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/pHrhOg4l4Gw"
         }
       ]
     }

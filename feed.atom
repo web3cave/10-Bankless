@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-30T06:26:43.289Z</id>
+    <id>urn:2022-03-31T06:25:29.447Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-30T06:26:43.289Z</updated>
+    <updated>2022-03-31T06:25:29.447Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📺 The Return of Aave | Stani Kulechov]]></title>
+        <id>https://shows.banklesshq.com/p/-the-return-of-aave-stani-kulechov</id>
+        <link href="https://shows.banklesshq.com/p/-the-return-of-aave-stani-kulechov"/>
+        <updated>2022-03-30T09:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | Aave v3 and Lens Protocol]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Next Phase of Humanity with Metadreamer | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-sbf"/>
         <updated>2022-03-14T10:30:48.000Z</updated>
         <summary type="html"><![CDATA[Listen now (22 min) | Debriefing the Episode with SBF]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EARLY ACCESS: SBF and the Future of FTX]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-sbf</id>
-        <link href="https://shows.banklesshq.com/p/early-access-sbf"/>
-        <updated>2022-03-12T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (82 min) | Sam Bankman-Fried will make $1 Trillion and Give It Away]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
