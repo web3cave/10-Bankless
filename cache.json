@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-bankless-arena-600m-crypto",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (104 min) | Last Week of March 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-bankless-arena-600m-crypto",
+          "publishedOn": "2022-04-01T12:19:06.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Bankless Arena?! | $600M Crypto Hack | Prepare for the Merge | PoS & PoW Misconceptions",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/-the-return-of-aave-stani-kulechov",
           "author": "Ryan Sean Adams",
           "description": "Listen now (76 min) | Aave v3 and Lens Protocol",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46baea2b-7177-4b08-b848-9965049b6616_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-sbf",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (22 min) | Debriefing the Episode with SBF",
-          "link": "https://shows.banklesshq.com/p/debrief-sbf",
-          "publishedOn": "2022-03-14T10:30:48.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - SBF | Sam Bankman-Fried",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/YZ82EdcbnDs",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/YZ82EdcbnDs"
         }
       ]
     }
