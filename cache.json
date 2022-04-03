@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (87 min) | Tapped by Tesla and the future of MakerDAO",
+          "link": "https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson",
+          "publishedOn": "2022-04-02T10:30:33.000Z",
+          "wordCount": null,
+          "title": "📺 The Bullish Case for MKR | Sam MacPherson, Niklas Kunkel & monetsupply.eth",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/woW1nAWFTEI",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/woW1nAWFTEI"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-bankless-arena-600m-crypto",
           "author": "Ryan Sean Adams",
           "description": "Listen now (104 min) | Last Week of March 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/8q8Oxbo_fhw"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/-109-sbf-and-the-future-of-ftx-sam",
-          "author": "Ryan Sean Adams",
-          "description": "Sam Bankman-Fried will make $1 Trillion and Give It Away",
-          "link": "https://shows.banklesshq.com/p/-109-sbf-and-the-future-of-ftx-sam",
-          "publishedOn": "2022-03-14T10:30:49.000Z",
-          "wordCount": null,
-          "title": "🎙 109 - SBF and the Future of FTX | Sam Bankman-Fried",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46baea2b-7177-4b08-b848-9965049b6616_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46baea2b-7177-4b08-b848-9965049b6616_2668x1501.jpeg"
         }
       ]
     }
