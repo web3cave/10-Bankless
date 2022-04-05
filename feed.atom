@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T06:26:06.766Z</id>
+    <id>urn:2022-04-05T06:26:10.415Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-04T06:26:06.766Z</updated>
+    <updated>2022-04-05T06:26:10.415Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - Into The Funtier | Packy McCormick]]></title>
+        <id>https://shows.banklesshq.com/p/112-packy-debrief</id>
+        <link href="https://shows.banklesshq.com/p/112-packy-debrief"/>
+        <updated>2022-04-04T11:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (23 min) | Debriefing the Episode with Packy]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Into the Funtier | Packy McCormick]]></title>
+        <id>https://shows.banklesshq.com/p/112-packy</id>
+        <link href="https://shows.banklesshq.com/p/112-packy"/>
+        <updated>2022-04-04T10:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (82 min) | The Secret Recipe for Crypto (and Life!)]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📺 The Bullish Case for MKR | Sam MacPherson, Niklas Kunkel & monetsupply.eth]]></title>
         <id>https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/does-decentralization-matter-kevin"/>
         <updated>2022-03-17T10:30:34.000Z</updated>
         <summary type="html"><![CDATA[What new users believe and much more]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bull or Bear? What the Charts Are Saying | Ledger from Up Only]]></title>
-        <id>https://shows.banklesshq.com/p/bull-or-bear-what-the-charts-are</id>
-        <link href="https://shows.banklesshq.com/p/bull-or-bear-what-the-charts-are"/>
-        <updated>2022-03-16T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[All eyes on what happens next]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙 Tarun Chitra on whether Code is Law | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/-tarun-chitra-on-whether-code-is</id>
-        <link href="https://shows.banklesshq.com/p/-tarun-chitra-on-whether-code-is"/>
-        <updated>2022-03-15T12:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Upgrading Global Governance and Exploring the Beauty of Math]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>

@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/112-packy-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (23 min) | Debriefing the Episode with Packy",
+          "link": "https://shows.banklesshq.com/p/112-packy-debrief",
+          "publishedOn": "2022-04-04T11:09:57.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Into The Funtier | Packy McCormick",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/tN_U6tHTl-Y",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/tN_U6tHTl-Y"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/112-packy",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (82 min) | The Secret Recipe for Crypto (and Life!)",
+          "link": "https://shows.banklesshq.com/p/112-packy",
+          "publishedOn": "2022-04-04T10:59:44.000Z",
+          "wordCount": null,
+          "title": "Into the Funtier | Packy McCormick",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/flVOGJ_dCjQ",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/flVOGJ_dCjQ"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson",
           "author": "Ryan Sean Adams",
           "description": "Listen now (87 min) | Tapped by Tesla and the future of MakerDAO",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/PkNPwvaZgTc"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/bull-or-bear-what-the-charts-are",
-          "author": "Ryan Sean Adams",
-          "description": "All eyes on what happens next",
-          "link": "https://shows.banklesshq.com/p/bull-or-bear-what-the-charts-are",
-          "publishedOn": "2022-03-16T10:30:29.000Z",
-          "wordCount": null,
-          "title": "Bull or Bear? What the Charts Are Saying | Ledger from Up Only",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/ZMv2gRBqaa8",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ZMv2gRBqaa8"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/-tarun-chitra-on-whether-code-is",
-          "author": "David Hoffman",
-          "description": "Upgrading Global Governance and Exploring the Beauty of Math",
-          "link": "https://shows.banklesshq.com/p/-tarun-chitra-on-whether-code-is",
-          "publishedOn": "2022-03-15T12:45:31.000Z",
-          "wordCount": null,
-          "title": "🎙 Tarun Chitra on whether Code is Law | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/8q8Oxbo_fhw",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/8q8Oxbo_fhw"
         }
       ]
     }
