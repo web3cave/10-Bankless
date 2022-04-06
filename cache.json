@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem",
+          "author": "David Hoffman",
+          "description": "Listen now (74 min) | All three are everywhere and nowhere all at once",
+          "link": "https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem",
+          "publishedOn": "2022-04-05T10:30:29.000Z",
+          "wordCount": null,
+          "title": "Cults, Culture, & Crypto with Meltem Demirors | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/rHFBKwo2HSU",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/rHFBKwo2HSU"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/112-packy-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (23 min) | Debriefing the Episode with Packy",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/kxJj9s_6EgE"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/does-decentralization-matter-kevin",
-          "author": "David Hoffman",
-          "description": "What new users believe and much more",
-          "link": "https://shows.banklesshq.com/p/does-decentralization-matter-kevin",
-          "publishedOn": "2022-03-17T10:30:34.000Z",
-          "wordCount": null,
-          "title": "Does Decentralization Matter? | Kevin Owocki & Cooper Turley",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/PkNPwvaZgTc",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/PkNPwvaZgTc"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-05T06:26:10.415Z</id>
+    <id>urn:2022-04-06T06:24:52.847Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-05T06:26:10.415Z</updated>
+    <updated>2022-04-06T06:24:52.847Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cults, Culture, & Crypto with Meltem Demirors | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem</id>
+        <link href="https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem"/>
+        <updated>2022-04-05T10:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (74 min) | All three are everywhere and nowhere all at once]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - Into The Funtier | Packy McCormick]]></title>
         <id>https://shows.banklesshq.com/p/112-packy-debrief</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (116 min) | 3rd Week of March, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Decentralization Matter? | Kevin Owocki & Cooper Turley]]></title>
-        <id>https://shows.banklesshq.com/p/does-decentralization-matter-kevin</id>
-        <link href="https://shows.banklesshq.com/p/does-decentralization-matter-kevin"/>
-        <updated>2022-03-17T10:30:34.000Z</updated>
-        <summary type="html"><![CDATA[What new users believe and much more]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
