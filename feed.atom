@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T06:24:52.847Z</id>
+    <id>urn:2022-04-07T06:25:43.627Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-06T06:24:52.847Z</updated>
+    <updated>2022-04-07T06:25:43.627Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Element Airdrop & DAO Launch | Will Villanueva & Jonny Rhea]]></title>
+        <id>https://shows.banklesshq.com/p/the-element-airdrop-and-dao-launch</id>
+        <link href="https://shows.banklesshq.com/p/the-element-airdrop-and-dao-launch"/>
+        <updated>2022-04-06T10:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (74 min) | Voting Vaults, Council Governance, and ETH2 Staking]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cults, Culture, & Crypto with Meltem Demirors | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-the-internet-reset-alexis"/>
         <updated>2022-03-18T22:00:37.000Z</updated>
         <summary type="html"><![CDATA[Listen now (61 min) | How the Reddit Co-Founder Got Crypto-Pilled]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: ETH Merge Soon | Yuga Labs Acquisition | ApeCoin | Raises & NEW Releases Galore]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-eth-merge-soon-yuga-labs-acquisition</id>
-        <link href="https://shows.banklesshq.com/p/rollup-eth-merge-soon-yuga-labs-acquisition"/>
-        <updated>2022-03-18T10:56:55.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (116 min) | 3rd Week of March, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

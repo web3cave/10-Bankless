@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-element-airdrop-and-dao-launch",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (74 min) | Voting Vaults, Council Governance, and ETH2 Staking",
+          "link": "https://shows.banklesshq.com/p/the-element-airdrop-and-dao-launch",
+          "publishedOn": "2022-04-06T10:51:04.000Z",
+          "wordCount": null,
+          "title": "The Element Airdrop & DAO Launch | Will Villanueva & Jonny Rhea",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/wcQN8f3_6Fg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/wcQN8f3_6Fg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem",
           "author": "David Hoffman",
           "description": "Listen now (74 min) | All three are everywhere and nowhere all at once",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e7e71c89-a975-48fe-9416-9451e683ea05_1280x720.png"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-eth-merge-soon-yuga-labs-acquisition",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (116 min) | 3rd Week of March, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-eth-merge-soon-yuga-labs-acquisition",
-          "publishedOn": "2022-03-18T10:56:55.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: ETH Merge Soon | Yuga Labs Acquisition | ApeCoin | Raises & NEW Releases Galore",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/kxJj9s_6EgE",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/kxJj9s_6EgE"
         }
       ]
     }
