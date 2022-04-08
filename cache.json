@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (110 min) | Strongest UST debate to date",
+          "link": "https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time",
+          "publishedOn": "2022-04-07T10:30:44.000Z",
+          "wordCount": null,
+          "title": "UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs. Bull",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/6eOU5OaKd8s",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/6eOU5OaKd8s"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-element-airdrop-and-dao-launch",
           "author": "Ryan Sean Adams",
           "description": "Listen now (74 min) | Voting Vaults, Council Governance, and ETH2 Staking",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/Zimx60Rx8cM"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-the-internet-reset-alexis",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (61 min) | How the Reddit Co-Founder Got Crypto-Pilled",
-          "link": "https://shows.banklesshq.com/p/early-access-the-internet-reset-alexis",
-          "publishedOn": "2022-03-18T22:00:37.000Z",
-          "wordCount": null,
-          "title": "EARLY ACCESS: The Internet Reset | Alexis Ohanian",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e7e71c89-a975-48fe-9416-9451e683ea05_1280x720.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e7e71c89-a975-48fe-9416-9451e683ea05_1280x720.png"
         }
       ]
     }
