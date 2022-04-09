@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T06:25:52.486Z</id>
+    <id>urn:2022-04-09T06:25:03.154Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-08T06:25:52.486Z</updated>
+    <updated>2022-04-09T06:25:03.154Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS: How to Be Early | Olaf Carlson-Wee]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf</id>
+        <link href="https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf"/>
+        <updated>2022-04-09T05:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (73 min) | The power of independent thinking]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Elon Musk Twitter | UK Royal NFT | Bitcoin Miami | DAI vs UST Stablecoin Wars | Axie Bailout]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal</id>
+        <link href="https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal"/>
+        <updated>2022-04-08T10:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (87 min) | 1st Week of April, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs. Bull]]></title>
         <id>https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now (62 min) | The Dynamics of Being a Web3 Venture Capitalist]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Alexis Ohanian]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-alexis</id>
-        <link href="https://shows.banklesshq.com/p/debrief-alexis"/>
-        <updated>2022-03-21T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (21 min) | Debriefing the Episode with Alexis]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙 110 - The Internet Reset | Alexis Ohanian]]></title>
-        <id>https://shows.banklesshq.com/p/110-alexis</id>
-        <link href="https://shows.banklesshq.com/p/110-alexis"/>
-        <updated>2022-03-21T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[How the Reddit Co-Founder Got Crypto-Pilled]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>

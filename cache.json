@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (73 min) | The power of independent thinking",
+          "link": "https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf",
+          "publishedOn": "2022-04-09T05:24:33.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS: How to Be Early | Olaf Carlson-Wee",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/ktGv7hWf7oM",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ktGv7hWf7oM"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (87 min) | 1st Week of April, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal",
+          "publishedOn": "2022-04-08T10:40:17.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Elon Musk Twitter | UK Royal NFT | Bitcoin Miami | DAI vs UST Stablecoin Wars | Axie Bailout",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time",
           "author": "Ryan Sean Adams",
           "description": "Listen now (110 min) | Strongest UST debate to date",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/SDL6ijF8-JI"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-alexis",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (21 min) | Debriefing the Episode with Alexis",
-          "link": "https://shows.banklesshq.com/p/debrief-alexis",
-          "publishedOn": "2022-03-21T10:30:32.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Alexis Ohanian",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/jTxwy1zf2iE",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/jTxwy1zf2iE"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/110-alexis",
-          "author": "Ryan Sean Adams",
-          "description": "How the Reddit Co-Founder Got Crypto-Pilled",
-          "link": "https://shows.banklesshq.com/p/110-alexis",
-          "publishedOn": "2022-03-21T10:30:32.000Z",
-          "wordCount": null,
-          "title": "🎙 110 - The Internet Reset | Alexis Ohanian",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/Zimx60Rx8cM",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/Zimx60Rx8cM"
         }
       ]
     }
