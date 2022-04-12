@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T06:26:51.047Z</id>
+    <id>urn:2022-04-12T06:26:08.614Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-11T06:26:51.047Z</updated>
+    <updated>2022-04-12T06:26:08.614Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS: How to Be Early | Olaf Carlson-Wee]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf</id>
-        <link href="https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf"/>
+        <title type="html"><![CDATA[DEBRIEF - How to Be Early | Olaf Carlson-Wee]]></title>
+        <id>https://shows.banklesshq.com/p/113-olaf-debrief</id>
+        <link href="https://shows.banklesshq.com/p/113-olaf-debrief"/>
+        <updated>2022-04-11T10:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the Episode with Olaf]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[113 - How to Be Early | Olaf Carlson-Wee]]></title>
+        <id>https://shows.banklesshq.com/p/how-to-be-early-olaf</id>
+        <link href="https://shows.banklesshq.com/p/how-to-be-early-olaf"/>
         <updated>2022-04-09T05:24:33.000Z</updated>
         <summary type="html"><![CDATA[Listen now (73 min) | The power of independent thinking]]></summary>
         <author>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (51 min) | What's the deal with ApeCoin?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a VC with Haseeb Qureshi | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/how-to-become-a-vc-with-haseeb-qureshi</id>
-        <link href="https://shows.banklesshq.com/p/how-to-become-a-vc-with-haseeb-qureshi"/>
-        <updated>2022-03-22T08:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (62 min) | The Dynamics of Being a Web3 Venture Capitalist]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

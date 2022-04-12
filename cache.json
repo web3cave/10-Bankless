@@ -6,20 +6,36 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
-          "id": "https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf",
+          "id": "https://shows.banklesshq.com/p/113-olaf-debrief",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (73 min) | The power of independent thinking",
-          "link": "https://shows.banklesshq.com/p/early-access-how-to-be-early-olaf",
-          "publishedOn": "2022-04-09T05:24:33.000Z",
+          "description": "Listen now (29 min) | Debriefing the Episode with Olaf",
+          "link": "https://shows.banklesshq.com/p/113-olaf-debrief",
+          "publishedOn": "2022-04-11T10:30:32.000Z",
           "wordCount": null,
-          "title": "EARLY ACCESS: How to Be Early | Olaf Carlson-Wee",
+          "title": "DEBRIEF - How to Be Early | Olaf Carlson-Wee",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/ktGv7hWf7oM",
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/5bl3z4Zv84Y",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ktGv7hWf7oM"
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/5bl3z4Zv84Y"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/how-to-be-early-olaf",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (73 min) | The power of independent thinking",
+          "link": "https://shows.banklesshq.com/p/how-to-be-early-olaf",
+          "publishedOn": "2022-04-09T05:24:33.000Z",
+          "wordCount": null,
+          "title": "113 - How to Be Early | Olaf Carlson-Wee",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/67d05dcb-081c-4472-a904-897f9b9dc233_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/67d05dcb-081c-4472-a904-897f9b9dc233_2668x1501.jpeg"
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/sV7ltCpQs30"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/how-to-become-a-vc-with-haseeb-qureshi",
-          "author": "David Hoffman",
-          "description": "Listen now (62 min) | The Dynamics of Being a Web3 Venture Capitalist",
-          "link": "https://shows.banklesshq.com/p/how-to-become-a-vc-with-haseeb-qureshi",
-          "publishedOn": "2022-03-22T08:11:15.000Z",
-          "wordCount": null,
-          "title": "How to Become a VC with Haseeb Qureshi | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/SDL6ijF8-JI",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/SDL6ijF8-JI"
         }
       ]
     }
