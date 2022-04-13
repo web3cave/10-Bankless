@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx",
+          "author": "David Hoffman",
+          "description": "Listen now (77 min) | Biomimicry and the DAO Within",
+          "link": "https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx",
+          "publishedOn": "2022-04-12T13:45:54.000Z",
+          "wordCount": null,
+          "title": "The Divine DAO with Tracheopteryx | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/18vB70P2YE4",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/18vB70P2YE4"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/113-olaf-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (29 min) | Debriefing the Episode with Olaf",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/bmSU3cZhe3U"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/-yuga-labs-buys-out-cryptopunks-bullish",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (51 min) | What's the deal with ApeCoin?",
-          "link": "https://shows.banklesshq.com/p/-yuga-labs-buys-out-cryptopunks-bullish",
-          "publishedOn": "2022-03-23T07:51:26.000Z",
-          "wordCount": null,
-          "title": "📺 Yuga Labs Buys Out CryptoPunks; Bullish or Bearish for Punks? | Zeneca, Andy8052, Scott Lewis",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/sV7ltCpQs30",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/sV7ltCpQs30"
         }
       ]
     }
