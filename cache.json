@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (80 min) | Taking the Frax-Pill",
+          "link": "https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover",
+          "publishedOn": "2022-04-13T09:04:28.000Z",
+          "wordCount": null,
+          "title": "FRAX & the 4pool Curve Takeover | Sam Kazemian",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/w5_91cCWFEQ",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/w5_91cCWFEQ"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx",
           "author": "David Hoffman",
           "description": "Listen now (77 min) | Biomimicry and the DAO Within",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ezEvnLu6X4w"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/celestias-building-the-multi-chain",
-          "author": "David Hoffman",
-          "description": "Listen now (55 min) | All things modular blockchains explained",
-          "link": "https://shows.banklesshq.com/p/celestias-building-the-multi-chain",
-          "publishedOn": "2022-03-23T11:44:12.000Z",
-          "wordCount": null,
-          "title": "Celestia’s Building the Multi-Chain Universe with Nick White | Alpha Leak",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/bmSU3cZhe3U",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/bmSU3cZhe3U"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T06:26:34.712Z</id>
+    <id>urn:2022-04-14T06:26:43.698Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-13T06:26:34.713Z</updated>
+    <updated>2022-04-14T06:26:43.698Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FRAX & the 4pool Curve Takeover | Sam Kazemian]]></title>
+        <id>https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover</id>
+        <link href="https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover"/>
+        <updated>2022-04-13T09:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (80 min) | Taking the Frax-Pill]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Divine DAO with Tracheopteryx | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (52 min) | How crypto is making an impact]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia’s Building the Multi-Chain Universe with Nick White | Alpha Leak]]></title>
-        <id>https://shows.banklesshq.com/p/celestias-building-the-multi-chain</id>
-        <link href="https://shows.banklesshq.com/p/celestias-building-the-multi-chain"/>
-        <updated>2022-03-23T11:44:12.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (55 min) | All things modular blockchains explained]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
