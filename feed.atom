@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T06:26:43.698Z</id>
+    <id>urn:2022-04-15T06:26:21.201Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-14T06:26:43.698Z</updated>
+    <updated>2022-04-15T06:26:21.201Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alpha Leak | The Bull Case for TreasureDAO]]></title>
+        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-treasuredao</id>
+        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-treasuredao"/>
+        <updated>2022-04-14T10:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (86 min) | The decentralized Nintendo of the future?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FRAX & the 4pool Curve Takeover | Sam Kazemian]]></title>
         <id>https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-the-institutions-are-here"/>
         <updated>2022-03-25T10:47:16.000Z</updated>
         <summary type="html"><![CDATA[Listen now (101 min) | 4th Week of March 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto in Ukraine | Alex Bornyakov, Deputy Minister of Digital Transformation of Ukraine]]></title>
-        <id>https://shows.banklesshq.com/p/crypto-in-ukraine-alex-bornyakov</id>
-        <link href="https://shows.banklesshq.com/p/crypto-in-ukraine-alex-bornyakov"/>
-        <updated>2022-03-25T01:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (52 min) | How crypto is making an impact]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
