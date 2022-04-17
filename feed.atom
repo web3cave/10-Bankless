@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T06:25:09.631Z</id>
+    <id>urn:2022-04-17T06:25:22.614Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-16T06:25:09.631Z</updated>
+    <updated>2022-04-17T06:25:22.614Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
+        <id>https://shows.banklesshq.com/p/in-defense-of-bitcoin-maximalism</id>
+        <link href="https://shows.banklesshq.com/p/in-defense-of-bitcoin-maximalism"/>
+        <updated>2022-04-16T20:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (98 min) | Early Access to Bankless Podcast #114]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Elon Musk Buys Twitter?! | 8.5% Inflation | Tax Week | Epic Games Building the Metaverse]]></title>
         <id>https://shows.banklesshq.com/p/rollup-elon-musk-buys-twitter-85</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (53 min) | Web3 storytelling at its best]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EARLY ACCESS: PoW vs PoS | Lyn Alden & Justin Drake]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs</id>
-        <link href="https://shows.banklesshq.com/p/early-access-the-proof-of-work-vs"/>
-        <updated>2022-03-26T11:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (89 min) | Which is the future of the global money system?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
