@@ -6,10 +6,26 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
-          "id": "https://shows.banklesshq.com/p/in-defense-of-bitcoin-maximalism",
+          "id": "https://shows.banklesshq.com/p/114-vitalik-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (22 min) | Debriefing the Episode with Vitalik",
+          "link": "https://shows.banklesshq.com/p/114-vitalik-debrief",
+          "publishedOn": "2022-04-18T04:50:23.000Z",
+          "wordCount": null,
+          "title": "Debrief - In Defense of Bitcoin Maximalism | Vitalik Buterin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/OENLgUm5EZY",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/OENLgUm5EZY"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/114-vitalik",
           "author": "Ryan Sean Adams",
           "description": "Listen now (98 min) | Early Access to Bankless Podcast #114",
-          "link": "https://shows.banklesshq.com/p/in-defense-of-bitcoin-maximalism",
+          "link": "https://shows.banklesshq.com/p/114-vitalik",
           "publishedOn": "2022-04-16T20:02:21.000Z",
           "wordCount": null,
           "title": "In Defense of Bitcoin Maximalism | Vitalik Buterin",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fa75ceae-848b-4335-a476-0db49de848d7_2061x1159.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios",
-          "author": "David Hoffman",
-          "description": "Listen now (53 min) | Web3 storytelling at its best",
-          "link": "https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios",
-          "publishedOn": "2022-03-27T18:08:59.000Z",
-          "wordCount": null,
-          "title": "Shibuya’s Rethinking Production Studios with pplpleasr, Maciej Kuciara & Jacky | Alpha Leak",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/UgYAPkc29-A",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/UgYAPkc29-A"
         }
       ]
     }

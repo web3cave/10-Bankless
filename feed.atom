@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T06:25:22.614Z</id>
+    <id>urn:2022-04-18T06:27:19.568Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-17T06:25:22.614Z</updated>
+    <updated>2022-04-18T06:27:19.568Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[Debrief - In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
+        <id>https://shows.banklesshq.com/p/114-vitalik-debrief</id>
+        <link href="https://shows.banklesshq.com/p/114-vitalik-debrief"/>
+        <updated>2022-04-18T04:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (22 min) | Debriefing the Episode with Vitalik]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
-        <id>https://shows.banklesshq.com/p/in-defense-of-bitcoin-maximalism</id>
-        <link href="https://shows.banklesshq.com/p/in-defense-of-bitcoin-maximalism"/>
+        <id>https://shows.banklesshq.com/p/114-vitalik</id>
+        <link href="https://shows.banklesshq.com/p/114-vitalik"/>
         <updated>2022-04-16T20:02:21.000Z</updated>
         <summary type="html"><![CDATA[Listen now (98 min) | Early Access to Bankless Podcast #114]]></summary>
         <author>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Which is the future of the global money system?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shibuya’s Rethinking Production Studios with pplpleasr, Maciej Kuciara & Jacky | Alpha Leak]]></title>
-        <id>https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios</id>
-        <link href="https://shows.banklesshq.com/p/shibuyas-rethinking-production-studios"/>
-        <updated>2022-03-27T18:08:59.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (53 min) | Web3 storytelling at its best]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
