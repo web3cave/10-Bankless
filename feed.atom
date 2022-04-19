@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T06:27:19.568Z</id>
+    <id>urn:2022-04-19T06:26:43.069Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-18T06:27:19.568Z</updated>
+    <updated>2022-04-19T06:26:43.069Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
+        <title type="html"><![CDATA[114 - In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
         <id>https://shows.banklesshq.com/p/114-vitalik</id>
         <link href="https://shows.banklesshq.com/p/114-vitalik"/>
         <updated>2022-04-16T20:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (98 min) | Early Access to Bankless Podcast #114]]></summary>
+        <summary type="html"><![CDATA[Listen now (98 min) | Green Tea, Red Wine, and the Merits of Toxicity]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
