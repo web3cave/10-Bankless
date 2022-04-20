@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T06:26:43.069Z</id>
+    <id>urn:2022-04-20T06:27:52.570Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-19T06:26:43.069Z</updated>
+    <updated>2022-04-20T06:27:52.570Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - The Stagflation Mega-Trade | Dan Morehead]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-the-stagflation-mega</id>
+        <link href="https://shows.banklesshq.com/p/early-access-the-stagflation-mega"/>
+        <updated>2022-04-20T05:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (88 min) | How to prepare before it's too late]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
         <id>https://shows.banklesshq.com/p/114-vitalik-debrief</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98"/>
         <updated>2022-03-28T18:01:40.000Z</updated>
         <summary type="html"><![CDATA[Listen now (46 min) | Debriefing the debate with Lyn Alden & Justin Drake.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The PoW vs. PoS Debate | Lyn Alden & Justin Drake]]></title>
-        <id>https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and</id>
-        <link href="https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and"/>
-        <updated>2022-03-28T10:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Which is the future of the global money system?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-the-stagflation-mega",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (88 min) | How to prepare before it's too late",
+          "link": "https://shows.banklesshq.com/p/early-access-the-stagflation-mega",
+          "publishedOn": "2022-04-20T05:39:50.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - The Stagflation Mega-Trade | Dan Morehead",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/9exrRXyyOX8",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/9exrRXyyOX8"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/114-vitalik-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (22 min) | Debriefing the Episode with Vitalik",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/QBIjMCAeqSc"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and",
-          "author": "Ryan Sean Adams",
-          "description": "Which is the future of the global money system?",
-          "link": "https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and",
-          "publishedOn": "2022-03-28T10:30:38.000Z",
-          "wordCount": null,
-          "title": "The PoW vs. PoS Debate | Lyn Alden & Justin Drake",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fa75ceae-848b-4335-a476-0db49de848d7_2061x1159.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fa75ceae-848b-4335-a476-0db49de848d7_2061x1159.jpeg"
         }
       ]
     }
