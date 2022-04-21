@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (76 min) | Are Moonbirds the Next Blue-Chip NFT Project?",
+          "link": "https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility",
+          "publishedOn": "2022-04-20T08:36:30.000Z",
+          "wordCount": null,
+          "title": "Moonbirds and the Future of Utility NFTs | Kevin Rose",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/6RAFSFowZSk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/6RAFSFowZSk"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/early-access-the-stagflation-mega",
           "author": "Ryan Sean Adams",
           "description": "Listen now (88 min) | How to prepare before it's too late",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/oqeeZwQr7TQ"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (46 min) | Debriefing the debate with Lyn Alden & Justin Drake.",
-          "link": "https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98",
-          "publishedOn": "2022-03-28T18:01:40.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - The PoW vs. PoS Debate | Lyn Alden & Justin Drake",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/QBIjMCAeqSc",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/QBIjMCAeqSc"
         }
       ]
     }

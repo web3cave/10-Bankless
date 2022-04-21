@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-20T06:27:52.570Z</id>
+    <id>urn:2022-04-21T06:28:10.370Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-20T06:27:52.570Z</updated>
+    <updated>2022-04-21T06:28:10.370Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Moonbirds and the Future of Utility NFTs | Kevin Rose]]></title>
+        <id>https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility</id>
+        <link href="https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility"/>
+        <updated>2022-04-20T08:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | Are Moonbirds the Next Blue-Chip NFT Project?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EARLY ACCESS - The Stagflation Mega-Trade | Dan Morehead]]></title>
         <id>https://shows.banklesshq.com/p/early-access-the-stagflation-mega</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (73 min) | Intersubjective Emergent Democracy and Other Heady Topics]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - The PoW vs. PoS Debate | Lyn Alden & Justin Drake]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98</id>
-        <link href="https://shows.banklesshq.com/p/debrief-the-pow-vs-pos-debate-lyn-a98"/>
-        <updated>2022-03-28T18:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (46 min) | Debriefing the debate with Lyn Alden & Justin Drake.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
