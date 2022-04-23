@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T06:26:57.205Z</id>
+    <id>urn:2022-04-23T06:25:33.193Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T06:26:57.206Z</updated>
+    <updated>2022-04-23T06:25:33.193Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Merge Alpha | Optimism Token?! | Ethereum Foundation Report | Coinbase NFT Beta | Beanstalk Exploit]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token</id>
+        <link href="https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token"/>
+        <updated>2022-04-22T11:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | 3rd Week of April, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonbirds and the Future of Utility NFTs | Kevin Rose]]></title>
         <id>https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (76 min) | Aave v3 and Lens Protocol]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Phase of Humanity with Metadreamer | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer</id>
-        <link href="https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer"/>
-        <updated>2022-03-29T11:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (73 min) | Intersubjective Emergent Democracy and Other Heady Topics]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

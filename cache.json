@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (77 min) | 3rd Week of April, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token",
+          "publishedOn": "2022-04-22T11:05:40.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Merge Alpha | Optimism Token?! | Ethereum Foundation Report | Coinbase NFT Beta | Beanstalk Exploit",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/zzWrlIKuYJc",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/zzWrlIKuYJc"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility",
           "author": "Ryan Sean Adams",
           "description": "Listen now (76 min) | Are Moonbirds the Next Blue-Chip NFT Project?",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/efYdMSfUPXs"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer",
-          "author": "David Hoffman",
-          "description": "Listen now (73 min) | Intersubjective Emergent Democracy and Other Heady Topics",
-          "link": "https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer",
-          "publishedOn": "2022-03-29T11:15:38.000Z",
-          "wordCount": null,
-          "title": "The Next Phase of Humanity with Metadreamer | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/oqeeZwQr7TQ",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/oqeeZwQr7TQ"
         }
       ]
     }
