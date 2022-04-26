@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-the-stagflation-mega-trade",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (20 min) | Debriefing the Episode with Dan",
+          "link": "https://shows.banklesshq.com/p/debrief-the-stagflation-mega-trade",
+          "publishedOn": "2022-04-25T10:30:34.000Z",
+          "wordCount": null,
+          "title": "Debrief - The Stagflation Mega-Trade | Dan Morehead",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/pbsDvza3Enk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/pbsDvza3Enk"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token",
           "author": "Ryan Sean Adams",
           "description": "Listen now (77 min) | 3rd Week of April, 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/-the-return-of-aave-stani-kulechov",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (76 min) | Aave v3 and Lens Protocol",
-          "link": "https://shows.banklesshq.com/p/-the-return-of-aave-stani-kulechov",
-          "publishedOn": "2022-03-30T09:57:36.000Z",
-          "wordCount": null,
-          "title": "📺 The Return of Aave | Stani Kulechov",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/efYdMSfUPXs",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/efYdMSfUPXs"
         }
       ]
     }
