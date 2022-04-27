@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-explorer-mindset-with-simona",
+          "author": "David Hoffman",
+          "description": "Listen now (61 min) | Rivers, DAO Governance, and the Romanian Revolution",
+          "link": "https://shows.banklesshq.com/p/the-explorer-mindset-with-simona",
+          "publishedOn": "2022-04-26T08:39:31.000Z",
+          "wordCount": null,
+          "title": "The Explorer Mindset with Simona Pop | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/ggcEq9H-ykU",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ggcEq9H-ykU"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-the-stagflation-mega-trade",
           "author": "Ryan Sean Adams",
           "description": "Listen now (20 min) | Debriefing the Episode with Dan",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/woW1nAWFTEI"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-bankless-arena-600m-crypto",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (104 min) | Last Week of March 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-bankless-arena-600m-crypto",
-          "publishedOn": "2022-04-01T12:19:06.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Bankless Arena?! | $600M Crypto Hack | Prepare for the Merge | PoS & PoW Misconceptions",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg"
         }
       ]
     }
