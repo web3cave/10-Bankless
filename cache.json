@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (76 min) | The Optimism Team Gives Us The Deets",
+          "link": "https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop",
+          "publishedOn": "2022-04-27T10:30:43.000Z",
+          "wordCount": null,
+          "title": "The Optimism Collective & $OP Airdrop #1",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/bKVIfJIhS1o",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/bKVIfJIhS1o"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-explorer-mindset-with-simona",
           "author": "David Hoffman",
           "description": "Listen now (61 min) | Rivers, DAO Governance, and the Romanian Revolution",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/flVOGJ_dCjQ"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (87 min) | Tapped by Tesla and the future of MakerDAO",
-          "link": "https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson",
-          "publishedOn": "2022-04-02T10:30:33.000Z",
-          "wordCount": null,
-          "title": "📺 The Bullish Case for MKR | Sam MacPherson, Niklas Kunkel & monetsupply.eth",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/woW1nAWFTEI",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/woW1nAWFTEI"
         }
       ]
     }

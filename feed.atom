@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-27T06:27:41.997Z</id>
+    <id>urn:2022-04-28T06:30:36.259Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-27T06:27:41.997Z</updated>
+    <updated>2022-04-28T06:30:36.259Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Optimism Collective & $OP Airdrop #1]]></title>
+        <id>https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop</id>
+        <link href="https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop"/>
+        <updated>2022-04-27T10:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | The Optimism Team Gives Us The Deets]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Explorer Mindset with Simona Pop | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/the-explorer-mindset-with-simona</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/112-packy"/>
         <updated>2022-04-04T10:59:44.000Z</updated>
         <summary type="html"><![CDATA[Listen now (82 min) | The Secret Recipe for Crypto (and Life!)]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📺 The Bullish Case for MKR | Sam MacPherson, Niklas Kunkel & monetsupply.eth]]></title>
-        <id>https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson</id>
-        <link href="https://shows.banklesshq.com/p/-the-bullish-case-for-mkr-sam-macpherson"/>
-        <updated>2022-04-02T10:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (87 min) | Tapped by Tesla and the future of MakerDAO]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
