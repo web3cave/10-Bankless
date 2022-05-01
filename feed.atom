@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-30T06:26:10.523Z</id>
+    <id>urn:2022-05-01T06:26:14.872Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-30T06:26:10.523Z</updated>
+    <updated>2022-05-01T06:26:14.872Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos]]></title>
+        <id>https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman</id>
+        <link href="https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman"/>
+        <updated>2022-04-30T21:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (109 min) | Empires vs City-States]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Elon Buys Twitter | Free Speech | Optimism Airdrop | Moonbirds NFTs | OpenSea Gem]]></title>
         <id>https://shows.banklesshq.com/p/rollup-elon-buys-twitter-free-speech</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (74 min) | All three are everywhere and nowhere all at once]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Into The Funtier | Packy McCormick]]></title>
-        <id>https://shows.banklesshq.com/p/112-packy-debrief</id>
-        <link href="https://shows.banklesshq.com/p/112-packy-debrief"/>
-        <updated>2022-04-04T11:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (23 min) | Debriefing the Episode with Packy]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>

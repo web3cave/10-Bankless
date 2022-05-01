@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman",
+          "author": "David Hoffman",
+          "description": "Listen now (109 min) | Empires vs City-States",
+          "link": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman",
+          "publishedOn": "2022-04-30T21:51:48.000Z",
+          "wordCount": null,
+          "title": "116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/Vbomgw-PGRE",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/Vbomgw-PGRE"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-elon-buys-twitter-free-speech",
           "author": "Ryan Sean Adams",
           "description": "Listen now (74 min) | Last Week of April, 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/rHFBKwo2HSU"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/112-packy-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (23 min) | Debriefing the Episode with Packy",
-          "link": "https://shows.banklesshq.com/p/112-packy-debrief",
-          "publishedOn": "2022-04-04T11:09:57.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Into The Funtier | Packy McCormick",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/tN_U6tHTl-Y",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/tN_U6tHTl-Y"
         }
       ]
     }
