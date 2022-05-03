@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/116-ethan-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (24 min) | Debriefing the Episode with Ethan",
+          "link": "https://shows.banklesshq.com/p/116-ethan-debrief",
+          "publishedOn": "2022-05-02T09:56:48.000Z",
+          "wordCount": null,
+          "title": "Debrief - Why Bankless is Wrong | Ethan Buchman",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/ap6LTL3MRXE",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ap6LTL3MRXE"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman",
           "author": "David Hoffman",
           "description": "Listen now (109 min) | Empires vs City-States",
@@ -15,11 +31,11 @@
           "title": "116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/Vbomgw-PGRE",
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b4c5fff3-8f4c-49db-98ac-8e44223620fc_2668x1501.jpeg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/Vbomgw-PGRE"
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b4c5fff3-8f4c-49db-98ac-8e44223620fc_2668x1501.jpeg"
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-elon-buys-twitter-free-speech",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/wcQN8f3_6Fg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem",
-          "author": "David Hoffman",
-          "description": "Listen now (74 min) | All three are everywhere and nowhere all at once",
-          "link": "https://shows.banklesshq.com/p/cults-culture-and-crypto-with-meltem",
-          "publishedOn": "2022-04-05T10:30:29.000Z",
-          "wordCount": null,
-          "title": "Cults, Culture, & Crypto with Meltem Demirors | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/rHFBKwo2HSU",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/rHFBKwo2HSU"
         }
       ]
     }
