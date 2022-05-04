@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T06:26:58.228Z</id>
+    <id>urn:2022-05-04T06:28:25.016Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-03T06:26:58.228Z</updated>
+    <updated>2022-05-04T06:28:25.016Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum's Eternal Optimist with Karl Floersch | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/ethereums-eternal-optimist-with-karl</id>
+        <link href="https://shows.banklesshq.com/p/ethereums-eternal-optimist-with-karl"/>
+        <updated>2022-05-03T09:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (74 min) | Ether's Phoenix and Incentivizing a Better Humanity]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Why Bankless is Wrong | Ethan Buchman]]></title>
         <id>https://shows.banklesshq.com/p/116-ethan-debrief</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time"/>
         <updated>2022-04-07T10:30:44.000Z</updated>
         <summary type="html"><![CDATA[Listen now (110 min) | Strongest UST debate to date]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Element Airdrop & DAO Launch | Will Villanueva & Jonny Rhea]]></title>
-        <id>https://shows.banklesshq.com/p/the-element-airdrop-and-dao-launch</id>
-        <link href="https://shows.banklesshq.com/p/the-element-airdrop-and-dao-launch"/>
-        <updated>2022-04-06T10:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | Voting Vaults, Council Governance, and ETH2 Staking]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
