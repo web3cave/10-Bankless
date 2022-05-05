@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (68 min) | Start preparing now",
+          "link": "https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity",
+          "publishedOn": "2022-05-04T18:36:50.000Z",
+          "wordCount": null,
+          "title": "The Trillion Dollar L2 Opportunity | Part One",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/HMFxgTbY_9Y",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/HMFxgTbY_9Y"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (42 min) | Web3 Hollywood is Happening, but Wen Movie?",
+          "link": "https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila",
+          "publishedOn": "2022-05-04T08:24:22.000Z",
+          "wordCount": null,
+          "title": "Ethereum's Hollywood Moment | Camila Russo",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/gw5hBPO7WO4",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/gw5hBPO7WO4"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/ethereums-eternal-optimist-with-karl",
           "author": "David Hoffman",
           "description": "Listen now (74 min) | Ether's Phoenix and Incentivizing a Better Humanity",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/67d05dcb-081c-4472-a904-897f9b9dc233_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (87 min) | 1st Week of April, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal",
-          "publishedOn": "2022-04-08T10:40:17.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Elon Musk Twitter | UK Royal NFT | Bitcoin Miami | DAI vs UST Stablecoin Wars | Axie Bailout",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/kYqeE4QepZg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (110 min) | Strongest UST debate to date",
-          "link": "https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time",
-          "publishedOn": "2022-04-07T10:30:44.000Z",
-          "wordCount": null,
-          "title": "UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs. Bull",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/6eOU5OaKd8s",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/6eOU5OaKd8s"
         }
       ]
     }

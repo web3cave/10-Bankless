@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T06:28:25.016Z</id>
+    <id>urn:2022-05-05T06:27:42.477Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-04T06:28:25.016Z</updated>
+    <updated>2022-05-05T06:27:42.477Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Trillion Dollar L2 Opportunity | Part One]]></title>
+        <id>https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity</id>
+        <link href="https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity"/>
+        <updated>2022-05-04T18:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (68 min) | Start preparing now]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum's Hollywood Moment | Camila Russo]]></title>
+        <id>https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila</id>
+        <link href="https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila"/>
+        <updated>2022-05-04T08:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (42 min) | Web3 Hollywood is Happening, but Wen Movie?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum's Eternal Optimist with Karl Floersch | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/ethereums-eternal-optimist-with-karl</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/how-to-be-early-olaf"/>
         <updated>2022-04-09T05:24:33.000Z</updated>
         <summary type="html"><![CDATA[Listen now (73 min) | The power of independent thinking]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Elon Musk Twitter | UK Royal NFT | Bitcoin Miami | DAI vs UST Stablecoin Wars | Axie Bailout]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal</id>
-        <link href="https://shows.banklesshq.com/p/rollup-elon-musk-twitter-uk-royal"/>
-        <updated>2022-04-08T10:40:17.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (87 min) | 1st Week of April, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs. Bull]]></title>
-        <id>https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time</id>
-        <link href="https://shows.banklesshq.com/p/ust-new-paradigm-or-ticking-time"/>
-        <updated>2022-04-07T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (110 min) | Strongest UST debate to date]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
