@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T06:27:42.477Z</id>
+    <id>urn:2022-05-06T06:29:21.712Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-05T06:27:42.477Z</updated>
+    <updated>2022-05-06T06:29:21.712Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Trillion Dollar L2 Opportunity | Part Two]]></title>
+        <id>https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity-619</id>
+        <link href="https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity-619"/>
+        <updated>2022-05-05T10:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (56 min) | How to capitalize]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Trillion Dollar L2 Opportunity | Part One]]></title>
         <id>https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/113-olaf-debrief"/>
         <updated>2022-04-11T10:30:32.000Z</updated>
         <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the Episode with Olaf]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[113 - How to Be Early | Olaf Carlson-Wee]]></title>
-        <id>https://shows.banklesshq.com/p/how-to-be-early-olaf</id>
-        <link href="https://shows.banklesshq.com/p/how-to-be-early-olaf"/>
-        <updated>2022-04-09T05:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (73 min) | The power of independent thinking]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

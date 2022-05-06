@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity-619",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (56 min) | How to capitalize",
+          "link": "https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity-619",
+          "publishedOn": "2022-05-05T10:30:30.000Z",
+          "wordCount": null,
+          "title": "The Trillion Dollar L2 Opportunity | Part Two",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/fHOAq67ESnw",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/fHOAq67ESnw"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity",
           "author": "Ryan Sean Adams",
           "description": "Listen now (68 min) | Start preparing now",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/5bl3z4Zv84Y"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/how-to-be-early-olaf",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (73 min) | The power of independent thinking",
-          "link": "https://shows.banklesshq.com/p/how-to-be-early-olaf",
-          "publishedOn": "2022-04-09T05:24:33.000Z",
-          "wordCount": null,
-          "title": "113 - How to Be Early | Olaf Carlson-Wee",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/67d05dcb-081c-4472-a904-897f9b9dc233_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/67d05dcb-081c-4472-a904-897f9b9dc233_2668x1501.jpeg"
         }
       ]
     }
