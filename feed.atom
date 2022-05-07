@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T06:29:21.712Z</id>
+    <id>urn:2022-05-07T06:26:29.248Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-06T06:29:21.712Z</updated>
+    <updated>2022-05-07T06:26:29.249Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is Crypto Dead? Fed Crashes Markets. Bored Ape Land Mint. Hop Airdrop. Solana Down.]]></title>
+        <id>https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets</id>
+        <link href="https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets"/>
+        <updated>2022-05-06T10:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | 1st Week of May, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Trillion Dollar L2 Opportunity | Part Two]]></title>
         <id>https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity-619</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (77 min) | Biomimicry and the DAO Within]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - How to Be Early | Olaf Carlson-Wee]]></title>
-        <id>https://shows.banklesshq.com/p/113-olaf-debrief</id>
-        <link href="https://shows.banklesshq.com/p/113-olaf-debrief"/>
-        <updated>2022-04-11T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the Episode with Olaf]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
