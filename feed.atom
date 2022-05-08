@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T06:26:29.248Z</id>
+    <id>urn:2022-05-08T06:26:39.739Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-07T06:26:29.249Z</updated>
+    <updated>2022-05-08T06:26:39.739Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[117 - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy]]></title>
+        <id>https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors</id>
+        <link href="https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors"/>
+        <updated>2022-05-07T10:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (86 min) | Learn from a Master about Overcoming FOMO and FUD]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hop Protocol AIRDROP and DAO Launch! 🟣_🟣]]></title>
+        <id>https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch</id>
+        <link href="https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch"/>
+        <updated>2022-05-07T10:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (48 min) | Layer 2 Airdrop Szn and the Bridge Wars]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Crypto Dead? Fed Crashes Markets. Bored Ape Land Mint. Hop Airdrop. Solana Down.]]></title>
         <id>https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-treasuredao"/>
         <updated>2022-04-14T10:30:30.000Z</updated>
         <summary type="html"><![CDATA[Listen now (86 min) | The decentralized Nintendo of the future?]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRAX & the 4pool Curve Takeover | Sam Kazemian]]></title>
-        <id>https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover</id>
-        <link href="https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover"/>
-        <updated>2022-04-13T09:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (80 min) | Taking the Frax-Pill]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Divine DAO with Tracheopteryx | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx</id>
-        <link href="https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx"/>
-        <updated>2022-04-12T13:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | Biomimicry and the DAO Within]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>

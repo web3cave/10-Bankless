@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (86 min) | Learn from a Master about Overcoming FOMO and FUD",
+          "link": "https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors",
+          "publishedOn": "2022-05-07T10:44:13.000Z",
+          "wordCount": null,
+          "title": "117 - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/E4K-b7k9jf4",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/E4K-b7k9jf4"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch",
+          "author": "David Hoffman",
+          "description": "Listen now (48 min) | Layer 2 Airdrop Szn and the Bridge Wars",
+          "link": "https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch",
+          "publishedOn": "2022-05-07T10:26:11.000Z",
+          "wordCount": null,
+          "title": "Hop Protocol AIRDROP and DAO Launch! 🟣_🟣",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/TCzcuRK3RNk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TCzcuRK3RNk"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets",
           "author": "Ryan Sean Adams",
           "description": "Listen now (77 min) | 1st Week of May, 2022",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/sJK16mwV23M"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (80 min) | Taking the Frax-Pill",
-          "link": "https://shows.banklesshq.com/p/frax-and-the-4pool-curve-takeover",
-          "publishedOn": "2022-04-13T09:04:28.000Z",
-          "wordCount": null,
-          "title": "FRAX & the 4pool Curve Takeover | Sam Kazemian",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/w5_91cCWFEQ",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/w5_91cCWFEQ"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx",
-          "author": "David Hoffman",
-          "description": "Listen now (77 min) | Biomimicry and the DAO Within",
-          "link": "https://shows.banklesshq.com/p/the-divine-dao-with-tracheopteryx",
-          "publishedOn": "2022-04-12T13:45:54.000Z",
-          "wordCount": null,
-          "title": "The Divine DAO with Tracheopteryx | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/18vB70P2YE4",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/18vB70P2YE4"
         }
       ]
     }
