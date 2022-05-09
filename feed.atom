@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-08T06:26:39.739Z</id>
+    <id>urn:2022-05-09T06:27:47.508Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-08T06:26:39.739Z</updated>
+    <updated>2022-05-09T06:27:47.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The 10k ENS Club with 713.eth & 562.eth | Alpha Leak]]></title>
+        <id>https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and</id>
+        <link href="https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and"/>
+        <updated>2022-05-08T23:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (40 min) | An ENS Club to keep eyes on]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[117 - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy]]></title>
         <id>https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (97 min) | 2nd Week of April, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha Leak | The Bull Case for TreasureDAO]]></title>
-        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-treasuredao</id>
-        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-treasuredao"/>
-        <updated>2022-04-14T10:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (86 min) | The decentralized Nintendo of the future?]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

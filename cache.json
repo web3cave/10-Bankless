@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and",
+          "author": "David Hoffman",
+          "description": "Listen now (40 min) | An ENS Club to keep eyes on",
+          "link": "https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and",
+          "publishedOn": "2022-05-08T23:09:47.000Z",
+          "wordCount": null,
+          "title": "The 10k ENS Club with 713.eth & 562.eth | Alpha Leak",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/eJbutkNWDXE",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/eJbutkNWDXE"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors",
           "author": "Ryan Sean Adams",
           "description": "Listen now (86 min) | Learn from a Master about Overcoming FOMO and FUD",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/y3VNJkxnNZs"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-treasuredao",
-          "author": "David Hoffman",
-          "description": "Listen now (86 min) | The decentralized Nintendo of the future?",
-          "link": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-treasuredao",
-          "publishedOn": "2022-04-14T10:30:30.000Z",
-          "wordCount": null,
-          "title": "Alpha Leak | The Bull Case for TreasureDAO",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/sJK16mwV23M",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/sJK16mwV23M"
         }
       ]
     }
