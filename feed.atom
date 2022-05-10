@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T06:27:47.508Z</id>
+    <id>urn:2022-05-10T06:27:15.641Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-09T06:27:47.508Z</updated>
+    <updated>2022-05-10T06:27:15.641Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy]]></title>
+        <id>https://shows.banklesshq.com/p/117-jim-debrief</id>
+        <link href="https://shows.banklesshq.com/p/117-jim-debrief"/>
+        <updated>2022-05-09T09:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the episode with Jim]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 10k ENS Club with 713.eth & 562.eth | Alpha Leak]]></title>
         <id>https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and</id>
@@ -17,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[117 - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy]]></title>
-        <id>https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors</id>
-        <link href="https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors"/>
+        <id>https://shows.banklesshq.com/p/117-jim</id>
+        <link href="https://shows.banklesshq.com/p/117-jim"/>
         <updated>2022-05-07T10:44:13.000Z</updated>
         <summary type="html"><![CDATA[Listen now (86 min) | Learn from a Master about Overcoming FOMO and FUD]]></summary>
         <author>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/114-vitalik"/>
         <updated>2022-04-16T20:02:21.000Z</updated>
         <summary type="html"><![CDATA[Listen now (98 min) | Green Tea, Red Wine, and the Merits of Toxicity]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Elon Musk Buys Twitter?! | 8.5% Inflation | Tax Week | Epic Games Building the Metaverse]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-elon-musk-buys-twitter-85</id>
-        <link href="https://shows.banklesshq.com/p/rollup-elon-musk-buys-twitter-85"/>
-        <updated>2022-04-15T21:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (97 min) | 2nd Week of April, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

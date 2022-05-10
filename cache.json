@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/117-jim-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (29 min) | Debriefing the episode with Jim",
+          "link": "https://shows.banklesshq.com/p/117-jim-debrief",
+          "publishedOn": "2022-05-09T09:49:45.000Z",
+          "wordCount": null,
+          "title": "Debrief - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/wX8-KH_39JU",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/wX8-KH_39JU"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and",
           "author": "David Hoffman",
           "description": "Listen now (40 min) | An ENS Club to keep eyes on",
@@ -22,20 +38,20 @@
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/eJbutkNWDXE"
         },
         {
-          "id": "https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors",
+          "id": "https://shows.banklesshq.com/p/117-jim",
           "author": "Ryan Sean Adams",
           "description": "Listen now (86 min) | Learn from a Master about Overcoming FOMO and FUD",
-          "link": "https://shows.banklesshq.com/p/117-timeless-wisdom-for-crypto-investors",
+          "link": "https://shows.banklesshq.com/p/117-jim",
           "publishedOn": "2022-05-07T10:44:13.000Z",
           "wordCount": null,
           "title": "117 - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/E4K-b7k9jf4",
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7123182a-29b4-4e27-a935-d38df83d38d5_2668x1501.jpeg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/E4K-b7k9jf4"
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7123182a-29b4-4e27-a935-d38df83d38d5_2668x1501.jpeg"
         },
         {
           "id": "https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ffcda52e-022b-4a3d-8873-d8b941a23a0d_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-elon-musk-buys-twitter-85",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (97 min) | 2nd Week of April, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-elon-musk-buys-twitter-85",
-          "publishedOn": "2022-04-15T21:26:24.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Elon Musk Buys Twitter?! | 8.5% Inflation | Tax Week | Epic Games Building the Metaverse",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/y3VNJkxnNZs",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/y3VNJkxnNZs"
         }
       ]
     }
