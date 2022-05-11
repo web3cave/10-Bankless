@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-10T06:27:15.641Z</id>
+    <id>urn:2022-05-11T06:30:58.280Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-10T06:27:15.641Z</updated>
+    <updated>2022-05-11T06:30:58.280Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Playing the Frontier Meta-Game, w/ Fiskantes | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta</id>
+        <link href="https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta"/>
+        <updated>2022-05-10T12:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (64 min) | The frontier is where the magic happens.]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy]]></title>
         <id>https://shows.banklesshq.com/p/117-jim-debrief</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/114-vitalik-debrief"/>
         <updated>2022-04-18T04:50:23.000Z</updated>
         <summary type="html"><![CDATA[Listen now (22 min) | Debriefing the Episode with Vitalik]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[114 - In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
-        <id>https://shows.banklesshq.com/p/114-vitalik</id>
-        <link href="https://shows.banklesshq.com/p/114-vitalik"/>
-        <updated>2022-04-16T20:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (98 min) | Green Tea, Red Wine, and the Merits of Toxicity]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
