@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T06:30:58.280Z</id>
+    <id>urn:2022-05-12T06:29:52.664Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-11T06:30:58.280Z</updated>
+    <updated>2022-05-12T06:29:52.664Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[118 - Should We Be Scared Right Now? | Raoul Pal]]></title>
+        <id>https://shows.banklesshq.com/p/118-should-we-be-scared-right-now</id>
+        <link href="https://shows.banklesshq.com/p/118-should-we-be-scared-right-now"/>
+        <updated>2022-05-11T17:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (90 min) | UST Meltdown, Macro Concerns, and Trading the Chaos]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Betting the Fund on the Merge | Hal Press, North Rock Digital]]></title>
+        <id>https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal</id>
+        <link href="https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal"/>
+        <updated>2022-05-11T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (94 min) | Will we Merge in August?!]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playing the Frontier Meta-Game, w/ Fiskantes | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta</id>
@@ -180,27 +200,7 @@
         <id>https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility</id>
         <link href="https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility"/>
         <updated>2022-04-20T08:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (76 min) | Are Moonbirds the Next Blue-Chip NFT Project?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[115 - The Stagflation Mega-Trade | Dan Morehead]]></title>
-        <id>https://shows.banklesshq.com/p/115-the-stagflation-mega-trade-dan-morehead</id>
-        <link href="https://shows.banklesshq.com/p/115-the-stagflation-mega-trade-dan-morehead"/>
-        <updated>2022-04-20T05:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (88 min) | How to prepare before it's too late]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - In Defense of Bitcoin Maximalism | Vitalik Buterin]]></title>
-        <id>https://shows.banklesshq.com/p/114-vitalik-debrief</id>
-        <link href="https://shows.banklesshq.com/p/114-vitalik-debrief"/>
-        <updated>2022-04-18T04:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (22 min) | Debriefing the Episode with Vitalik]]></summary>
+        <summary type="html"><![CDATA[Listen now | Are Moonbirds the Next Blue-Chip NFT Project?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

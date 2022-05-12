@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/118-should-we-be-scared-right-now",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (90 min) | UST Meltdown, Macro Concerns, and Trading the Chaos",
+          "link": "https://shows.banklesshq.com/p/118-should-we-be-scared-right-now",
+          "publishedOn": "2022-05-11T17:02:21.000Z",
+          "wordCount": null,
+          "title": "118 - Should We Be Scared Right Now? | Raoul Pal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/eab6235b-bfe5-4cc7-8ccc-1cc68802f2ab_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/eab6235b-bfe5-4cc7-8ccc-1cc68802f2ab_2668x1501.jpeg"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal",
+          "author": "David Hoffman",
+          "description": "Listen now (94 min) | Will we Merge in August?!",
+          "link": "https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal",
+          "publishedOn": "2022-05-11T13:00:52.000Z",
+          "wordCount": null,
+          "title": "Betting the Fund on the Merge | Hal Press, North Rock Digital",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/8ARp6GRzJ3A",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/8ARp6GRzJ3A"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta",
           "author": "David Hoffman",
           "description": "Listen now (64 min) | The frontier is where the magic happens.",
@@ -143,11 +175,11 @@
           "title": "Ethereum's Hollywood Moment | Camila Russo",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/gw5hBPO7WO4",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/gw5hBPO7WO4",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/gw5hBPO7WO4"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/gw5hBPO7WO4"
         },
         {
           "id": "https://shows.banklesshq.com/p/ethereums-eternal-optimist-with-karl",
@@ -159,11 +191,11 @@
           "title": "Ethereum's Eternal Optimist with Karl Floersch | Layer Zero",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/60F2wtjZO5M",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/60F2wtjZO5M",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/60F2wtjZO5M"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/60F2wtjZO5M"
         },
         {
           "id": "https://shows.banklesshq.com/p/116-ethan-debrief",
@@ -175,11 +207,11 @@
           "title": "Debrief - Why Bankless is Wrong | Ethan Buchman",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/ap6LTL3MRXE",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/ap6LTL3MRXE",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ap6LTL3MRXE"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/ap6LTL3MRXE"
         },
         {
           "id": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman",
@@ -207,11 +239,11 @@
           "title": "ROLLUP: Elon Buys Twitter | Free Speech | Optimism Airdrop | Moonbirds NFTs | OpenSea Gem",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/diQUMdCOW34",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/diQUMdCOW34",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/diQUMdCOW34"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/diQUMdCOW34"
         },
         {
           "id": "https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop",
@@ -223,11 +255,11 @@
           "title": "The Optimism Collective & $OP Airdrop #1",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/bKVIfJIhS1o",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/bKVIfJIhS1o",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/bKVIfJIhS1o"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/bKVIfJIhS1o"
         },
         {
           "id": "https://shows.banklesshq.com/p/the-explorer-mindset-with-simona",
@@ -239,11 +271,11 @@
           "title": "The Explorer Mindset with Simona Pop | Layer Zero",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/ggcEq9H-ykU",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/ggcEq9H-ykU",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/ggcEq9H-ykU"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/ggcEq9H-ykU"
         },
         {
           "id": "https://shows.banklesshq.com/p/debrief-the-stagflation-mega-trade",
@@ -255,11 +287,11 @@
           "title": "Debrief - The Stagflation Mega-Trade | Dan Morehead",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/pbsDvza3Enk",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/pbsDvza3Enk",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/pbsDvza3Enk"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/pbsDvza3Enk"
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token",
@@ -271,16 +303,16 @@
           "title": "ROLLUP: Merge Alpha | Optimism Token?! | Ethereum Foundation Report | Coinbase NFT Beta | Beanstalk Exploit",
           "itunes": {},
           "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/zzWrlIKuYJc",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/zzWrlIKuYJc",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/zzWrlIKuYJc"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/zzWrlIKuYJc"
         },
         {
           "id": "https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (76 min) | Are Moonbirds the Next Blue-Chip NFT Project?",
+          "description": "Listen now | Are Moonbirds the Next Blue-Chip NFT Project?",
           "link": "https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility",
           "publishedOn": "2022-04-20T08:36:30.000Z",
           "wordCount": null,
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/6RAFSFowZSk"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/115-the-stagflation-mega-trade-dan-morehead",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (88 min) | How to prepare before it's too late",
-          "link": "https://shows.banklesshq.com/p/115-the-stagflation-mega-trade-dan-morehead",
-          "publishedOn": "2022-04-20T05:39:50.000Z",
-          "wordCount": null,
-          "title": "115 - The Stagflation Mega-Trade | Dan Morehead",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1a9ac5a7-a7f8-4e81-b5af-f52826ecd874_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1a9ac5a7-a7f8-4e81-b5af-f52826ecd874_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/114-vitalik-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (22 min) | Debriefing the Episode with Vitalik",
-          "link": "https://shows.banklesshq.com/p/114-vitalik-debrief",
-          "publishedOn": "2022-04-18T04:50:23.000Z",
-          "wordCount": null,
-          "title": "Debrief - In Defense of Bitcoin Maximalism | Vitalik Buterin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/youtube/w_728,c_limit/OENLgUm5EZY",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/OENLgUm5EZY"
         }
       ]
     }
