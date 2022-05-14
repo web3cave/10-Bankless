@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T06:30:31.528Z</id>
+    <id>urn:2022-05-14T06:40:50.021Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-13T06:30:31.528Z</updated>
+    <updated>2022-05-14T06:40:50.021Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Crypto Bear Market? UST Luna Collapse. Instagram NFTs. Coinbase Bankruptcy? Bankless Youtube Ban.]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-crypto-bear-market-ust-luna</id>
+        <link href="https://shows.banklesshq.com/p/rollup-crypto-bear-market-ust-luna"/>
+        <updated>2022-05-13T15:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 2nd Week of May, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UST Luna - The Biggest COLLAPSE in Crypto History]]></title>
+        <id>https://shows.banklesshq.com/p/ust-luna-the-biggest-collapse-in</id>
+        <link href="https://shows.banklesshq.com/p/ust-luna-the-biggest-collapse-in"/>
+        <updated>2022-05-13T06:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (47 min) | What happened? And what are the consequences?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[118 - Should We Be Scared Right Now? | Raoul Pal]]></title>
         <id>https://shows.banklesshq.com/p/118-should-we-be-scared-right-now</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-the-stagflation-mega-trade"/>
         <updated>2022-04-25T10:30:34.000Z</updated>
         <summary type="html"><![CDATA[Listen now (20 min) | Debriefing the Episode with Dan]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Merge Alpha | Optimism Token?! | Ethereum Foundation Report | Coinbase NFT Beta | Beanstalk Exploit]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token</id>
-        <link href="https://shows.banklesshq.com/p/rollup-merge-alpha-optimism-token"/>
-        <updated>2022-04-22T11:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | 3rd Week of April, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonbirds and the Future of Utility NFTs | Kevin Rose]]></title>
-        <id>https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility</id>
-        <link href="https://shows.banklesshq.com/p/moonbirds-and-the-future-of-utility"/>
-        <updated>2022-04-20T08:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Are Moonbirds the Next Blue-Chip NFT Project?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
