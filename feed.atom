@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-14T06:40:50.021Z</id>
+    <id>urn:2022-05-15T06:27:28.990Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-14T06:40:50.021Z</updated>
+    <updated>2022-05-15T06:27:28.990Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthony Sassano & Eric Conner | Luna Demise, Bear Survival, Bullish ETH Merge]]></title>
+        <id>https://shows.banklesshq.com/p/anthony-sassano-and-eric-conner-luna</id>
+        <link href="https://shows.banklesshq.com/p/anthony-sassano-and-eric-conner-luna"/>
+        <updated>2022-05-14T16:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (70 min) | The Daily Gwei x Bankless occasional Friday livestream]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Crypto Bear Market? UST Luna Collapse. Instagram NFTs. Coinbase Bankruptcy? Bankless Youtube Ban.]]></title>
         <id>https://shows.banklesshq.com/p/rollup-crypto-bear-market-ust-luna</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (61 min) | Rivers, DAO Governance, and the Romanian Revolution]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - The Stagflation Mega-Trade | Dan Morehead]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-the-stagflation-mega-trade</id>
-        <link href="https://shows.banklesshq.com/p/debrief-the-stagflation-mega-trade"/>
-        <updated>2022-04-25T10:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (20 min) | Debriefing the Episode with Dan]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
