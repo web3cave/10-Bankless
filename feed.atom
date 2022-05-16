@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T06:27:28.990Z</id>
+    <id>urn:2022-05-16T06:31:39.380Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-15T06:27:28.990Z</updated>
+    <updated>2022-05-16T06:31:39.380Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -37,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[118 - Should We Be Scared Right Now? | Raoul Pal]]></title>
-        <id>https://shows.banklesshq.com/p/118-should-we-be-scared-right-now</id>
-        <link href="https://shows.banklesshq.com/p/118-should-we-be-scared-right-now"/>
+        <id>https://shows.banklesshq.com/p/118-raoul</id>
+        <link href="https://shows.banklesshq.com/p/118-raoul"/>
         <updated>2022-05-11T17:02:21.000Z</updated>
         <summary type="html"><![CDATA[Listen now (90 min) | UST Meltdown, Macro Concerns, and Trading the Chaos]]></summary>
         <author>
