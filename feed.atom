@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-16T06:31:39.380Z</id>
+    <id>urn:2022-05-17T06:28:06.219Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-16T06:31:39.380Z</updated>
+    <updated>2022-05-17T06:28:06.219Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Dive into Danksharding | Vitalik, Dankrad, Protolambda, Moderated by Tim Beiko]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-dive-into-danksharding</id>
+        <link href="https://shows.banklesshq.com/p/early-access-dive-into-danksharding"/>
+        <updated>2022-05-16T22:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (63 min) | The dankest technical details behind sharding]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Raoul Pal | Should We Be Scared Right Now?]]></title>
+        <id>https://shows.banklesshq.com/p/118-raoul-debrief</id>
+        <link href="https://shows.banklesshq.com/p/118-raoul-debrief"/>
+        <updated>2022-05-16T10:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Debriefing the episode with Raoul]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthony Sassano & Eric Conner | Luna Demise, Bear Survival, Bullish ETH Merge]]></title>
         <id>https://shows.banklesshq.com/p/anthony-sassano-and-eric-conner-luna</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now (74 min) | Last Week of April, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Optimism Collective & $OP Airdrop #1]]></title>
-        <id>https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop</id>
-        <link href="https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop"/>
-        <updated>2022-04-27T10:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (76 min) | The Optimism Team Gives Us The Deets]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Explorer Mindset with Simona Pop | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/the-explorer-mindset-with-simona</id>
-        <link href="https://shows.banklesshq.com/p/the-explorer-mindset-with-simona"/>
-        <updated>2022-04-26T08:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (61 min) | Rivers, DAO Governance, and the Romanian Revolution]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

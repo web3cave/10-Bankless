@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-dive-into-danksharding",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (63 min) | The dankest technical details behind sharding",
+          "link": "https://shows.banklesshq.com/p/early-access-dive-into-danksharding",
+          "publishedOn": "2022-05-16T22:28:55.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Dive into Danksharding | Vitalik, Dankrad, Protolambda, Moderated by Tim Beiko",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/N5p0TB77flM",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/N5p0TB77flM"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/118-raoul-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | Debriefing the episode with Raoul",
+          "link": "https://shows.banklesshq.com/p/118-raoul-debrief",
+          "publishedOn": "2022-05-16T10:30:32.000Z",
+          "wordCount": null,
+          "title": "Debrief - Raoul Pal | Should We Be Scared Right Now?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/df2d247f-2575-4ba0-8a4f-e95f3c94f00f_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/df2d247f-2575-4ba0-8a4f-e95f3c94f00f_2668x1501.jpeg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/anthony-sassano-and-eric-conner-luna",
           "author": "David Hoffman",
           "description": "Listen now (70 min) | The Daily Gwei x Bankless occasional Friday livestream",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/diQUMdCOW34"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (76 min) | The Optimism Team Gives Us The Deets",
-          "link": "https://shows.banklesshq.com/p/the-optimism-collective-and-op-airdrop",
-          "publishedOn": "2022-04-27T10:30:43.000Z",
-          "wordCount": null,
-          "title": "The Optimism Collective & $OP Airdrop #1",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/bKVIfJIhS1o",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/bKVIfJIhS1o"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-explorer-mindset-with-simona",
-          "author": "David Hoffman",
-          "description": "Listen now (61 min) | Rivers, DAO Governance, and the Romanian Revolution",
-          "link": "https://shows.banklesshq.com/p/the-explorer-mindset-with-simona",
-          "publishedOn": "2022-04-26T08:39:31.000Z",
-          "wordCount": null,
-          "title": "The Explorer Mindset with Simona Pop | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/ggcEq9H-ykU",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/ggcEq9H-ykU"
         }
       ]
     }
