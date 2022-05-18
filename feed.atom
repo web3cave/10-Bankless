@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T06:28:06.219Z</id>
+    <id>urn:2022-05-18T06:28:06.995Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-17T06:28:06.219Z</updated>
+    <updated>2022-05-18T06:28:06.995Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Instagram Bringing NFTs to 2.9B People | Sandeep & Mihailo, Polygon]]></title>
+        <id>https://shows.banklesshq.com/p/instagram-bringing-nfts-to-29b-people</id>
+        <link href="https://shows.banklesshq.com/p/instagram-bringing-nfts-to-29b-people"/>
+        <updated>2022-05-17T18:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (57 min) | The web3-ization of web2 is coming rapidly]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Astrological Crypto Maven with Maren Altman | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/the-astrological-crypto-maven-with</id>
+        <link href="https://shows.banklesshq.com/p/the-astrological-crypto-maven-with"/>
+        <updated>2022-05-17T10:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Predicting the unpredictable]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EARLY ACCESS - Dive into Danksharding | Vitalik, Dankrad, Protolambda, Moderated by Tim Beiko]]></title>
         <id>https://shows.banklesshq.com/p/early-access-dive-into-danksharding</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/116-ethan-debrief"/>
         <updated>2022-05-02T09:56:48.000Z</updated>
         <summary type="html"><![CDATA[Listen now (24 min) | Debriefing the Episode with Ethan]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos]]></title>
-        <id>https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman</id>
-        <link href="https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman"/>
-        <updated>2022-04-30T21:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (109 min) | Empires vs City-States]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Elon Buys Twitter | Free Speech | Optimism Airdrop | Moonbirds NFTs | OpenSea Gem]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-elon-buys-twitter-free-speech</id>
-        <link href="https://shows.banklesshq.com/p/rollup-elon-buys-twitter-free-speech"/>
-        <updated>2022-04-29T10:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | Last Week of April, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
