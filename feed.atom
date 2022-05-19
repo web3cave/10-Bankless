@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T06:28:06.995Z</id>
+    <id>urn:2022-05-19T06:29:14.057Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-18T06:28:06.995Z</updated>
+    <updated>2022-05-19T06:29:14.057Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alpha Leak | The Bull Case for Lyra]]></title>
+        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-lyra</id>
+        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-lyra"/>
+        <updated>2022-05-18T16:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (29 min) | On-chain options trading is right around the corner]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instagram Bringing NFTs to 2.9B People | Sandeep & Mihailo, Polygon]]></title>
         <id>https://shows.banklesshq.com/p/instagram-bringing-nfts-to-29b-people</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (74 min) | Ether's Phoenix and Incentivizing a Better Humanity]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Why Bankless is Wrong | Ethan Buchman]]></title>
-        <id>https://shows.banklesshq.com/p/116-ethan-debrief</id>
-        <link href="https://shows.banklesshq.com/p/116-ethan-debrief"/>
-        <updated>2022-05-02T09:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (24 min) | Debriefing the Episode with Ethan]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
