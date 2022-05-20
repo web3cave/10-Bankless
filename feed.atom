@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T06:29:14.057Z</id>
+    <id>urn:2022-05-20T06:27:42.944Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-19T06:29:14.057Z</updated>
+    <updated>2022-05-20T06:27:42.944Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robinhood's Crypto Pivot with Vlad Tenev, Co-Founder, CEO]]></title>
+        <id>https://shows.banklesshq.com/p/robinhoods-crypto-pivot-with-vlad</id>
+        <link href="https://shows.banklesshq.com/p/robinhoods-crypto-pivot-with-vlad"/>
+        <updated>2022-05-19T18:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (31 min) | Who? What? When?!]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alpha Leak | The Bull Case for Lyra]]></title>
         <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-lyra</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (42 min) | Web3 Hollywood is Happening, but Wen Movie?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum's Eternal Optimist with Karl Floersch | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/ethereums-eternal-optimist-with-karl</id>
-        <link href="https://shows.banklesshq.com/p/ethereums-eternal-optimist-with-karl"/>
-        <updated>2022-05-03T09:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | Ether's Phoenix and Incentivizing a Better Humanity]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
