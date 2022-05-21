@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T06:27:42.944Z</id>
+    <id>urn:2022-05-21T06:27:49.084Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-20T06:27:42.944Z</updated>
+    <updated>2022-05-21T06:27:49.084Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: 1st In-Person WRU | Permissionless 2022 | Web3 Social | Staking & Wallet Wars]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-1st-in-person-wru-permissionless</id>
+        <link href="https://shows.banklesshq.com/p/rollup-1st-in-person-wru-permissionless"/>
+        <updated>2022-05-20T10:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (53 min) | 2rd Week of May, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robinhood's Crypto Pivot with Vlad Tenev, Co-Founder, CEO]]></title>
         <id>https://shows.banklesshq.com/p/robinhoods-crypto-pivot-with-vlad</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity"/>
         <updated>2022-05-04T18:36:50.000Z</updated>
         <summary type="html"><![CDATA[Listen now (68 min) | Start preparing now]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum's Hollywood Moment | Camila Russo]]></title>
-        <id>https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila</id>
-        <link href="https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila"/>
-        <updated>2022-05-04T08:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (42 min) | Web3 Hollywood is Happening, but Wen Movie?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

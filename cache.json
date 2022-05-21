@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-1st-in-person-wru-permissionless",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (53 min) | 2rd Week of May, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-1st-in-person-wru-permissionless",
+          "publishedOn": "2022-05-20T10:30:38.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: 1st In-Person WRU | Permissionless 2022 | Web3 Social | Staking & Wallet Wars",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/2eN_aVkIs94",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/2eN_aVkIs94"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/robinhoods-crypto-pivot-with-vlad",
           "author": "Ryan Sean Adams",
           "description": "Listen now (31 min) | Who? What? When?!",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/HMFxgTbY_9Y"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (42 min) | Web3 Hollywood is Happening, but Wen Movie?",
-          "link": "https://shows.banklesshq.com/p/ethereums-hollywood-moment-camila",
-          "publishedOn": "2022-05-04T08:24:22.000Z",
-          "wordCount": null,
-          "title": "Ethereum's Hollywood Moment | Camila Russo",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/gw5hBPO7WO4",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/gw5hBPO7WO4"
         }
       ]
     }
