@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T06:28:11.090Z</id>
+    <id>urn:2022-05-26T06:27:51.928Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-25T06:28:11.090Z</updated>
+    <updated>2022-05-26T06:27:51.929Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Immutable Live Reveal: Scaling NFTs to a Billion Players with L2/L3]]></title>
+        <id>https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts</id>
+        <link href="https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts"/>
+        <updated>2022-05-25T10:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (52 min) | GameFi just got more bullish]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: 1st In-Person WRU | Permissionless 2022 | Web3 Social | Staking & Wallet Wars]]></title>
         <id>https://shows.banklesshq.com/p/rollup-1st-in-person-wru-permissionless</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity-619"/>
         <updated>2022-05-05T10:30:30.000Z</updated>
         <summary type="html"><![CDATA[Listen now (56 min) | How to capitalize]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trillion Dollar L2 Opportunity | Part One]]></title>
-        <id>https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity</id>
-        <link href="https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity"/>
-        <updated>2022-05-04T18:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (68 min) | Start preparing now]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

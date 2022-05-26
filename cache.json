@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (52 min) | GameFi just got more bullish",
+          "link": "https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts",
+          "publishedOn": "2022-05-25T10:30:57.000Z",
+          "wordCount": null,
+          "title": "Immutable Live Reveal: Scaling NFTs to a Billion Players with L2/L3",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/scIzP2CU788",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/scIzP2CU788"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-1st-in-person-wru-permissionless",
           "author": "Ryan Sean Adams",
           "description": "Listen now (53 min) | 2rd Week of May, 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/fHOAq67ESnw"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (68 min) | Start preparing now",
-          "link": "https://shows.banklesshq.com/p/the-trillion-dollar-l2-opportunity",
-          "publishedOn": "2022-05-04T18:36:50.000Z",
-          "wordCount": null,
-          "title": "The Trillion Dollar L2 Opportunity | Part One",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/HMFxgTbY_9Y",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/HMFxgTbY_9Y"
         }
       ]
     }
