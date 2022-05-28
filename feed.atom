@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T06:28:35.887Z</id>
+    <id>urn:2022-05-28T06:27:26.321Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-27T06:28:35.887Z</updated>
+    <updated>2022-05-28T06:27:26.321Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Build the Dip | GameStop Wallet | Terra Relaunch | PoolTogether Lawsuit - Mint a Pooly]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet</id>
+        <link href="https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet"/>
+        <updated>2022-05-27T10:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (84 min) | 4th Week of May, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z]]></title>
         <id>https://shows.banklesshq.com/p/120-reinventing-the-internet-marc</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (48 min) | Layer 2 Airdrop Szn and the Bridge Wars]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Crypto Dead? Fed Crashes Markets. Bored Ape Land Mint. Hop Airdrop. Solana Down.]]></title>
-        <id>https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets</id>
-        <link href="https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets"/>
-        <updated>2022-05-06T10:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | 1st Week of May, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>

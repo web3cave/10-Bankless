@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (84 min) | 4th Week of May, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet",
+          "publishedOn": "2022-05-27T10:30:31.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Build the Dip | GameStop Wallet | Terra Relaunch | PoolTogether Lawsuit - Mint a Pooly",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/7LVSc-F96Zk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/7LVSc-F96Zk"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/120-reinventing-the-internet-marc",
           "author": "Ryan Sean Adams",
           "description": "Listen now (91 min) | This episode will break the internet... or fix it.",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TCzcuRK3RNk"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (77 min) | 1st Week of May, 2022",
-          "link": "https://shows.banklesshq.com/p/is-crypto-dead-fed-crashes-markets",
-          "publishedOn": "2022-05-06T10:32:59.000Z",
-          "wordCount": null,
-          "title": "Is Crypto Dead? Fed Crashes Markets. Bored Ape Land Mint. Hop Airdrop. Solana Down.",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/BqfVdE7cyXQ",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/BqfVdE7cyXQ"
         }
       ]
     }
