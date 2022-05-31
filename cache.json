@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/120-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (27 min) | Debriefing the episode with Marc and Chris",
+          "link": "https://shows.banklesshq.com/p/120-debrief",
+          "publishedOn": "2022-05-30T10:07:16.000Z",
+          "wordCount": null,
+          "title": "Debrief - Reinventing the Internet | a16z's Marc Andreessen & Chris Dixon",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/zxGLFA4ByqU",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/zxGLFA4ByqU"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet",
           "author": "Ryan Sean Adams",
           "description": "Listen now (84 min) | 4th Week of May, 2022",
@@ -31,11 +47,11 @@
           "title": "120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/RXHITeaGB8Q",
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07471a04-dc9c-4f6f-b98d-4497f812a599_2668x1501.jpeg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/RXHITeaGB8Q"
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07471a04-dc9c-4f6f-b98d-4497f812a599_2668x1501.jpeg"
         },
         {
           "id": "https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7123182a-29b4-4e27-a935-d38df83d38d5_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch",
-          "author": "David Hoffman",
-          "description": "Listen now (48 min) | Layer 2 Airdrop Szn and the Bridge Wars",
-          "link": "https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch",
-          "publishedOn": "2022-05-07T10:26:11.000Z",
-          "wordCount": null,
-          "title": "Hop Protocol AIRDROP and DAO Launch! 🟣_🟣",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/TCzcuRK3RNk",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TCzcuRK3RNk"
         }
       ]
     }

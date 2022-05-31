@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T06:32:16.692Z</id>
+    <id>urn:2022-05-31T06:27:30.328Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-30T06:32:16.692Z</updated>
+    <updated>2022-05-31T06:27:30.328Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Reinventing the Internet | a16z's Marc Andreessen & Chris Dixon]]></title>
+        <id>https://shows.banklesshq.com/p/120-debrief</id>
+        <link href="https://shows.banklesshq.com/p/120-debrief"/>
+        <updated>2022-05-30T10:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the episode with Marc and Chris]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Build the Dip | GameStop Wallet | Terra Relaunch | PoolTogether Lawsuit - Mint a Pooly]]></title>
         <id>https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (86 min) | Learn from a Master about Overcoming FOMO and FUD]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hop Protocol AIRDROP and DAO Launch! 🟣_🟣]]></title>
-        <id>https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch</id>
-        <link href="https://shows.banklesshq.com/p/hop-protocol-airdrop-and-dao-launch"/>
-        <updated>2022-05-07T10:26:11.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (48 min) | Layer 2 Airdrop Szn and the Bridge Wars]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
