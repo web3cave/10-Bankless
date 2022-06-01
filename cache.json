@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-alfalfa-podcast-layer-zero",
+          "author": "David Hoffman",
+          "description": "Listen now (102 min) | Investing Alpha from Nick Urbani, Arman Assadi, Stephen Cesaro, and Eric Johanson",
+          "link": "https://shows.banklesshq.com/p/the-alfalfa-podcast-layer-zero",
+          "publishedOn": "2022-05-31T11:30:39.000Z",
+          "wordCount": null,
+          "title": "The Alfalfa Podcast | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/xTemqnUQ7nE",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/xTemqnUQ7nE"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/120-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (27 min) | Debriefing the episode with Marc and Chris",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/eJbutkNWDXE"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/117-jim",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (86 min) | Learn from a Master about Overcoming FOMO and FUD",
-          "link": "https://shows.banklesshq.com/p/117-jim",
-          "publishedOn": "2022-05-07T10:44:13.000Z",
-          "wordCount": null,
-          "title": "117 - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7123182a-29b4-4e27-a935-d38df83d38d5_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7123182a-29b4-4e27-a935-d38df83d38d5_2668x1501.jpeg"
         }
       ]
     }
