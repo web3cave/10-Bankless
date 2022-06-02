@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T06:31:41.286Z</id>
+    <id>urn:2022-06-02T06:29:52.164Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-01T06:31:41.286Z</updated>
+    <updated>2022-06-02T06:29:52.164Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital]]></title>
+        <id>https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon</id>
+        <link href="https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon"/>
+        <updated>2022-06-01T10:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (66 min) | Everything you need to know]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Alfalfa Podcast | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/the-alfalfa-podcast-layer-zero</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the episode with Jim]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 10k ENS Club with 713.eth & 562.eth | Alpha Leak]]></title>
-        <id>https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and</id>
-        <link href="https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and"/>
-        <updated>2022-05-08T23:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (40 min) | An ENS Club to keep eyes on]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

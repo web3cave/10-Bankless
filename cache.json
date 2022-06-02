@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon",
+          "author": "David Hoffman",
+          "description": "Listen now (66 min) | Everything you need to know",
+          "link": "https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon",
+          "publishedOn": "2022-06-01T10:30:37.000Z",
+          "wordCount": null,
+          "title": "Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/xuLyZaty9iI",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/xuLyZaty9iI"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-alfalfa-podcast-layer-zero",
           "author": "David Hoffman",
           "description": "Listen now (102 min) | Investing Alpha from Nick Urbani, Arman Assadi, Stephen Cesaro, and Eric Johanson",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/wX8-KH_39JU"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and",
-          "author": "David Hoffman",
-          "description": "Listen now (40 min) | An ENS Club to keep eyes on",
-          "link": "https://shows.banklesshq.com/p/the-10k-ens-club-with-713eth-and",
-          "publishedOn": "2022-05-08T23:09:47.000Z",
-          "wordCount": null,
-          "title": "The 10k ENS Club with 713.eth & 562.eth | Alpha Leak",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/eJbutkNWDXE",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/eJbutkNWDXE"
         }
       ]
     }
