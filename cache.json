@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (96 min) | Last Week of May, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op",
+          "publishedOn": "2022-06-03T09:20:25.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: OpenSea Arrest | Optimism OP Airdrop | Kanye West NFTs | OpenSea Arrest | Solana Halted | ETH 2.0 Merge | Velodrome",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/WBbo-jpXU0E",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/WBbo-jpXU0E"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon",
           "author": "David Hoffman",
           "description": "Listen now (66 min) | Everything you need to know",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/AxGv40TQ7dw"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/117-jim-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (29 min) | Debriefing the episode with Jim",
-          "link": "https://shows.banklesshq.com/p/117-jim-debrief",
-          "publishedOn": "2022-05-09T09:49:45.000Z",
-          "wordCount": null,
-          "title": "Debrief - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/wX8-KH_39JU",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/wX8-KH_39JU"
         }
       ]
     }

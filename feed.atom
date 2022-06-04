@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T06:25:58.931Z</id>
+    <id>urn:2022-06-04T06:24:35.159Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-03T06:25:58.931Z</updated>
+    <updated>2022-06-04T06:24:35.159Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: OpenSea Arrest | Optimism OP Airdrop | Kanye West NFTs | OpenSea Arrest | Solana Halted | ETH 2.0 Merge | Velodrome]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op</id>
+        <link href="https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op"/>
+        <updated>2022-06-03T09:20:25.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (96 min) | Last Week of May, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital]]></title>
         <id>https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (64 min) | The frontier is where the magic happens.]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Timeless Wisdom for Crypto Investors | Jim O'Shaughnessy]]></title>
-        <id>https://shows.banklesshq.com/p/117-jim-debrief</id>
-        <link href="https://shows.banklesshq.com/p/117-jim-debrief"/>
-        <updated>2022-05-09T09:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the episode with Jim]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
