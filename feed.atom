@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-06T06:27:01.455Z</id>
+    <id>urn:2022-06-07T06:25:52.107Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-06T06:27:01.455Z</updated>
+    <updated>2022-06-07T06:25:52.107Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[121 - The Bear Market Gift | Vance Spencer]]></title>
+        <id>https://shows.banklesshq.com/p/121-vance</id>
+        <link href="https://shows.banklesshq.com/p/121-vance"/>
+        <updated>2022-06-06T10:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (98 min) | The Bear Market Presents a Massive Opportunity]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - The Bear Market Gift | Vance Spencer]]></title>
+        <id>https://shows.banklesshq.com/p/121-debrief</id>
+        <link href="https://shows.banklesshq.com/p/121-debrief"/>
+        <updated>2022-06-06T10:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (32 min) | Debriefing the episode with vance]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: OpenSea Arrest | Optimism OP Airdrop | Kanye West NFTs | OpenSea Arrest | Solana Halted | ETH 2.0 Merge | Velodrome]]></title>
         <id>https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now (90 min) | UST Meltdown, Macro Concerns, and Trading the Chaos]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Betting the Fund on the Merge | Hal Press, North Rock Digital]]></title>
-        <id>https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal</id>
-        <link href="https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal"/>
-        <updated>2022-05-11T13:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (94 min) | Will we Merge in August?!]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing the Frontier Meta-Game, w/ Fiskantes | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta</id>
-        <link href="https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta"/>
-        <updated>2022-05-10T12:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (64 min) | The frontier is where the magic happens.]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

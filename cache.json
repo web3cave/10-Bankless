@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/121-vance",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (98 min) | The Bear Market Presents a Massive Opportunity",
+          "link": "https://shows.banklesshq.com/p/121-vance",
+          "publishedOn": "2022-06-06T10:27:31.000Z",
+          "wordCount": null,
+          "title": "121 - The Bear Market Gift | Vance Spencer",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/cIyxIYd8AzY",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/cIyxIYd8AzY"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/121-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (32 min) | Debriefing the episode with vance",
+          "link": "https://shows.banklesshq.com/p/121-debrief",
+          "publishedOn": "2022-06-06T10:21:59.000Z",
+          "wordCount": null,
+          "title": "Debrief - The Bear Market Gift | Vance Spencer",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/5KhVZxsf7OY",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/5KhVZxsf7OY"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op",
           "author": "Ryan Sean Adams",
           "description": "Listen now (96 min) | Last Week of May, 2022",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/nzGMSKbqjco"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal",
-          "author": "David Hoffman",
-          "description": "Listen now (94 min) | Will we Merge in August?!",
-          "link": "https://shows.banklesshq.com/p/betting-the-fund-on-the-merge-hal",
-          "publishedOn": "2022-05-11T13:00:52.000Z",
-          "wordCount": null,
-          "title": "Betting the Fund on the Merge | Hal Press, North Rock Digital",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/8ARp6GRzJ3A",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/8ARp6GRzJ3A"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta",
-          "author": "David Hoffman",
-          "description": "Listen now (64 min) | The frontier is where the magic happens.",
-          "link": "https://shows.banklesshq.com/p/fiskantes-predicts-the-next-meta",
-          "publishedOn": "2022-05-10T12:31:04.000Z",
-          "wordCount": null,
-          "title": "Playing the Frontier Meta-Game, w/ Fiskantes | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/AxGv40TQ7dw",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/AxGv40TQ7dw"
         }
       ]
     }
