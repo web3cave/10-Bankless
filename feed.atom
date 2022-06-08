@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-07T06:25:52.107Z</id>
+    <id>urn:2022-06-08T06:25:38.685Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-07T06:25:52.107Z</updated>
+    <updated>2022-06-08T06:25:38.685Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Superphiz | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/superphiz-layer-zero</id>
+        <link href="https://shows.banklesshq.com/p/superphiz-layer-zero"/>
+        <updated>2022-06-07T18:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (87 min) | How a Middle School Counselor is Keeping Ethereum Healthy]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[121 - The Bear Market Gift | Vance Spencer]]></title>
         <id>https://shows.banklesshq.com/p/121-vance</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/ust-luna-the-biggest-collapse-in"/>
         <updated>2022-05-13T06:48:13.000Z</updated>
         <summary type="html"><![CDATA[Listen now (47 min) | What happened? And what are the consequences?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[118 - Should We Be Scared Right Now? | Raoul Pal]]></title>
-        <id>https://shows.banklesshq.com/p/118-raoul</id>
-        <link href="https://shows.banklesshq.com/p/118-raoul"/>
-        <updated>2022-05-11T17:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (90 min) | UST Meltdown, Macro Concerns, and Trading the Chaos]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

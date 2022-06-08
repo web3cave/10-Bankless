@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/superphiz-layer-zero",
+          "author": "David Hoffman",
+          "description": "Listen now (87 min) | How a Middle School Counselor is Keeping Ethereum Healthy",
+          "link": "https://shows.banklesshq.com/p/superphiz-layer-zero",
+          "publishedOn": "2022-06-07T18:17:03.000Z",
+          "wordCount": null,
+          "title": "Superphiz | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/vnHA_Ds3qJI",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/vnHA_Ds3qJI"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/121-vance",
           "author": "Ryan Sean Adams",
           "description": "Listen now (98 min) | The Bear Market Presents a Massive Opportunity",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/FqW4-FGA9j4"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/118-raoul",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (90 min) | UST Meltdown, Macro Concerns, and Trading the Chaos",
-          "link": "https://shows.banklesshq.com/p/118-raoul",
-          "publishedOn": "2022-05-11T17:02:21.000Z",
-          "wordCount": null,
-          "title": "118 - Should We Be Scared Right Now? | Raoul Pal",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/nzGMSKbqjco",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/nzGMSKbqjco"
         }
       ]
     }
