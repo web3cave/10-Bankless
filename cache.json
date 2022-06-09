@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/soulbound-on-or-off-chain-vitalik",
+          "author": "David Hoffman",
+          "description": "Listen now (63 min) | What does decentralized, trustless, digital identity look like?",
+          "link": "https://shows.banklesshq.com/p/soulbound-on-or-off-chain-vitalik",
+          "publishedOn": "2022-06-08T07:35:59.000Z",
+          "wordCount": null,
+          "title": "Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/TbyVyVNsyys",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TbyVyVNsyys"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/superphiz-layer-zero",
           "author": "David Hoffman",
           "description": "Listen now (87 min) | How a Middle School Counselor is Keeping Ethereum Healthy",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/44288821-9757-41b8-880d-8eb6af049311_1280x720.png"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/ust-luna-the-biggest-collapse-in",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (47 min) | What happened? And what are the consequences?",
-          "link": "https://shows.banklesshq.com/p/ust-luna-the-biggest-collapse-in",
-          "publishedOn": "2022-05-13T06:48:13.000Z",
-          "wordCount": null,
-          "title": "UST Luna - The Biggest COLLAPSE in Crypto History",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/FqW4-FGA9j4",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/FqW4-FGA9j4"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T06:25:38.685Z</id>
+    <id>urn:2022-06-09T06:26:25.366Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-08T06:25:38.685Z</updated>
+    <updated>2022-06-09T06:26:25.366Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen]]></title>
+        <id>https://shows.banklesshq.com/p/soulbound-on-or-off-chain-vitalik</id>
+        <link href="https://shows.banklesshq.com/p/soulbound-on-or-off-chain-vitalik"/>
+        <updated>2022-06-08T07:35:59.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (63 min) | What does decentralized, trustless, digital identity look like?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superphiz | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/superphiz-layer-zero</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-crypto-bear-market-ust-luna"/>
         <updated>2022-05-13T15:26:01.000Z</updated>
         <summary type="html"><![CDATA[Listen now | 2nd Week of May, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UST Luna - The Biggest COLLAPSE in Crypto History]]></title>
-        <id>https://shows.banklesshq.com/p/ust-luna-the-biggest-collapse-in</id>
-        <link href="https://shows.banklesshq.com/p/ust-luna-the-biggest-collapse-in"/>
-        <updated>2022-05-13T06:48:13.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (47 min) | What happened? And what are the consequences?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
