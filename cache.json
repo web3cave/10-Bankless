@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-cryptos-bull-shark-kevin",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (38 min) | Converted and evangelizing crypto to the masses",
+          "link": "https://shows.banklesshq.com/p/early-access-cryptos-bull-shark-kevin",
+          "publishedOn": "2022-06-09T12:04:43.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Crypto's Bull Shark | Kevin O'Leary (Mr. Wonderful)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/mEsPtM8Z25U",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/mEsPtM8Z25U"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/ethereum-merge-updates-tim-beiko",
+          "author": "David Hoffman",
+          "description": "Listen now (61 min) | Wen Merge, Tim? Wen Merge?!",
+          "link": "https://shows.banklesshq.com/p/ethereum-merge-updates-tim-beiko",
+          "publishedOn": "2022-06-09T07:17:04.000Z",
+          "wordCount": null,
+          "title": "Ethereum Merge Updates! | Tim Beiko",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/pUA-HzIbWD0",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/pUA-HzIbWD0"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/soulbound-on-or-off-chain-vitalik",
           "author": "David Hoffman",
           "description": "Listen now (63 min) | What does decentralized, trustless, digital identity look like?",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/df2d247f-2575-4ba0-8a4f-e95f3c94f00f_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/anthony-sassano-and-eric-conner-luna",
-          "author": "David Hoffman",
-          "description": "Listen now (70 min) | The Daily Gwei x Bankless occasional Friday livestream",
-          "link": "https://shows.banklesshq.com/p/anthony-sassano-and-eric-conner-luna",
-          "publishedOn": "2022-05-14T16:48:49.000Z",
-          "wordCount": null,
-          "title": "Anthony Sassano & Eric Conner | Luna Demise, Bear Survival, Bullish ETH Merge",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/lHxVRuUHJoA",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/lHxVRuUHJoA"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-crypto-bear-market-ust-luna",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | 2nd Week of May, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-crypto-bear-market-ust-luna",
-          "publishedOn": "2022-05-13T15:26:01.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Crypto Bear Market? UST Luna Collapse. Instagram NFTs. Coinbase Bankruptcy? Bankless Youtube Ban.",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/44288821-9757-41b8-880d-8eb6af049311_1280x720.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/44288821-9757-41b8-880d-8eb6af049311_1280x720.png"
         }
       ]
     }
