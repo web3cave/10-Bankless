@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-12T06:25:27.791Z</id>
+    <id>urn:2022-06-13T06:27:59.834Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-12T06:25:27.791Z</updated>
+    <updated>2022-06-13T06:27:59.834Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Voltz Protocol | ALPHA LEAK with Simon Jones]]></title>
+        <id>https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon</id>
+        <link href="https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon"/>
+        <updated>2022-06-12T09:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (51 min) | Disrupting a Quadrillion Dollar Market]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Crypto Bill | OP Wintermute | Illuvium Land Sale | PayPal Crypto | ApeCoin Ethereum]]></title>
         <id>https://shows.banklesshq.com/p/rollup-crypto-bill-op-wintermute</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now | Predicting the unpredictable]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Dive into Danksharding | Vitalik, Dankrad, Protolambda, Moderated by Tim Beiko]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-dive-into-danksharding</id>
-        <link href="https://shows.banklesshq.com/p/early-access-dive-into-danksharding"/>
-        <updated>2022-05-16T22:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (63 min) | The dankest technical details behind sharding]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>

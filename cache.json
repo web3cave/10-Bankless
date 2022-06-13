@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon",
+          "author": "David Hoffman",
+          "description": "Listen now (51 min) | Disrupting a Quadrillion Dollar Market",
+          "link": "https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon",
+          "publishedOn": "2022-06-12T09:31:19.000Z",
+          "wordCount": null,
+          "title": "Voltz Protocol | ALPHA LEAK with Simon Jones",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1mp0etsGfOg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1mp0etsGfOg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-crypto-bill-op-wintermute",
           "author": "Ryan Sean Adams",
           "description": "Listen now (105 min) | 1st (Full) Week of June, 2022",
@@ -31,11 +47,11 @@
           "title": "EARLY ACCESS - Crypto's Bull Shark | Kevin O'Leary (Mr. Wonderful)",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/mEsPtM8Z25U",
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/efd773cd-d030-47af-ba50-0d1a7b7d5a68_2668x1501.jpeg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/mEsPtM8Z25U"
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/efd773cd-d030-47af-ba50-0d1a7b7d5a68_2668x1501.jpeg"
         },
         {
           "id": "https://shows.banklesshq.com/p/ethereum-merge-updates-tim-beiko",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/aVVnvrJvSok"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-dive-into-danksharding",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (63 min) | The dankest technical details behind sharding",
-          "link": "https://shows.banklesshq.com/p/early-access-dive-into-danksharding",
-          "publishedOn": "2022-05-16T22:28:55.000Z",
-          "wordCount": null,
-          "title": "EARLY ACCESS - Dive into Danksharding | Vitalik, Dankrad, Protolambda, Moderated by Tim Beiko",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/N5p0TB77flM",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/N5p0TB77flM"
         }
       ]
     }
