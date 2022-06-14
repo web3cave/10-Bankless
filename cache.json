@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/122-kevin-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | Debriefing the episode with Kevin",
+          "link": "https://shows.banklesshq.com/p/122-kevin-debrief",
+          "publishedOn": "2022-06-13T10:30:18.000Z",
+          "wordCount": null,
+          "title": "Debrief - Crypto's Bull Shark | Kevin O'Leary",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/_p4vDqkKe8Y",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/_p4vDqkKe8Y"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon",
           "author": "David Hoffman",
           "description": "Listen now (51 min) | Disrupting a Quadrillion Dollar Market",
@@ -38,13 +54,13 @@
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/iahLw7bUBVE"
         },
         {
-          "id": "https://shows.banklesshq.com/p/early-access-cryptos-bull-shark-kevin",
+          "id": "https://shows.banklesshq.com/p/122-kevin",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (38 min) | Converted and evangelizing crypto to the masses",
-          "link": "https://shows.banklesshq.com/p/early-access-cryptos-bull-shark-kevin",
+          "description": "Listen now | Converted and evangelizing crypto to the masses",
+          "link": "https://shows.banklesshq.com/p/122-kevin",
           "publishedOn": "2022-06-09T12:04:43.000Z",
           "wordCount": null,
-          "title": "EARLY ACCESS - Crypto's Bull Shark | Kevin O'Leary (Mr. Wonderful)",
+          "title": "122 - Crypto's Bull Shark | Kevin O'Leary (Mr. Wonderful)",
           "itunes": {},
           "enclosure": {
             "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/efd773cd-d030-47af-ba50-0d1a7b7d5a68_2668x1501.jpeg",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/5TBqnWVgui8"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-astrological-crypto-maven-with",
-          "author": "David Hoffman",
-          "description": "Listen now | Predicting the unpredictable",
-          "link": "https://shows.banklesshq.com/p/the-astrological-crypto-maven-with",
-          "publishedOn": "2022-05-17T10:30:43.000Z",
-          "wordCount": null,
-          "title": "The Astrological Crypto Maven with Maren Altman | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/aVVnvrJvSok",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/aVVnvrJvSok"
         }
       ]
     }
