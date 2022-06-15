@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T06:26:52.515Z</id>
+    <id>urn:2022-06-15T06:25:58.821Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-14T06:26:52.515Z</updated>
+    <updated>2022-06-15T06:25:58.821Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Luke Burgis | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/luke-burgis-layer-zero</id>
+        <link href="https://shows.banklesshq.com/p/luke-burgis-layer-zero"/>
+        <updated>2022-06-14T10:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (66 min) | Mimetically desiring since birth]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Crypto's Bull Shark | Kevin O'Leary]]></title>
         <id>https://shows.banklesshq.com/p/122-kevin-debrief</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (29 min) | On-chain options trading is right around the corner]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram Bringing NFTs to 2.9B People | Sandeep & Mihailo, Polygon]]></title>
-        <id>https://shows.banklesshq.com/p/instagram-bringing-nfts-to-29b-people</id>
-        <link href="https://shows.banklesshq.com/p/instagram-bringing-nfts-to-29b-people"/>
-        <updated>2022-05-17T18:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (57 min) | The web3-ization of web2 is coming rapidly]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
