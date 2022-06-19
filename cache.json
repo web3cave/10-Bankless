@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (85 min) | Musician-entrepreneurs dive into crypto",
+          "link": "https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers",
+          "publishedOn": "2022-06-18T10:42:13.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Investing in the Chainsmokers | Drew Taggart & Alex Pall",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/-1RDvZILIkw",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/-1RDvZILIkw"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/crypto-crash-celsius-insolvent-3ac",
           "author": "Ryan Sean Adams",
           "description": "Listen now (106 min) | 3rd Friday of June, 2022",
@@ -308,25 +324,9 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07471a04-dc9c-4f6f-b98d-4497f812a599_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (52 min) | GameFi just got more bullish",
-          "link": "https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts",
-          "publishedOn": "2022-05-25T10:30:57.000Z",
-          "wordCount": null,
-          "title": "Immutable Live Reveal: Scaling NFTs to a Billion Players with L2/L3",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/scIzP2CU788",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/scIzP2CU788"
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }

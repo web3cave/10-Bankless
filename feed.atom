@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T06:24:38.791Z</id>
+    <id>urn:2022-06-19T06:24:51.954Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-18T06:24:38.791Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T06:24:51.954Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Investing in the Chainsmokers | Drew Taggart & Alex Pall]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers</id>
+        <link href="https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers"/>
+        <updated>2022-06-18T10:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (85 min) | Musician-entrepreneurs dive into crypto]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Crypto Crash | Celsius Insolvent? | 3AC Su Zhu | Interest Rate Hike | Jack Dorsey Web5]]></title>
         <id>https://shows.banklesshq.com/p/crypto-crash-celsius-insolvent-3ac</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/120-reinventing-the-internet-marc"/>
         <updated>2022-05-26T16:07:04.000Z</updated>
         <summary type="html"><![CDATA[Listen now (91 min) | This episode will break the internet... or fix it.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immutable Live Reveal: Scaling NFTs to a Billion Players with L2/L3]]></title>
-        <id>https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts</id>
-        <link href="https://shows.banklesshq.com/p/immutable-live-reveal-scaling-nfts"/>
-        <updated>2022-05-25T10:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (52 min) | GameFi just got more bullish]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
