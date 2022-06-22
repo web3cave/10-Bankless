@@ -6,13 +6,45 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/monolithic-to-modular-daos-with-julz",
+          "author": "David Hoffman",
+          "description": "Listen now (63 min) | Warning: you may get pod-pilled",
+          "link": "https://shows.banklesshq.com/p/monolithic-to-modular-daos-with-julz",
+          "publishedOn": "2022-06-21T10:30:31.000Z",
+          "wordCount": null,
+          "title": "Monolithic to Modular DAOs with Julz Rosenburg | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/sJ7ZoVsyfwk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/sJ7ZoVsyfwk"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/123-the-chainsmokers-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (13 min) | Debriefing the episode with Drew & Alex",
+          "link": "https://shows.banklesshq.com/p/123-the-chainsmokers-debrief",
+          "publishedOn": "2022-06-20T10:30:26.000Z",
+          "wordCount": null,
+          "title": "Debrief - Investing in The Chainsmokers",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/mOzOF5eWHD0",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/mOzOF5eWHD0"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers",
           "author": "Ryan Sean Adams",
           "description": "Listen now (85 min) | Musician-entrepreneurs dive into crypto",
           "link": "https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers",
           "publishedOn": "2022-06-18T10:42:13.000Z",
           "wordCount": null,
-          "title": "EARLY ACCESS - Investing in the Chainsmokers | Drew Taggart & Alex Pall",
+          "title": "123 - Investing in the Chainsmokers | Drew Taggart & Alex Pall",
           "itunes": {},
           "enclosure": {
             "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7e64e64b-9252-4165-846f-a7c40adf2029_2668x1501.jpeg",
@@ -292,41 +324,9 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/zxGLFA4ByqU"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (84 min) | 4th Week of May, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet",
-          "publishedOn": "2022-05-27T10:30:31.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Build the Dip | GameStop Wallet | Terra Relaunch | PoolTogether Lawsuit - Mint a Pooly",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/7LVSc-F96Zk",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/7LVSc-F96Zk"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/120-reinventing-the-internet-marc",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (91 min) | This episode will break the internet... or fix it.",
-          "link": "https://shows.banklesshq.com/p/120-reinventing-the-internet-marc",
-          "publishedOn": "2022-05-26T16:07:04.000Z",
-          "wordCount": null,
-          "title": "120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07471a04-dc9c-4f6f-b98d-4497f812a599_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07471a04-dc9c-4f6f-b98d-4497f812a599_2668x1501.jpeg"
         }
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }

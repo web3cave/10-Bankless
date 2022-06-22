@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T06:29:17.324Z</id>
+    <id>urn:2022-06-22T06:26:00.061Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-20T06:29:17.324Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-22T06:26:00.061Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Investing in the Chainsmokers | Drew Taggart & Alex Pall]]></title>
+        <title type="html"><![CDATA[Monolithic to Modular DAOs with Julz Rosenburg | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/monolithic-to-modular-daos-with-julz</id>
+        <link href="https://shows.banklesshq.com/p/monolithic-to-modular-daos-with-julz"/>
+        <updated>2022-06-21T10:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (63 min) | Warning: you may get pod-pilled]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Investing in The Chainsmokers]]></title>
+        <id>https://shows.banklesshq.com/p/123-the-chainsmokers-debrief</id>
+        <link href="https://shows.banklesshq.com/p/123-the-chainsmokers-debrief"/>
+        <updated>2022-06-20T10:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (13 min) | Debriefing the episode with Drew & Alex]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[123 - Investing in the Chainsmokers | Drew Taggart & Alex Pall]]></title>
         <id>https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers</id>
         <link href="https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers"/>
         <updated>2022-06-18T10:42:13.000Z</updated>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/120-debrief"/>
         <updated>2022-05-30T10:07:16.000Z</updated>
         <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the episode with Marc and Chris]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Build the Dip | GameStop Wallet | Terra Relaunch | PoolTogether Lawsuit - Mint a Pooly]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet</id>
-        <link href="https://shows.banklesshq.com/p/rollup-build-the-dip-gamestop-wallet"/>
-        <updated>2022-05-27T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (84 min) | 4th Week of May, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z]]></title>
-        <id>https://shows.banklesshq.com/p/120-reinventing-the-internet-marc</id>
-        <link href="https://shows.banklesshq.com/p/120-reinventing-the-internet-marc"/>
-        <updated>2022-05-26T16:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (91 min) | This episode will break the internet... or fix it.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
