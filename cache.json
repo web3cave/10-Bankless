@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/124-is-mark-cuban-buying-the-bear",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (47 min) | How to approach the bear like a shark",
+          "link": "https://shows.banklesshq.com/p/124-is-mark-cuban-buying-the-bear",
+          "publishedOn": "2022-06-22T18:00:15.000Z",
+          "wordCount": null,
+          "title": "124 - Is Mark Cuban Buying the Bear?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/QlTCftAm6cs",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/QlTCftAm6cs"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/hayden-adams-on-uniswaps-announcement",
+          "author": "David Hoffman",
+          "description": "Listen now | Huge news out of Uniswap",
+          "link": "https://shows.banklesshq.com/p/hayden-adams-on-uniswaps-announcement",
+          "publishedOn": "2022-06-22T10:30:10.000Z",
+          "wordCount": null,
+          "title": "Hayden Adams on Uniswap's Announcement?! | State of the Nation",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/9fqJzS08pPc",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/9fqJzS08pPc"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/monolithic-to-modular-daos-with-julz",
           "author": "David Hoffman",
           "description": "Listen now (63 min) | Warning: you may get pod-pilled",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/xuLyZaty9iI"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-alfalfa-podcast-layer-zero",
-          "author": "David Hoffman",
-          "description": "Listen now (102 min) | Investing Alpha from Nick Urbani, Arman Assadi, Stephen Cesaro, and Eric Johanson",
-          "link": "https://shows.banklesshq.com/p/the-alfalfa-podcast-layer-zero",
-          "publishedOn": "2022-05-31T11:30:39.000Z",
-          "wordCount": null,
-          "title": "The Alfalfa Podcast | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/xTemqnUQ7nE",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/xTemqnUQ7nE"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/120-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (27 min) | Debriefing the episode with Marc and Chris",
-          "link": "https://shows.banklesshq.com/p/120-debrief",
-          "publishedOn": "2022-05-30T10:07:16.000Z",
-          "wordCount": null,
-          "title": "Debrief - Reinventing the Internet | a16z's Marc Andreessen & Chris Dixon",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/zxGLFA4ByqU",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/zxGLFA4ByqU"
         }
       ]
     }
