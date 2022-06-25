@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx",
+          "author": "David Hoffman",
+          "description": "Listen now (81 min) | 4th Friday of June, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx",
+          "publishedOn": "2022-06-24T10:30:07.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: 3AC Further Contagion | dYdX Leaves Ethereum | Huge Uniswap Acquisition",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/80da54ae-dbf8-456e-8a30-ffc238c0a42b_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/80da54ae-dbf8-456e-8a30-ffc238c0a42b_2668x1501.jpeg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/124-is-mark-cuban-buying-the-bear",
           "author": "Ryan Sean Adams",
           "description": "Listen now (47 min) | How to approach the bear like a shark",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/WBbo-jpXU0E"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon",
-          "author": "David Hoffman",
-          "description": "Listen now (66 min) | Everything you need to know",
-          "link": "https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon",
-          "publishedOn": "2022-06-01T10:30:37.000Z",
-          "wordCount": null,
-          "title": "Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/xuLyZaty9iI",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/xuLyZaty9iI"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T06:26:08.597Z</id>
+    <id>urn:2022-06-25T06:24:56.581Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-24T06:26:08.597Z</updated>
+    <updated>2022-06-25T06:24:56.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: 3AC Further Contagion | dYdX Leaves Ethereum | Huge Uniswap Acquisition]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx</id>
+        <link href="https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx"/>
+        <updated>2022-06-24T10:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (81 min) | 4th Friday of June, 2022]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[124 - Is Mark Cuban Buying the Bear?]]></title>
         <id>https://shows.banklesshq.com/p/124-is-mark-cuban-buying-the-bear</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (96 min) | Last Week of May, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital]]></title>
-        <id>https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon</id>
-        <link href="https://shows.banklesshq.com/p/guide-to-the-ethereum-roadmap-jon"/>
-        <updated>2022-06-01T10:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (66 min) | Everything you need to know]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
