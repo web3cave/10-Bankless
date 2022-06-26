@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-ethereums-hidden-power",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (88 min) | What happens post-merge?",
+          "link": "https://shows.banklesshq.com/p/early-access-ethereums-hidden-power",
+          "publishedOn": "2022-06-25T06:32:52.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Ethereum's Hidden Power Structures | Matt Cutler",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/ibeZFG_Wbmw",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/ibeZFG_Wbmw"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx",
           "author": "David Hoffman",
           "description": "Listen now (81 min) | 4th Friday of June, 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/5KhVZxsf7OY"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (96 min) | Last Week of May, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-opensea-arrest-optimism-op",
-          "publishedOn": "2022-06-03T09:20:25.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: OpenSea Arrest | Optimism OP Airdrop | Kanye West NFTs | OpenSea Arrest | Solana Halted | ETH 2.0 Merge | Velodrome",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/WBbo-jpXU0E",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/WBbo-jpXU0E"
         }
       ]
     }
