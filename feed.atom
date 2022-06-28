@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-27T06:30:11.972Z</id>
+    <id>urn:2022-06-28T06:27:16.826Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-27T06:30:11.972Z</updated>
+    <updated>2022-06-28T06:27:16.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Ethereum's Hidden Power Structures | Matt Cutler]]></title>
+        <title type="html"><![CDATA[125 - Ethereum's Hidden Power Structures | Matt Cutler]]></title>
         <id>https://shows.banklesshq.com/p/125-matt-cutler</id>
         <link href="https://shows.banklesshq.com/p/125-matt-cutler"/>
         <updated>2022-06-25T06:32:52.000Z</updated>
