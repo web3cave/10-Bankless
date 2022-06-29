@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T06:27:16.826Z</id>
+    <id>urn:2022-06-29T06:26:55.355Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-28T06:27:16.826Z</updated>
+    <updated>2022-06-29T06:26:55.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Resilient DeFi with Kirk Hutchison | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison</id>
+        <link href="https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison"/>
+        <updated>2022-06-28T16:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | Breaking down the current state of DeFi]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[125 - Ethereum's Hidden Power Structures | Matt Cutler]]></title>
         <id>https://shows.banklesshq.com/p/125-matt-cutler</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/121-vance"/>
         <updated>2022-06-06T10:27:31.000Z</updated>
         <summary type="html"><![CDATA[Listen now (98 min) | The Bear Market Presents a Massive Opportunity]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - The Bear Market Gift | Vance Spencer]]></title>
-        <id>https://shows.banklesshq.com/p/121-debrief</id>
-        <link href="https://shows.banklesshq.com/p/121-debrief"/>
-        <updated>2022-06-06T10:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (32 min) | Debriefing the episode with vance]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

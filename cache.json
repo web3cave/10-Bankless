@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison",
+          "author": "David Hoffman",
+          "description": "Listen now (77 min) | Breaking down the current state of DeFi",
+          "link": "https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison",
+          "publishedOn": "2022-06-28T16:43:44.000Z",
+          "wordCount": null,
+          "title": "Resilient DeFi with Kirk Hutchison | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/XptavIs8A9A",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/XptavIs8A9A"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/125-matt-cutler",
           "author": "Ryan Sean Adams",
           "description": "Listen now (88 min) | What happens post-merge?",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/cIyxIYd8AzY"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/121-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (32 min) | Debriefing the episode with vance",
-          "link": "https://shows.banklesshq.com/p/121-debrief",
-          "publishedOn": "2022-06-06T10:21:59.000Z",
-          "wordCount": null,
-          "title": "Debrief - The Bear Market Gift | Vance Spencer",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/5KhVZxsf7OY",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/5KhVZxsf7OY"
         }
       ]
     }
