@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T06:26:55.355Z</id>
+    <id>urn:2022-06-30T06:27:14.312Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-29T06:26:55.355Z</updated>
+    <updated>2022-06-30T06:27:14.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bear Market War Stories with DCinvestor & Eric Conner]]></title>
+        <id>https://shows.banklesshq.com/p/bear-market-war-stories-with-dcinvestor</id>
+        <link href="https://shows.banklesshq.com/p/bear-market-war-stories-with-dcinvestor"/>
+        <updated>2022-06-29T19:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | Lessons, advice, and vibes]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dYdX Abandoning Ethereum?! with Founder Antonio Juliano]]></title>
+        <id>https://shows.banklesshq.com/p/dydx-abandoning-ethereum-with-founder</id>
+        <link href="https://shows.banklesshq.com/p/dydx-abandoning-ethereum-with-founder"/>
+        <updated>2022-06-29T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (84 min) | The motivation behind a product-first approach]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resilient DeFi with Kirk Hutchison | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now (63 min) | What does decentralized, trustless, digital identity look like?]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superphiz | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/superphiz-layer-zero</id>
-        <link href="https://shows.banklesshq.com/p/superphiz-layer-zero"/>
-        <updated>2022-06-07T18:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (87 min) | How a Middle School Counselor is Keeping Ethereum Healthy]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[121 - The Bear Market Gift | Vance Spencer]]></title>
-        <id>https://shows.banklesshq.com/p/121-vance</id>
-        <link href="https://shows.banklesshq.com/p/121-vance"/>
-        <updated>2022-06-06T10:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (98 min) | The Bear Market Presents a Massive Opportunity]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>

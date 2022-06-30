@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/bear-market-war-stories-with-dcinvestor",
+          "author": "David Hoffman",
+          "description": "Listen now (76 min) | Lessons, advice, and vibes",
+          "link": "https://shows.banklesshq.com/p/bear-market-war-stories-with-dcinvestor",
+          "publishedOn": "2022-06-29T19:00:30.000Z",
+          "wordCount": null,
+          "title": "Bear Market War Stories with DCinvestor & Eric Conner",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/y6yU8Q-AGoo",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/y6yU8Q-AGoo"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/dydx-abandoning-ethereum-with-founder",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (84 min) | The motivation behind a product-first approach",
+          "link": "https://shows.banklesshq.com/p/dydx-abandoning-ethereum-with-founder",
+          "publishedOn": "2022-06-29T07:30:04.000Z",
+          "wordCount": null,
+          "title": "dYdX Abandoning Ethereum?! with Founder Antonio Juliano",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41434ab5-e246-4c6e-8ee7-334fb797733c_2024x1012.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41434ab5-e246-4c6e-8ee7-334fb797733c_2024x1012.png"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison",
           "author": "David Hoffman",
           "description": "Listen now (77 min) | Breaking down the current state of DeFi",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TbyVyVNsyys"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/superphiz-layer-zero",
-          "author": "David Hoffman",
-          "description": "Listen now (87 min) | How a Middle School Counselor is Keeping Ethereum Healthy",
-          "link": "https://shows.banklesshq.com/p/superphiz-layer-zero",
-          "publishedOn": "2022-06-07T18:17:03.000Z",
-          "wordCount": null,
-          "title": "Superphiz | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/vnHA_Ds3qJI",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/vnHA_Ds3qJI"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/121-vance",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (98 min) | The Bear Market Presents a Massive Opportunity",
-          "link": "https://shows.banklesshq.com/p/121-vance",
-          "publishedOn": "2022-06-06T10:27:31.000Z",
-          "wordCount": null,
-          "title": "121 - The Bear Market Gift | Vance Spencer",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/cIyxIYd8AzY",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/cIyxIYd8AzY"
         }
       ]
     }
