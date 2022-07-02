@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-3ac-meltdown-continued-blockfi",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (92 min) | Last Week of June, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-3ac-meltdown-continued-blockfi",
+          "publishedOn": "2022-07-01T10:30:18.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: 3AC Meltdown Continued | BlockFi Down Bad | Grayscale Sueing the SEC | Contagion Market?!",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/sCzUegPSMhw",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/sCzUegPSMhw"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/bear-market-war-stories-with-dcinvestor",
           "author": "David Hoffman",
           "description": "Listen now (76 min) | Lessons, advice, and vibes",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/pUA-HzIbWD0"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/soulbound-on-or-off-chain-vitalik",
-          "author": "David Hoffman",
-          "description": "Listen now (63 min) | What does decentralized, trustless, digital identity look like?",
-          "link": "https://shows.banklesshq.com/p/soulbound-on-or-off-chain-vitalik",
-          "publishedOn": "2022-06-08T07:35:59.000Z",
-          "wordCount": null,
-          "title": "Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/TbyVyVNsyys",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TbyVyVNsyys"
         }
       ]
     }
