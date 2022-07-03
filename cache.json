@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/czs-bear-market-plans",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (54 min) | How Binance is leveraging the bear",
+          "link": "https://shows.banklesshq.com/p/czs-bear-market-plans",
+          "publishedOn": "2022-07-02T10:30:23.000Z",
+          "wordCount": null,
+          "title": "CZ's Bear Market Plans",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-3ac-meltdown-continued-blockfi",
           "author": "Ryan Sean Adams",
           "description": "Listen now (92 min) | Last Week of June, 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/efd773cd-d030-47af-ba50-0d1a7b7d5a68_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/ethereum-merge-updates-tim-beiko",
-          "author": "David Hoffman",
-          "description": "Listen now (61 min) | Wen Merge, Tim? Wen Merge?!",
-          "link": "https://shows.banklesshq.com/p/ethereum-merge-updates-tim-beiko",
-          "publishedOn": "2022-06-09T07:17:04.000Z",
-          "wordCount": null,
-          "title": "Ethereum Merge Updates! | Tim Beiko",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/pUA-HzIbWD0",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/pUA-HzIbWD0"
         }
       ]
     }
