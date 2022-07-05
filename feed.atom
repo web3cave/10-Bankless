@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T06:31:30.908Z</id>
+    <id>urn:2022-07-05T06:26:50.665Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T06:31:30.908Z</updated>
+    <updated>2022-07-05T06:26:50.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[126 - The Crypto Revolution | Josh Rosenthal]]></title>
+        <id>https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal</id>
+        <link href="https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal"/>
+        <updated>2022-07-04T10:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | We the people, in order to form a more perfect union...]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CZ's Bear Market Plans]]></title>
         <id>https://shows.banklesshq.com/p/czs-bear-market-plans</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-crypto-bill-op-wintermute"/>
         <updated>2022-06-10T11:19:56.000Z</updated>
         <summary type="html"><![CDATA[Listen now (105 min) | 1st (Full) Week of June, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[122 - Crypto's Bull Shark | Kevin O'Leary (Mr. Wonderful)]]></title>
-        <id>https://shows.banklesshq.com/p/122-kevin</id>
-        <link href="https://shows.banklesshq.com/p/122-kevin"/>
-        <updated>2022-06-09T12:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Converted and evangelizing crypto to the masses]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

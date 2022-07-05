@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | We the people, in order to form a more perfect union...",
+          "link": "https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal",
+          "publishedOn": "2022-07-04T10:34:15.000Z",
+          "wordCount": null,
+          "title": "126 - The Crypto Revolution | Josh Rosenthal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46385985-944d-4023-9875-eaf18f9c012a_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46385985-944d-4023-9875-eaf18f9c012a_2668x1501.jpeg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/czs-bear-market-plans",
           "author": "Ryan Sean Adams",
           "description": "Listen now (54 min) | How Binance is leveraging the bear",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/iahLw7bUBVE"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/122-kevin",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | Converted and evangelizing crypto to the masses",
-          "link": "https://shows.banklesshq.com/p/122-kevin",
-          "publishedOn": "2022-06-09T12:04:43.000Z",
-          "wordCount": null,
-          "title": "122 - Crypto's Bull Shark | Kevin O'Leary (Mr. Wonderful)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/efd773cd-d030-47af-ba50-0d1a7b7d5a68_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/efd773cd-d030-47af-ba50-0d1a7b7d5a68_2668x1501.jpeg"
         }
       ]
     }
