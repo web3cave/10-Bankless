@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (67 min) | Addressing Toxic Maximalism with a Dissenter",
+          "link": "https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with",
+          "publishedOn": "2022-07-06T10:30:05.000Z",
+          "wordCount": null,
+          "title": "Leaving the Bitcoin Religion with Nic Carter",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal",
           "author": "Ryan Sean Adams",
           "description": "Listen now | We the people, in order to form a more perfect union...",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1mp0etsGfOg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-crypto-bill-op-wintermute",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (105 min) | 1st (Full) Week of June, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-crypto-bill-op-wintermute",
-          "publishedOn": "2022-06-10T11:19:56.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Crypto Bill | OP Wintermute | Illuvium Land Sale | PayPal Crypto | ApeCoin Ethereum",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/iahLw7bUBVE",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/iahLw7bUBVE"
         }
       ]
     }
