@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (85 min) | First Week of July, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone",
+          "publishedOn": "2022-07-08T11:02:35.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Voyager Bankrupt | Solana Phone | ENS Domains | Facebook NFTs | Reddit NFTs | EU Crypto Regulation",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/6hJv6W8cHK4",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/6hJv6W8cHK4"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with",
           "author": "Ryan Sean Adams",
           "description": "Listen now (67 min) | Addressing Toxic Maximalism with a Dissenter",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/_p4vDqkKe8Y"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon",
-          "author": "David Hoffman",
-          "description": "Listen now (51 min) | Disrupting a Quadrillion Dollar Market",
-          "link": "https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon",
-          "publishedOn": "2022-06-12T09:31:19.000Z",
-          "wordCount": null,
-          "title": "Voltz Protocol | ALPHA LEAK with Simon Jones",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1mp0etsGfOg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1mp0etsGfOg"
         }
       ]
     }

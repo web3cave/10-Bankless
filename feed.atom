@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T06:27:19.916Z</id>
+    <id>urn:2022-07-09T06:25:00.930Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T06:27:19.916Z</updated>
+    <updated>2022-07-09T06:25:00.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Voyager Bankrupt | Solana Phone | ENS Domains | Facebook NFTs | Reddit NFTs | EU Crypto Regulation]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone</id>
+        <link href="https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone"/>
+        <updated>2022-07-08T11:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (85 min) | First Week of July, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leaving the Bitcoin Religion with Nic Carter]]></title>
         <id>https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now | Debriefing the episode with Kevin]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voltz Protocol | ALPHA LEAK with Simon Jones]]></title>
-        <id>https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon</id>
-        <link href="https://shows.banklesshq.com/p/voltz-protocol-alpha-leak-with-simon"/>
-        <updated>2022-06-12T09:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (51 min) | Disrupting a Quadrillion Dollar Market]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
