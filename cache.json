@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-bull-case-for-velodrome",
+          "author": "David Hoffman",
+          "description": "Alpha Leak",
+          "link": "https://shows.banklesshq.com/p/the-bull-case-for-velodrome",
+          "publishedOn": "2022-07-09T20:30:09.000Z",
+          "wordCount": null,
+          "title": "The Bull Case for Velodrome",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/gjVov4AxZAs",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/gjVov4AxZAs"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-is-this-the-end-lyn",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (95 min) | Everything macro is telling us",
+          "link": "https://shows.banklesshq.com/p/early-access-is-this-the-end-lyn",
+          "publishedOn": "2022-07-09T08:53:52.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS: Is This the End? | Lyn Alden",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07a9d873-7d49-465b-ab73-c498f3faacb1_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/07a9d873-7d49-465b-ab73-c498f3faacb1_2668x1501.jpeg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone",
           "author": "Ryan Sean Adams",
           "description": "Listen now (85 min) | First Week of July, 2022",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/j7VR5MsmSOU"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/luke-burgis-layer-zero",
-          "author": "David Hoffman",
-          "description": "Listen now (66 min) | Mimetically desiring since birth",
-          "link": "https://shows.banklesshq.com/p/luke-burgis-layer-zero",
-          "publishedOn": "2022-06-14T10:30:28.000Z",
-          "wordCount": null,
-          "title": "Luke Burgis | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/3P-Q_RMhZXQ",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/3P-Q_RMhZXQ"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/122-kevin-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | Debriefing the episode with Kevin",
-          "link": "https://shows.banklesshq.com/p/122-kevin-debrief",
-          "publishedOn": "2022-06-13T10:30:18.000Z",
-          "wordCount": null,
-          "title": "Debrief - Crypto's Bull Shark | Kevin O'Leary",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/_p4vDqkKe8Y",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/_p4vDqkKe8Y"
         }
       ]
     }

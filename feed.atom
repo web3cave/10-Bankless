@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-09T06:25:00.930Z</id>
+    <id>urn:2022-07-10T06:25:35.717Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-09T06:25:00.930Z</updated>
+    <updated>2022-07-10T06:25:35.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Bull Case for Velodrome]]></title>
+        <id>https://shows.banklesshq.com/p/the-bull-case-for-velodrome</id>
+        <link href="https://shows.banklesshq.com/p/the-bull-case-for-velodrome"/>
+        <updated>2022-07-09T20:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Alpha Leak]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS: Is This the End? | Lyn Alden]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-is-this-the-end-lyn</id>
+        <link href="https://shows.banklesshq.com/p/early-access-is-this-the-end-lyn"/>
+        <updated>2022-07-09T08:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (95 min) | Everything macro is telling us]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Voyager Bankrupt | Solana Phone | ENS Domains | Facebook NFTs | Reddit NFTs | EU Crypto Regulation]]></title>
         <id>https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/emergency-bear-market-livestream"/>
         <updated>2022-06-15T10:30:18.000Z</updated>
         <summary type="html"><![CDATA[Listen now (67 min) | What to do if you're scared!]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luke Burgis | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/luke-burgis-layer-zero</id>
-        <link href="https://shows.banklesshq.com/p/luke-burgis-layer-zero"/>
-        <updated>2022-06-14T10:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (66 min) | Mimetically desiring since birth]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Crypto's Bull Shark | Kevin O'Leary]]></title>
-        <id>https://shows.banklesshq.com/p/122-kevin-debrief</id>
-        <link href="https://shows.banklesshq.com/p/122-kevin-debrief"/>
-        <updated>2022-06-13T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Debriefing the episode with Kevin]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
