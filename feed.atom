@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T06:25:35.717Z</id>
+    <id>urn:2022-07-11T06:28:51.481Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-10T06:25:35.717Z</updated>
+    <updated>2022-07-11T06:28:51.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -17,8 +17,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[EARLY ACCESS: Is This the End? | Lyn Alden]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-is-this-the-end-lyn</id>
-        <link href="https://shows.banklesshq.com/p/early-access-is-this-the-end-lyn"/>
+        <id>https://shows.banklesshq.com/p/127-lyn</id>
+        <link href="https://shows.banklesshq.com/p/127-lyn"/>
         <updated>2022-07-09T08:53:52.000Z</updated>
         <summary type="html"><![CDATA[Listen now (95 min) | Everything macro is telling us]]></summary>
         <author>
