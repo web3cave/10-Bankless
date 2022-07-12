@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/127-lyn-alden-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (28 min) | Debriefing the episode with Lyn Alden",
+          "link": "https://shows.banklesshq.com/p/127-lyn-alden-debrief",
+          "publishedOn": "2022-07-11T10:30:27.000Z",
+          "wordCount": null,
+          "title": "Debrief - Is This the End?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/iUhFYgjrgFo",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/iUhFYgjrgFo"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-bull-case-for-velodrome",
           "author": "David Hoffman",
           "description": "Alpha Leak",
@@ -28,7 +44,7 @@
           "link": "https://shows.banklesshq.com/p/127-lyn",
           "publishedOn": "2022-07-09T08:53:52.000Z",
           "wordCount": null,
-          "title": "EARLY ACCESS: Is This the End? | Lyn Alden",
+          "title": "127- Is This the End? | Lyn Alden",
           "itunes": {},
           "enclosure": {
             "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f146fb14-1595-47cb-aac7-ee5cdf5ec165_2668x1501.jpeg",
@@ -63,11 +79,11 @@
           "title": "Leaving the Bitcoin Religion with Nic Carter",
           "itunes": {},
           "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/BjTeLtuKs1A",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/BjTeLtuKs1A"
         },
         {
           "id": "https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal",
@@ -95,11 +111,11 @@
           "title": "CZ's Bear Market Plans",
           "itunes": {},
           "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/lldGpGsUcWw",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c2a61518-a6f4-4e20-9f49-e82b4b48d485_3000x3000.png"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/lldGpGsUcWw"
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-3ac-meltdown-continued-blockfi",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/VMNmxFzKI64"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/emergency-bear-market-livestream",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (67 min) | What to do if you're scared!",
-          "link": "https://shows.banklesshq.com/p/emergency-bear-market-livestream",
-          "publishedOn": "2022-06-15T10:30:18.000Z",
-          "wordCount": null,
-          "title": "EMERGENCY BEAR MARKET LIVESTREAM",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/j7VR5MsmSOU",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/j7VR5MsmSOU"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-11T06:28:51.481Z</id>
+    <id>urn:2022-07-12T06:28:18.529Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-11T06:28:51.481Z</updated>
+    <updated>2022-07-12T06:28:18.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Is This the End?]]></title>
+        <id>https://shows.banklesshq.com/p/127-lyn-alden-debrief</id>
+        <link href="https://shows.banklesshq.com/p/127-lyn-alden-debrief"/>
+        <updated>2022-07-11T10:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (28 min) | Debriefing the episode with Lyn Alden]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bull Case for Velodrome]]></title>
         <id>https://shows.banklesshq.com/p/the-bull-case-for-velodrome</id>
@@ -16,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS: Is This the End? | Lyn Alden]]></title>
+        <title type="html"><![CDATA[127- Is This the End? | Lyn Alden]]></title>
         <id>https://shows.banklesshq.com/p/127-lyn</id>
         <link href="https://shows.banklesshq.com/p/127-lyn"/>
         <updated>2022-07-09T08:53:52.000Z</updated>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/how-bad-will-inflation-get-jim-bianco"/>
         <updated>2022-06-15T18:00:21.000Z</updated>
         <summary type="html"><![CDATA[Listen now (74 min) | Are we doomed?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMERGENCY BEAR MARKET LIVESTREAM]]></title>
-        <id>https://shows.banklesshq.com/p/emergency-bear-market-livestream</id>
-        <link href="https://shows.banklesshq.com/p/emergency-bear-market-livestream"/>
-        <updated>2022-06-15T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (67 min) | What to do if you're scared!]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
