@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (64 min) | Seen as a distraction by some and very bullish by others",
+          "link": "https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders",
+          "publishedOn": "2022-07-13T10:31:03.000Z",
+          "wordCount": null,
+          "title": "Solana is Launching a Phone? | Co-Founders Anatoly & Raj",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/9wfNeVTtBz0",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/9wfNeVTtBz0"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/127-lyn-alden-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (28 min) | Debriefing the episode with Lyn Alden",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/lCb5XNN9IrA"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/how-bad-will-inflation-get-jim-bianco",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (74 min) | Are we doomed?",
-          "link": "https://shows.banklesshq.com/p/how-bad-will-inflation-get-jim-bianco",
-          "publishedOn": "2022-06-15T18:00:21.000Z",
-          "wordCount": null,
-          "title": "How Bad will Inflation Get? | Jim Bianco",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/VMNmxFzKI64",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/VMNmxFzKI64"
         }
       ]
     }

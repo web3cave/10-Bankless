@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-13T06:28:39.879Z</id>
+    <id>urn:2022-07-14T06:27:12.696Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-13T06:28:39.879Z</updated>
+    <updated>2022-07-14T06:27:12.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana is Launching a Phone? | Co-Founders Anatoly & Raj]]></title>
+        <id>https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders</id>
+        <link href="https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders"/>
+        <updated>2022-07-13T10:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (64 min) | Seen as a distraction by some and very bullish by others]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Is This the End?]]></title>
         <id>https://shows.banklesshq.com/p/127-lyn-alden-debrief</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/crypto-crash-celsius-insolvent-3ac"/>
         <updated>2022-06-17T10:26:43.000Z</updated>
         <summary type="html"><![CDATA[Listen now (106 min) | 3rd Friday of June, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Bad will Inflation Get? | Jim Bianco]]></title>
-        <id>https://shows.banklesshq.com/p/how-bad-will-inflation-get-jim-bianco</id>
-        <link href="https://shows.banklesshq.com/p/how-bad-will-inflation-get-jim-bianco"/>
-        <updated>2022-06-15T18:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | Are we doomed?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
