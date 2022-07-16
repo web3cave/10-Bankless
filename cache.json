@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-celsius-bankruptcy-vitaliks",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (91 min) | 2nd Week of July, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-celsius-bankruptcy-vitaliks",
+          "publishedOn": "2022-07-15T09:34:43.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Celsius Bankruptcy, Vitalik's Book, GHO Aave Stablecoin, 3ac StarkWare Token",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/-7AEIKDIbg8",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/-7AEIKDIbg8"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders",
           "author": "Ryan Sean Adams",
           "description": "Listen now (64 min) | Seen as a distraction by some and very bullish by others",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7e64e64b-9252-4165-846f-a7c40adf2029_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/crypto-crash-celsius-insolvent-3ac",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (106 min) | 3rd Friday of June, 2022",
-          "link": "https://shows.banklesshq.com/p/crypto-crash-celsius-insolvent-3ac",
-          "publishedOn": "2022-06-17T10:26:43.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Crypto Crash | Celsius Insolvent? | 3AC Su Zhu | Interest Rate Hike | Jack Dorsey Web5",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/lCb5XNN9IrA",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/lCb5XNN9IrA"
         }
       ]
     }
