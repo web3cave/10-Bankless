@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-scariest-macro-setup",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (82 min) | Maneuvering through the fog of macro",
+          "link": "https://shows.banklesshq.com/p/early-access-scariest-macro-setup",
+          "publishedOn": "2022-07-16T07:27:26.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Scariest Macro Setup In 20+ Years | Luke Gromen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1vlCJa2G_lY",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1vlCJa2G_lY"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-celsius-bankruptcy-vitaliks",
           "author": "Ryan Sean Adams",
           "description": "Listen now (91 min) | 2nd Week of July, 2022",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/mOzOF5eWHD0"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (85 min) | Musician-entrepreneurs dive into crypto",
-          "link": "https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers",
-          "publishedOn": "2022-06-18T10:42:13.000Z",
-          "wordCount": null,
-          "title": "123 - Investing in the Chainsmokers | Drew Taggart & Alex Pall",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7e64e64b-9252-4165-846f-a7c40adf2029_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7e64e64b-9252-4165-846f-a7c40adf2029_2668x1501.jpeg"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-16T06:25:16.642Z</id>
+    <id>urn:2022-07-17T06:25:47.377Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-16T06:25:16.642Z</updated>
+    <updated>2022-07-17T06:25:47.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Scariest Macro Setup In 20+ Years | Luke Gromen]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-scariest-macro-setup</id>
+        <link href="https://shows.banklesshq.com/p/early-access-scariest-macro-setup"/>
+        <updated>2022-07-16T07:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (82 min) | Maneuvering through the fog of macro]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Celsius Bankruptcy, Vitalik's Book, GHO Aave Stablecoin, 3ac StarkWare Token]]></title>
         <id>https://shows.banklesshq.com/p/rollup-celsius-bankruptcy-vitaliks</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/123-the-chainsmokers-debrief"/>
         <updated>2022-06-20T10:30:26.000Z</updated>
         <summary type="html"><![CDATA[Listen now (13 min) | Debriefing the episode with Drew & Alex]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[123 - Investing in the Chainsmokers | Drew Taggart & Alex Pall]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers</id>
-        <link href="https://shows.banklesshq.com/p/early-access-investing-in-the-chainsmokers"/>
-        <updated>2022-06-18T10:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (85 min) | Musician-entrepreneurs dive into crypto]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
