@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T06:29:14.751Z</id>
+    <id>urn:2022-07-19T06:27:17.426Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-18T06:29:14.751Z</updated>
+    <updated>2022-07-19T06:27:17.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Scariest Macro Setup In 20+ Years]]></title>
+        <id>https://shows.banklesshq.com/p/128-luke-gromen-debrief</id>
+        <link href="https://shows.banklesshq.com/p/128-luke-gromen-debrief"/>
+        <updated>2022-07-18T10:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (30 min) | Debriefing the episode with Luke Gromen]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[128 - Scariest Macro Setup In 20+ Years | Luke Gromen]]></title>
+        <id>https://shows.banklesshq.com/p/128-luke</id>
+        <link href="https://shows.banklesshq.com/p/128-luke"/>
+        <updated>2022-07-18T10:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (82 min) | Maneuvering through the fog of macro]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EARLY ACCESS - Scariest Macro Setup In 20+ Years | Luke Gromen]]></title>
         <id>https://shows.banklesshq.com/p/early-access-scariest-macro-setup</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now | Huge news out of Uniswap]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monolithic to Modular DAOs with Julz Rosenburg | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/monolithic-to-modular-daos-with-julz</id>
-        <link href="https://shows.banklesshq.com/p/monolithic-to-modular-daos-with-julz"/>
-        <updated>2022-06-21T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (63 min) | Warning: you may get pod-pilled]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Investing in The Chainsmokers]]></title>
-        <id>https://shows.banklesshq.com/p/123-the-chainsmokers-debrief</id>
-        <link href="https://shows.banklesshq.com/p/123-the-chainsmokers-debrief"/>
-        <updated>2022-06-20T10:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (13 min) | Debriefing the episode with Drew & Alex]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
