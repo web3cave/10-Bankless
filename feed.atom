@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T06:29:54.154Z</id>
+    <id>urn:2022-07-23T06:26:30.475Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-22T06:29:54.154Z</updated>
+    <updated>2022-07-23T06:26:30.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Why the Crypto Critics Are Wrong | Matthew Green]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-why-the-crypto-critics</id>
+        <link href="https://shows.banklesshq.com/p/early-access-why-the-crypto-critics"/>
+        <updated>2022-07-23T01:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (68 min) | A response to crypto's top objections]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Tesla Sells Bitcoin | Minecraft NFT Ban | Polygon zkRollup | Genesis 3ac | Ethereum Merge]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-tesla-sells-bitcoin-minecraft</id>
+        <link href="https://shows.banklesshq.com/p/rollup-tesla-sells-bitcoin-minecraft"/>
+        <updated>2022-07-22T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 3rd Week of July, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge vs. Macro with Travis Kling]]></title>
         <id>https://shows.banklesshq.com/p/merge-vs-macro-with-travis-kling</id>
@@ -183,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (88 min) | What happens post-merge?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: 3AC Further Contagion | dYdX Leaves Ethereum | Huge Uniswap Acquisition]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx</id>
-        <link href="https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx"/>
-        <updated>2022-06-24T10:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (81 min) | 4th Friday of June, 2022]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-why-the-crypto-critics",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (68 min) | A response to crypto's top objections",
+          "link": "https://shows.banklesshq.com/p/early-access-why-the-crypto-critics",
+          "publishedOn": "2022-07-23T01:59:57.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Why the Crypto Critics Are Wrong | Matthew Green",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/qBP2K_8jJ6s",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/qBP2K_8jJ6s"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-tesla-sells-bitcoin-minecraft",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | 3rd Week of July, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-tesla-sells-bitcoin-minecraft",
+          "publishedOn": "2022-07-22T10:30:13.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Tesla Sells Bitcoin | Minecraft NFT Ban | Polygon zkRollup | Genesis 3ac | Ethereum Merge",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8f2a873a-e73e-4a84-83a5-000fd780c1ce_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8f2a873a-e73e-4a84-83a5-000fd780c1ce_2668x1501.jpeg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/merge-vs-macro-with-travis-kling",
           "author": "Ryan Sean Adams",
           "description": "Listen now (64 min) | Who will win the Title Fight?",
@@ -292,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0bf3c924-4036-42a0-9ec9-d94d340410ad_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx",
-          "author": "David Hoffman",
-          "description": "Listen now (81 min) | 4th Friday of June, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-3ac-further-contagion-dydx",
-          "publishedOn": "2022-06-24T10:30:07.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: 3AC Further Contagion | dYdX Leaves Ethereum | Huge Uniswap Acquisition",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/80da54ae-dbf8-456e-8a30-ffc238c0a42b_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/80da54ae-dbf8-456e-8a30-ffc238c0a42b_2668x1501.jpeg"
         }
       ]
     }
