@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T06:27:53.866Z</id>
+    <id>urn:2022-07-28T06:28:09.303Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-27T06:27:53.866Z</updated>
+    <updated>2022-07-28T06:28:09.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Didn't Break with Dan Morehead & Joey Krug]]></title>
+        <id>https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead</id>
+        <link href="https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead"/>
+        <updated>2022-07-27T22:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (53 min) | Mainstream media's wrongful twist on crypto's past few months]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[129 - Why the Crypto Critics Are Wrong | Matthew Green]]></title>
         <id>https://shows.banklesshq.com/p/129-why-the-crypto-critics-are-wrong</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (84 min) | The motivation behind a product-first approach]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resilient DeFi with Kirk Hutchison | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison</id>
-        <link href="https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison"/>
-        <updated>2022-06-28T16:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | Breaking down the current state of DeFi]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (53 min) | Mainstream media's wrongful twist on crypto's past few months",
+          "link": "https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead",
+          "publishedOn": "2022-07-27T22:01:24.000Z",
+          "wordCount": null,
+          "title": "DeFi Didn't Break with Dan Morehead & Joey Krug",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/McVgHpDe9_k",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/McVgHpDe9_k"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/129-why-the-crypto-critics-are-wrong",
           "author": "Ryan Sean Adams",
           "description": "Listen now (68 min) | A response to crypto's top objections",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41434ab5-e246-4c6e-8ee7-334fb797733c_2024x1012.png"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison",
-          "author": "David Hoffman",
-          "description": "Listen now (77 min) | Breaking down the current state of DeFi",
-          "link": "https://shows.banklesshq.com/p/resilient-defi-with-kirk-hutchison",
-          "publishedOn": "2022-06-28T16:43:44.000Z",
-          "wordCount": null,
-          "title": "Resilient DeFi with Kirk Hutchison | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/XptavIs8A9A",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/XptavIs8A9A"
         }
       ]
     }
