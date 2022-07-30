@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (102 min) | 4th Week of July, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three",
+          "publishedOn": "2022-07-29T11:23:28.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Coinbase Insider Trading | Three Arrows Capital Speaks! | The Merge Approaches",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/-RNhwJmRM5A",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/-RNhwJmRM5A"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead",
           "author": "Ryan Sean Adams",
           "description": "Listen now (53 min) | Mainstream media's wrongful twist on crypto's past few months",
@@ -292,22 +308,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/sCzUegPSMhw"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/bear-market-war-stories-with-dcinvestor",
-          "author": "David Hoffman",
-          "description": "Listen now (76 min) | Lessons, advice, and vibes",
-          "link": "https://shows.banklesshq.com/p/bear-market-war-stories-with-dcinvestor",
-          "publishedOn": "2022-06-29T19:00:30.000Z",
-          "wordCount": null,
-          "title": "Bear Market War Stories with DCinvestor & Eric Conner",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/y6yU8Q-AGoo",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/y6yU8Q-AGoo"
         }
       ]
     }
