@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-30T06:25:23.171Z</id>
+    <id>urn:2022-07-31T06:25:29.170Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-30T06:25:23.171Z</updated>
+    <updated>2022-07-31T06:25:29.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -181,16 +181,6 @@
         <link href="https://shows.banklesshq.com/p/czs-bear-market-plans"/>
         <updated>2022-07-02T10:30:23.000Z</updated>
         <summary type="html"><![CDATA[Listen now (54 min) | How Binance is leveraging the bear]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: 3AC Meltdown Continued | BlockFi Down Bad | Grayscale Sueing the SEC | Contagion Market?!]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-3ac-meltdown-continued-blockfi</id>
-        <link href="https://shows.banklesshq.com/p/rollup-3ac-meltdown-continued-blockfi"/>
-        <updated>2022-07-01T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (92 min) | Last Week of June, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
