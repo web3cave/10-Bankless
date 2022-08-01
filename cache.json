@@ -276,22 +276,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46385985-944d-4023-9875-eaf18f9c012a_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/czs-bear-market-plans",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (54 min) | How Binance is leveraging the bear",
-          "link": "https://shows.banklesshq.com/p/czs-bear-market-plans",
-          "publishedOn": "2022-07-02T10:30:23.000Z",
-          "wordCount": null,
-          "title": "CZ's Bear Market Plans",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/lldGpGsUcWw",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/lldGpGsUcWw"
         }
       ]
     }

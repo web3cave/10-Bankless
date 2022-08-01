@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-31T06:25:29.170Z</id>
+    <id>urn:2022-08-01T06:40:14.656Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-31T06:25:29.170Z</updated>
+    <updated>2022-08-01T06:40:14.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@
         <link href="https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal"/>
         <updated>2022-07-04T10:34:15.000Z</updated>
         <summary type="html"><![CDATA[Listen now | We the people, in order to form a more perfect union...]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ's Bear Market Plans]]></title>
-        <id>https://shows.banklesshq.com/p/czs-bear-market-plans</id>
-        <link href="https://shows.banklesshq.com/p/czs-bear-market-plans"/>
-        <updated>2022-07-02T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (54 min) | How Binance is leveraging the bear]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
