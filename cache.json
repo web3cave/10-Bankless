@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (92 min) | Could regulators be the answer?",
+          "link": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu",
+          "publishedOn": "2022-08-01T10:30:25.000Z",
+          "wordCount": null,
+          "title": "130 - How to Fix DeFi Tokens | Hasu",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1qqkoGatPdE",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1qqkoGatPdE"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (30 min) | Debriefing the episode with Hasu",
+          "link": "https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens",
+          "publishedOn": "2022-08-01T10:30:24.000Z",
+          "wordCount": null,
+          "title": "Debrief - How to Fix DeFi Tokens",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/U4fRXw9GDKQ",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/U4fRXw9GDKQ"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three",
           "author": "Ryan Sean Adams",
           "description": "Listen now (102 min) | 4th Week of July, 2022",
