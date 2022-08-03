@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-centralized-food-production-crisis",
+          "author": "David Hoffman",
+          "description": "Listen now (99 min) | Diversity breeds resilience",
+          "link": "https://shows.banklesshq.com/p/the-centralized-food-production-crisis",
+          "publishedOn": "2022-08-02T15:30:06.000Z",
+          "wordCount": null,
+          "title": "The Centralized Food Production Crisis | Anthony Gustin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/DJ7LdADWCd0",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/DJ7LdADWCd0"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca",
+          "author": "David Hoffman",
+          "description": "Listen now (52 min) | NFT innovation at its finest",
+          "link": "https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca",
+          "publishedOn": "2022-08-02T07:42:53.000Z",
+          "wordCount": null,
+          "title": "The Nounders | 4156, VapeApe, Seneca | Nouns DAO Series Ep #1",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/t7BrqzAsUD8",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/t7BrqzAsUD8"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu",
           "author": "Ryan Sean Adams",
           "description": "Listen now (92 min) | Could regulators be the answer?",
@@ -292,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/BjTeLtuKs1A"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | We the people, in order to form a more perfect union...",
-          "link": "https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal",
-          "publishedOn": "2022-07-04T10:34:15.000Z",
-          "wordCount": null,
-          "title": "126 - The Crypto Revolution | Josh Rosenthal",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46385985-944d-4023-9875-eaf18f9c012a_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/46385985-944d-4023-9875-eaf18f9c012a_2668x1501.jpeg"
         }
       ]
     }

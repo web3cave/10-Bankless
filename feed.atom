@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T06:26:51.315Z</id>
+    <id>urn:2022-08-03T06:26:38.878Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T06:26:51.315Z</updated>
+    <updated>2022-08-03T06:26:38.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Centralized Food Production Crisis | Anthony Gustin]]></title>
+        <id>https://shows.banklesshq.com/p/the-centralized-food-production-crisis</id>
+        <link href="https://shows.banklesshq.com/p/the-centralized-food-production-crisis"/>
+        <updated>2022-08-02T15:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (99 min) | Diversity breeds resilience]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nounders | 4156, VapeApe, Seneca | Nouns DAO Series Ep #1]]></title>
+        <id>https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca</id>
+        <link href="https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca"/>
+        <updated>2022-08-02T07:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (52 min) | NFT innovation at its finest]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[130 - How to Fix DeFi Tokens | Hasu]]></title>
         <id>https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu</id>
@@ -181,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with"/>
         <updated>2022-07-06T10:30:05.000Z</updated>
         <summary type="html"><![CDATA[Listen now (67 min) | Addressing Toxic Maximalism with a Dissenter]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[126 - The Crypto Revolution | Josh Rosenthal]]></title>
-        <id>https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal</id>
-        <link href="https://shows.banklesshq.com/p/126-the-crypto-revolution-josh-rosenthal"/>
-        <updated>2022-07-04T10:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | We the people, in order to form a more perfect union...]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
