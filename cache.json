@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll",
+          "author": "David Hoffman",
+          "description": "Listen now (74 min) | Optimism's Ben Jones cohosts a zkEpisode",
+          "link": "https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll",
+          "publishedOn": "2022-08-03T10:48:40.000Z",
+          "wordCount": null,
+          "title": "The zkWars | zkSync & Scroll",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/sokVnpaqIEc",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/sokVnpaqIEc"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-centralized-food-production-crisis",
           "author": "David Hoffman",
           "description": "Listen now (99 min) | Diversity breeds resilience",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/6hJv6W8cHK4"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (67 min) | Addressing Toxic Maximalism with a Dissenter",
-          "link": "https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with",
-          "publishedOn": "2022-07-06T10:30:05.000Z",
-          "wordCount": null,
-          "title": "Leaving the Bitcoin Religion with Nic Carter",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/BjTeLtuKs1A",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/BjTeLtuKs1A"
         }
       ]
     }

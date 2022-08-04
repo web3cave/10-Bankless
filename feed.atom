@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T06:26:38.878Z</id>
+    <id>urn:2022-08-04T06:29:54.766Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T06:26:38.878Z</updated>
+    <updated>2022-08-04T06:29:54.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The zkWars | zkSync & Scroll]]></title>
+        <id>https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll</id>
+        <link href="https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll"/>
+        <updated>2022-08-03T10:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (74 min) | Optimism's Ben Jones cohosts a zkEpisode]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Centralized Food Production Crisis | Anthony Gustin]]></title>
         <id>https://shows.banklesshq.com/p/the-centralized-food-production-crisis</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone"/>
         <updated>2022-07-08T11:02:35.000Z</updated>
         <summary type="html"><![CDATA[Listen now (85 min) | First Week of July, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaving the Bitcoin Religion with Nic Carter]]></title>
-        <id>https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with</id>
-        <link href="https://shows.banklesshq.com/p/leaving-the-bitcoin-religion-with"/>
-        <updated>2022-07-06T10:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (67 min) | Addressing Toxic Maximalism with a Dissenter]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
