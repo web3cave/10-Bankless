@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-05T06:27:27.652Z</id>
+    <id>urn:2022-08-06T06:25:45.431Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-05T06:27:27.652Z</updated>
+    <updated>2022-08-06T06:25:45.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Solana Wallet Hack | Nomad Bridge Hack | Ethereum PoW Chain | DeFi Tokens | Coinbase ETH Staking]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge</id>
+        <link href="https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge"/>
+        <updated>2022-08-05T10:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 1st Week of August, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The zkWars | zkSync & Scroll]]></title>
         <id>https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/127-lyn"/>
         <updated>2022-07-09T08:53:52.000Z</updated>
         <summary type="html"><![CDATA[Listen now (95 min) | Everything macro is telling us]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Voyager Bankrupt | Solana Phone | ENS Domains | Facebook NFTs | Reddit NFTs | EU Crypto Regulation]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone</id>
-        <link href="https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone"/>
-        <updated>2022-07-08T11:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (85 min) | First Week of July, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

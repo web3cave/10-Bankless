@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | 1st Week of August, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge",
+          "publishedOn": "2022-08-05T10:30:25.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Solana Wallet Hack | Nomad Bridge Hack | Ethereum PoW Chain | DeFi Tokens | Coinbase ETH Staking",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5329bc28-27a2-4314-9a60-b7833474eaf4_2668x1501.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5329bc28-27a2-4314-9a60-b7833474eaf4_2668x1501.jpeg"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll",
           "author": "David Hoffman",
           "description": "Listen now (74 min) | Optimism's Ben Jones cohosts a zkEpisode",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f146fb14-1595-47cb-aac7-ee5cdf5ec165_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (85 min) | First Week of July, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-voyager-bankrupt-solana-phone",
-          "publishedOn": "2022-07-08T11:02:35.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Voyager Bankrupt | Solana Phone | ENS Domains | Facebook NFTs | Reddit NFTs | EU Crypto Regulation",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/6hJv6W8cHK4",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/6hJv6W8cHK4"
         }
       ]
     }
