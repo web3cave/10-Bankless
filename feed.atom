@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-08T06:30:02.662Z</id>
+    <id>urn:2022-08-09T06:28:43.691Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-08T06:30:02.662Z</updated>
+    <updated>2022-08-09T06:28:43.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[131 - Rise of the Network State | Balaji Srinivasan]]></title>
+        <id>https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji</id>
+        <link href="https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji"/>
+        <updated>2022-08-08T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (99 min) | The future of coordination]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Rise of the Network State]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-rise-of-the-network-state</id>
+        <link href="https://shows.banklesshq.com/p/debrief-rise-of-the-network-state"/>
+        <updated>2022-08-08T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (30 min) | Debriefing the episode with Balaji]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Solana Wallet Hack | Nomad Bridge Hack | Ethereum PoW Chain | DeFi Tokens | Coinbase ETH Staking]]></title>
         <id>https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge</id>
@@ -183,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (28 min) | Debriefing the episode with Lyn Alden]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bull Case for Velodrome]]></title>
-        <id>https://shows.banklesshq.com/p/the-bull-case-for-velodrome</id>
-        <link href="https://shows.banklesshq.com/p/the-bull-case-for-velodrome"/>
-        <updated>2022-07-09T20:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Alpha Leak]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (99 min) | The future of coordination",
+          "link": "https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji",
+          "publishedOn": "2022-08-08T10:30:13.000Z",
+          "wordCount": null,
+          "title": "131 - Rise of the Network State | Balaji Srinivasan",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/oFJ4M5p-mWM",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/oFJ4M5p-mWM"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-rise-of-the-network-state",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (30 min) | Debriefing the episode with Balaji",
+          "link": "https://shows.banklesshq.com/p/debrief-rise-of-the-network-state",
+          "publishedOn": "2022-08-08T10:30:13.000Z",
+          "wordCount": null,
+          "title": "Debrief - Rise of the Network State",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1ddYgPipWoA",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1ddYgPipWoA"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge",
           "author": "Ryan Sean Adams",
           "description": "Listen now | 1st Week of August, 2022",
@@ -292,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/iUhFYgjrgFo"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-bull-case-for-velodrome",
-          "author": "David Hoffman",
-          "description": "Alpha Leak",
-          "link": "https://shows.banklesshq.com/p/the-bull-case-for-velodrome",
-          "publishedOn": "2022-07-09T20:30:09.000Z",
-          "wordCount": null,
-          "title": "The Bull Case for Velodrome",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/gjVov4AxZAs",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/gjVov4AxZAs"
         }
       ]
     }
