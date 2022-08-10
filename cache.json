@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero",
+          "author": "David Hoffman",
+          "description": "Listen now (66 min) | Some of the giant shoulders we stand on",
+          "link": "https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero",
+          "publishedOn": "2022-08-09T09:38:41.000Z",
+          "wordCount": null,
+          "title": "Cryptographer David Chaum | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/sNqgfl-28Fs",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/sNqgfl-28Fs"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji",
           "author": "Ryan Sean Adams",
           "description": "Listen now (99 min) | The future of coordination",
@@ -308,22 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/9wfNeVTtBz0"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/127-lyn-alden-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (28 min) | Debriefing the episode with Lyn Alden",
-          "link": "https://shows.banklesshq.com/p/127-lyn-alden-debrief",
-          "publishedOn": "2022-07-11T10:30:27.000Z",
-          "wordCount": null,
-          "title": "Debrief - Is This the End?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/iUhFYgjrgFo",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/iUhFYgjrgFo"
         }
       ]
     }

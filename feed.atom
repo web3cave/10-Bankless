@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T06:28:43.691Z</id>
+    <id>urn:2022-08-10T06:28:40.859Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-09T06:28:43.691Z</updated>
+    <updated>2022-08-10T06:28:40.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cryptographer David Chaum | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero</id>
+        <link href="https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero"/>
+        <updated>2022-08-09T09:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (66 min) | Some of the giant shoulders we stand on]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[131 - Rise of the Network State | Balaji Srinivasan]]></title>
         <id>https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders"/>
         <updated>2022-07-13T10:31:03.000Z</updated>
         <summary type="html"><![CDATA[Listen now (64 min) | Seen as a distraction by some and very bullish by others]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Is This the End?]]></title>
-        <id>https://shows.banklesshq.com/p/127-lyn-alden-debrief</id>
-        <link href="https://shows.banklesshq.com/p/127-lyn-alden-debrief"/>
-        <updated>2022-07-11T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (28 min) | Debriefing the episode with Lyn Alden]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
