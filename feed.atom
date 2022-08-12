@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T06:27:05.831Z</id>
+    <id>urn:2022-08-12T06:28:02.862Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-11T06:27:05.831Z</updated>
+    <updated>2022-08-12T06:28:02.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-celsius-bankruptcy-vitaliks"/>
         <updated>2022-07-15T09:34:43.000Z</updated>
         <summary type="html"><![CDATA[Listen now (91 min) | 2nd Week of July, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana is Launching a Phone? | Co-Founders Anatoly & Raj]]></title>
-        <id>https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders</id>
-        <link href="https://shows.banklesshq.com/p/solana-is-launching-a-phone-co-founders"/>
-        <updated>2022-07-13T10:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (64 min) | Seen as a distraction by some and very bullish by others]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
