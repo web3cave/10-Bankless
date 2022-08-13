@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-12T06:28:02.862Z</id>
+    <id>urn:2022-08-13T06:26:00.990Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-12T06:28:02.862Z</updated>
+    <updated>2022-08-13T06:26:00.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Goerli Merge | Tornado Cash Ban | Coinbase BlackRock Deal | Fake Solana DeFi?]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash</id>
+        <link href="https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash"/>
+        <updated>2022-08-12T10:56:38.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (91 min) | 2nd Week of August, 2021]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptographer David Chaum | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero</id>

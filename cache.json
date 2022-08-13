@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (91 min) | 2nd Week of August, 2021",
+          "link": "https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash",
+          "publishedOn": "2022-08-12T10:56:38.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Goerli Merge | Tornado Cash Ban | Coinbase BlackRock Deal | Fake Solana DeFi?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/7B6A7jNaLJk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/7B6A7jNaLJk"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero",
           "author": "David Hoffman",
           "description": "Listen now (66 min) | Some of the giant shoulders we stand on",
