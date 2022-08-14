@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-13T06:26:00.990Z</id>
+    <id>urn:2022-08-14T06:26:29.799Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-13T06:26:00.990Z</updated>
+    <updated>2022-08-14T06:26:29.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-scariest-macro-setup"/>
         <updated>2022-07-16T07:27:26.000Z</updated>
         <summary type="html"><![CDATA[Listen now (82 min) | Maneuvering through the fog of macro]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Celsius Bankruptcy, Vitalik's Book, GHO Aave Stablecoin, 3ac StarkWare Token]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-celsius-bankruptcy-vitaliks</id>
-        <link href="https://shows.banklesshq.com/p/rollup-celsius-bankruptcy-vitaliks"/>
-        <updated>2022-07-15T09:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (91 min) | 2nd Week of July, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
