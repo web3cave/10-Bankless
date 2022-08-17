@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-16T06:26:53.405Z</id>
+    <id>urn:2022-08-17T06:29:55.835Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-16T06:26:53.405Z</updated>
+    <updated>2022-08-17T06:29:55.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Polynya's Crypto Thesis]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis</id>
+        <link href="https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis"/>
+        <updated>2022-08-17T02:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Episode with Polynya]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Progression with Hudson Jameson | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/ethereums-progression-with-hudson</id>
+        <link href="https://shows.banklesshq.com/p/ethereums-progression-with-hudson"/>
+        <updated>2022-08-16T10:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (80 min) | Finding your tribe and making an impact]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[132 - Polynya's Crypto Thesis]]></title>
         <id>https://shows.banklesshq.com/p/132-polynyas-crypto-thesis</id>
@@ -171,26 +191,6 @@
         <link href="https://shows.banklesshq.com/p/merge-vs-macro-with-travis-kling"/>
         <updated>2022-07-20T19:00:24.000Z</updated>
         <summary type="html"><![CDATA[Listen now (64 min) | Who will win the Title Fight?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Scariest Macro Setup In 20+ Years]]></title>
-        <id>https://shows.banklesshq.com/p/128-luke-gromen-debrief</id>
-        <link href="https://shows.banklesshq.com/p/128-luke-gromen-debrief"/>
-        <updated>2022-07-18T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (30 min) | Debriefing the episode with Luke Gromen]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[128 - Scariest Macro Setup In 20+ Years | Luke Gromen]]></title>
-        <id>https://shows.banklesshq.com/p/128-luke</id>
-        <link href="https://shows.banklesshq.com/p/128-luke"/>
-        <updated>2022-07-18T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (82 min) | Maneuvering through the fog of macro]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

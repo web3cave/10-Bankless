@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (27 min) | Debriefing the Episode with Polynya",
+          "link": "https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis",
+          "publishedOn": "2022-08-17T02:31:40.000Z",
+          "wordCount": null,
+          "title": "Debrief - Polynya's Crypto Thesis",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/dkMA-FkdNno",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/dkMA-FkdNno"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/ethereums-progression-with-hudson",
+          "author": "David Hoffman",
+          "description": "Listen now (80 min) | Finding your tribe and making an impact",
+          "link": "https://shows.banklesshq.com/p/ethereums-progression-with-hudson",
+          "publishedOn": "2022-08-16T10:30:21.000Z",
+          "wordCount": null,
+          "title": "Ethereum’s Progression with Hudson Jameson | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/TORG6bjXSnY",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TORG6bjXSnY"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/132-polynyas-crypto-thesis",
           "author": "Ryan Sean Adams",
           "description": "Listen now | A Unique Episode Exploring one of Crypto's Greatest Thinkers",
@@ -276,38 +308,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TrXzhpOxBxM"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/128-luke-gromen-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (30 min) | Debriefing the episode with Luke Gromen",
-          "link": "https://shows.banklesshq.com/p/128-luke-gromen-debrief",
-          "publishedOn": "2022-07-18T10:30:04.000Z",
-          "wordCount": null,
-          "title": "Debrief - Scariest Macro Setup In 20+ Years",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/O_IwX-j8k60",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/O_IwX-j8k60"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/128-luke",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (82 min) | Maneuvering through the fog of macro",
-          "link": "https://shows.banklesshq.com/p/128-luke",
-          "publishedOn": "2022-07-18T10:30:04.000Z",
-          "wordCount": null,
-          "title": "128 - Scariest Macro Setup In 20+ Years | Luke Gromen",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/9t9XtCXHV3A",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/9t9XtCXHV3A"
         }
       ]
     }
