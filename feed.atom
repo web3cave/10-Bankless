@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-17T06:29:55.835Z</id>
+    <id>urn:2022-08-18T06:27:52.882Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-17T06:29:55.835Z</updated>
+    <updated>2022-08-18T06:27:52.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is the Merge Priced In?]]></title>
+        <id>https://shows.banklesshq.com/p/is-the-merge-priced-in</id>
+        <link href="https://shows.banklesshq.com/p/is-the-merge-priced-in"/>
+        <updated>2022-08-17T09:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (80 min) | We ask ETH investors Hal Press & Ryan Berckmans]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Polynya's Crypto Thesis]]></title>
         <id>https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis</id>
