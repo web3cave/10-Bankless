@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (78 min) | Avoiding crypto's achilles heel",
+          "link": "https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto",
+          "publishedOn": "2022-08-20T05:26:30.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Flashbots Saves Crypto with Stephane Gosselin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/pPTmuOwsuNQ",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/pPTmuOwsuNQ"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (105 min) | 3rd Week of August, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum",
+          "publishedOn": "2022-08-19T11:17:56.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Tornado Cash Fallout | Ethereum Merge Updates | $350m a16z Flow Buy | Sudoswap NFTs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/9nphqvqwL84",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/9nphqvqwL84"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/is-the-merge-priced-in",
           "author": "Ryan Sean Adams",
           "description": "Listen now (80 min) | We ask ETH investors Hal Press & Ryan Berckmans",
@@ -292,38 +324,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/qBP2K_8jJ6s"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-tesla-sells-bitcoin-minecraft",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | 3rd Week of July, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-tesla-sells-bitcoin-minecraft",
-          "publishedOn": "2022-07-22T10:30:13.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Tesla Sells Bitcoin | Minecraft NFT Ban | Polygon zkRollup | Genesis 3ac | Ethereum Merge",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8f2a873a-e73e-4a84-83a5-000fd780c1ce_2668x1501.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8f2a873a-e73e-4a84-83a5-000fd780c1ce_2668x1501.jpeg"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/merge-vs-macro-with-travis-kling",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (64 min) | Who will win the Title Fight?",
-          "link": "https://shows.banklesshq.com/p/merge-vs-macro-with-travis-kling",
-          "publishedOn": "2022-07-20T19:00:24.000Z",
-          "wordCount": null,
-          "title": "Merge vs. Macro with Travis Kling",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/TrXzhpOxBxM",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TrXzhpOxBxM"
         }
       ]
     }
