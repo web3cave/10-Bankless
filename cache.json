@@ -8,18 +8,18 @@
         {
           "id": "https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (78 min) | Avoiding crypto's achilles heel",
+          "description": "Listen now (76 min) | Avoiding crypto's achilles heel",
           "link": "https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto",
           "publishedOn": "2022-08-20T05:26:30.000Z",
           "wordCount": null,
           "title": "EARLY ACCESS - Flashbots Saves Crypto with Stephane Gosselin",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/pPTmuOwsuNQ",
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/s-YaPAg0xkE",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/pPTmuOwsuNQ"
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/s-YaPAg0xkE"
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum",
@@ -308,22 +308,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/WBddJ18rACU"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-why-the-crypto-critics",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (68 min) | A response to crypto's top objections",
-          "link": "https://shows.banklesshq.com/p/early-access-why-the-crypto-critics",
-          "publishedOn": "2022-07-23T01:59:57.000Z",
-          "wordCount": null,
-          "title": "EARLY ACCESS - Why the Crypto Critics Are Wrong | Matthew Green",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/qBP2K_8jJ6s",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/qBP2K_8jJ6s"
         }
       ]
     }
