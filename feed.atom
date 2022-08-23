@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-22T06:31:22.420Z</id>
+    <id>urn:2022-08-23T06:35:00.838Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-22T06:31:22.420Z</updated>
+    <updated>2022-08-23T06:35:00.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Flashbots Saves Crypto with Stephane Gosselin]]></title>
+        <title type="html"><![CDATA[133 - Flashbots Saves Crypto with Stephane Gosselin]]></title>
         <id>https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto</id>
         <link href="https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto"/>
         <updated>2022-08-20T05:26:30.000Z</updated>
