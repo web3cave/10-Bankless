@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (79 min) | How the OFAC Sanctions Change the Legal Landscape for Crypto",
+          "link": "https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with",
+          "publishedOn": "2022-08-24T09:55:38.000Z",
+          "wordCount": null,
+          "title": "The Death of Crypto Privacy? with Jake Chervinsky",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/70109241.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto",
           "author": "Ryan Sean Adams",
           "description": "Listen now (76 min) | Avoiding crypto's achilles heel",
@@ -15,11 +31,11 @@
           "title": "133 - Flashbots Saves Crypto with Stephane Gosselin",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/xex9WVmVfbg",
+            "url": "https://api.substack.com/feed/podcast/69490618.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/xex9WVmVfbg"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum",
@@ -31,11 +47,11 @@
           "title": "ROLLUP: Tornado Cash Fallout | Ethereum Merge Updates | $350m a16z Flow Buy | Sudoswap NFTs",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/9nphqvqwL84",
+            "url": "https://api.substack.com/feed/podcast/69366951.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/9nphqvqwL84"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/is-the-merge-priced-in",
@@ -47,11 +63,11 @@
           "title": "Is the Merge Priced In?",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/CZwv-N_5NH8",
+            "url": "https://api.substack.com/feed/podcast/69040564.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/CZwv-N_5NH8"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis",
@@ -63,11 +79,11 @@
           "title": "Debrief - Polynya's Crypto Thesis",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/dkMA-FkdNno",
+            "url": "https://api.substack.com/feed/podcast/69010649.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/dkMA-FkdNno"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/ethereums-progression-with-hudson",
@@ -79,11 +95,11 @@
           "title": "Ethereum’s Progression with Hudson Jameson | Layer Zero",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/TORG6bjXSnY",
+            "url": "https://api.substack.com/feed/podcast/68882106.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/TORG6bjXSnY"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/132-polynyas-crypto-thesis",
@@ -95,11 +111,11 @@
           "title": "132 - Polynya's Crypto Thesis",
           "itunes": {},
           "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f9e9e16-e9cc-40e9-a7b9-c26a8e771e55_2668x1501.jpeg",
+            "url": "https://api.substack.com/feed/podcast/68468195.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f9e9e16-e9cc-40e9-a7b9-c26a8e771e55_2668x1501.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash",
@@ -111,11 +127,11 @@
           "title": "ROLLUP: Goerli Merge | Tornado Cash Ban | Coinbase BlackRock Deal | Fake Solana DeFi?",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/7B6A7jNaLJk",
+            "url": "https://api.substack.com/feed/podcast/68321768.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/7B6A7jNaLJk"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero",
@@ -127,11 +143,11 @@
           "title": "Cryptographer David Chaum | Layer Zero",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/sNqgfl-28Fs",
+            "url": "https://api.substack.com/feed/podcast/67843001.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/sNqgfl-28Fs"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji",
@@ -143,11 +159,11 @@
           "title": "131 - Rise of the Network State | Balaji Srinivasan",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/oFJ4M5p-mWM",
+            "url": "https://api.substack.com/feed/podcast/67666146.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/oFJ4M5p-mWM"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/debrief-rise-of-the-network-state",
@@ -159,11 +175,11 @@
           "title": "Debrief - Rise of the Network State",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1ddYgPipWoA",
+            "url": "https://api.substack.com/feed/podcast/67666743.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1ddYgPipWoA"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge",
@@ -175,11 +191,11 @@
           "title": "ROLLUP: Solana Wallet Hack | Nomad Bridge Hack | Ethereum PoW Chain | DeFi Tokens | Coinbase ETH Staking",
           "itunes": {},
           "enclosure": {
-            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5329bc28-27a2-4314-9a60-b7833474eaf4_2668x1501.jpeg",
+            "url": "https://api.substack.com/feed/podcast/67258214.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5329bc28-27a2-4314-9a60-b7833474eaf4_2668x1501.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll",
@@ -191,11 +207,11 @@
           "title": "The zkWars | zkSync & Scroll",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/sokVnpaqIEc",
+            "url": "https://api.substack.com/feed/podcast/66966687.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/sokVnpaqIEc"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/the-centralized-food-production-crisis",
@@ -207,11 +223,11 @@
           "title": "The Centralized Food Production Crisis | Anthony Gustin",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/DJ7LdADWCd0",
+            "url": "https://api.substack.com/feed/podcast/66814385.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/DJ7LdADWCd0"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca",
@@ -223,11 +239,11 @@
           "title": "The Nounders | 4156, VapeApe, Seneca | Nouns DAO Series Ep #1",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/t7BrqzAsUD8",
+            "url": "https://api.substack.com/feed/podcast/66791438.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/t7BrqzAsUD8"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu",
@@ -239,11 +255,11 @@
           "title": "130 - How to Fix DeFi Tokens | Hasu",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1qqkoGatPdE",
+            "url": "https://api.substack.com/feed/podcast/66636779.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1qqkoGatPdE"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens",
@@ -255,11 +271,11 @@
           "title": "Debrief - How to Fix DeFi Tokens",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/U4fRXw9GDKQ",
+            "url": "https://api.substack.com/feed/podcast/66636732.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/U4fRXw9GDKQ"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three",
@@ -271,11 +287,11 @@
           "title": "ROLLUP: Coinbase Insider Trading | Three Arrows Capital Speaks! | The Merge Approaches",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/-RNhwJmRM5A",
+            "url": "https://api.substack.com/feed/podcast/66218430.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/-RNhwJmRM5A"
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead",
@@ -287,11 +303,11 @@
           "title": "DeFi Didn't Break with Dan Morehead & Joey Krug",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/McVgHpDe9_k",
+            "url": "https://api.substack.com/feed/podcast/65988062.mp3",
             "length": "0",
-            "type": "image/jpeg"
+            "type": "audio/mpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/McVgHpDe9_k"
+          "imageUrl": null
         }
       ]
     }

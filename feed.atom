@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-24T06:29:33.058Z</id>
+    <id>urn:2022-08-25T06:38:55.971Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-24T06:29:33.058Z</updated>
+    <updated>2022-08-25T06:38:55.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Death of Crypto Privacy? with Jake Chervinsky]]></title>
+        <id>https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with</id>
+        <link href="https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with"/>
+        <updated>2022-08-24T09:55:38.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (79 min) | How the OFAC Sanctions Change the Legal Landscape for Crypto]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[133 - Flashbots Saves Crypto with Stephane Gosselin]]></title>
         <id>https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto</id>
