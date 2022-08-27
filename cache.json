@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-bitboy-lawsuit-ethereum-merge",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (105 min) | 4th Week of August, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-bitboy-lawsuit-ethereum-merge",
+          "publishedOn": "2022-08-26T10:30:45.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: BitBoy Lawsuit | Ethereum Merge Updates | Biden Cancels Debt | Tornado Cash Fallout",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/70413760.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with",
           "author": "Ryan Sean Adams",
           "description": "Listen now (79 min) | How the OFAC Sanctions Change the Legal Landscape for Crypto",
@@ -288,22 +304,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/66218430.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (53 min) | Mainstream media's wrongful twist on crypto's past few months",
-          "link": "https://shows.banklesshq.com/p/defi-didnt-break-with-dan-morehead",
-          "publishedOn": "2022-07-27T22:01:24.000Z",
-          "wordCount": null,
-          "title": "DeFi Didn't Break with Dan Morehead & Joey Krug",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/65988062.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
