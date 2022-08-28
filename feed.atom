@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-27T06:26:45.204Z</id>
+    <id>urn:2022-08-28T06:26:33.843Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-27T06:26:45.204Z</updated>
+    <updated>2022-08-28T06:26:33.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -181,16 +181,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens"/>
         <updated>2022-08-01T10:30:24.000Z</updated>
         <summary type="html"><![CDATA[Listen now (30 min) | Debriefing the episode with Hasu]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Coinbase Insider Trading | Three Arrows Capital Speaks! | The Merge Approaches]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three</id>
-        <link href="https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three"/>
-        <updated>2022-07-29T11:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (102 min) | 4th Week of July, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

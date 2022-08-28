@@ -292,22 +292,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (102 min) | 4th Week of July, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-coinbase-insider-trading-three",
-          "publishedOn": "2022-07-29T11:23:28.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Coinbase Insider Trading | Three Arrows Capital Speaks! | The Merge Approaches",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/66218430.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
