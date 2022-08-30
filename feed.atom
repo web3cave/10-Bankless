@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T06:50:35.052Z</id>
+    <id>urn:2022-08-30T06:54:12.464Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-29T06:50:35.052Z</updated>
+    <updated>2022-08-30T06:54:12.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Ethereum Unsensored]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-ethereum-unsensored</id>
+        <link href="https://shows.banklesshq.com/p/debrief-ethereum-unsensored"/>
+        <updated>2022-08-29T10:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (37 min) | Debriefing the episode with Justin Drake]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[134 - Ethereum Unsensored with Justin Drake]]></title>
+        <id>https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin</id>
+        <link href="https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin"/>
+        <updated>2022-08-29T10:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (114 min) | Is Ethereum the Most Censorship Resistant Chain?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: BitBoy Lawsuit | Ethereum Merge Updates | Biden Cancels Debt | Tornado Cash Fallout]]></title>
         <id>https://shows.banklesshq.com/p/rollup-bitboy-lawsuit-ethereum-merge</id>

@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-ethereum-unsensored",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (37 min) | Debriefing the episode with Justin Drake",
+          "link": "https://shows.banklesshq.com/p/debrief-ethereum-unsensored",
+          "publishedOn": "2022-08-29T10:30:10.000Z",
+          "wordCount": null,
+          "title": "Debrief - Ethereum Unsensored",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/70829505.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (114 min) | Is Ethereum the Most Censorship Resistant Chain?",
+          "link": "https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin",
+          "publishedOn": "2022-08-29T10:30:10.000Z",
+          "wordCount": null,
+          "title": "134 - Ethereum Unsensored with Justin Drake",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/70828118.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-bitboy-lawsuit-ethereum-merge",
           "author": "Ryan Sean Adams",
           "description": "Listen now (105 min) | 4th Week of August, 2022",
