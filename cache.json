@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/dissenting-from-chinas-censorship",
+          "author": "David Hoffman",
+          "description": "Listen now (62 min) | Former ByteDance employee's experience as a content moderator",
+          "link": "https://shows.banklesshq.com/p/dissenting-from-chinas-censorship",
+          "publishedOn": "2022-08-30T10:30:30.000Z",
+          "wordCount": null,
+          "title": "Dissenting from China's Censorship with Jiajun Zeng | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/71000602.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-ethereum-unsensored",
           "author": "Ryan Sean Adams",
           "description": "Listen now (37 min) | Debriefing the episode with Justin Drake",
@@ -288,38 +304,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/66791438.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (92 min) | Could regulators be the answer?",
-          "link": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu",
-          "publishedOn": "2022-08-01T10:30:25.000Z",
-          "wordCount": null,
-          "title": "130 - How to Fix DeFi Tokens | Hasu",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/66636779.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (30 min) | Debriefing the episode with Hasu",
-          "link": "https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens",
-          "publishedOn": "2022-08-01T10:30:24.000Z",
-          "wordCount": null,
-          "title": "Debrief - How to Fix DeFi Tokens",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/66636732.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-30T06:54:12.464Z</id>
+    <id>urn:2022-08-31T06:57:40.654Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-30T06:54:12.464Z</updated>
+    <updated>2022-08-31T06:57:40.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dissenting from China's Censorship with Jiajun Zeng | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/dissenting-from-chinas-censorship</id>
+        <link href="https://shows.banklesshq.com/p/dissenting-from-chinas-censorship"/>
+        <updated>2022-08-30T10:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (62 min) | Former ByteDance employee's experience as a content moderator]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Ethereum Unsensored]]></title>
         <id>https://shows.banklesshq.com/p/debrief-ethereum-unsensored</id>
@@ -183,26 +193,6 @@
         <summary type="html"><![CDATA[Listen now (52 min) | NFT innovation at its finest]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[130 - How to Fix DeFi Tokens | Hasu]]></title>
-        <id>https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu</id>
-        <link href="https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu"/>
-        <updated>2022-08-01T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (92 min) | Could regulators be the answer?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - How to Fix DeFi Tokens]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens</id>
-        <link href="https://shows.banklesshq.com/p/debrief-how-to-fix-defi-tokens"/>
-        <updated>2022-08-01T10:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (30 min) | Debriefing the episode with Hasu]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
