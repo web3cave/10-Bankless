@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T06:57:40.654Z</id>
+    <id>urn:2022-09-01T06:35:17.061Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-31T06:57:40.654Z</updated>
+    <updated>2022-09-01T06:35:17.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,26 +171,6 @@
         <link href="https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll"/>
         <updated>2022-08-03T10:48:40.000Z</updated>
         <summary type="html"><![CDATA[Listen now (74 min) | Optimism's Ben Jones cohosts a zkEpisode]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Centralized Food Production Crisis | Anthony Gustin]]></title>
-        <id>https://shows.banklesshq.com/p/the-centralized-food-production-crisis</id>
-        <link href="https://shows.banklesshq.com/p/the-centralized-food-production-crisis"/>
-        <updated>2022-08-02T15:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (99 min) | Diversity breeds resilience]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Nounders | 4156, VapeApe, Seneca | Nouns DAO Series Ep #1]]></title>
-        <id>https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca</id>
-        <link href="https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca"/>
-        <updated>2022-08-02T07:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (52 min) | NFT innovation at its finest]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>

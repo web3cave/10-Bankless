@@ -276,38 +276,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-centralized-food-production-crisis",
-          "author": "David Hoffman",
-          "description": "Listen now (99 min) | Diversity breeds resilience",
-          "link": "https://shows.banklesshq.com/p/the-centralized-food-production-crisis",
-          "publishedOn": "2022-08-02T15:30:06.000Z",
-          "wordCount": null,
-          "title": "The Centralized Food Production Crisis | Anthony Gustin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/66814385.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca",
-          "author": "David Hoffman",
-          "description": "Listen now (52 min) | NFT innovation at its finest",
-          "link": "https://shows.banklesshq.com/p/the-nounders-4156-vapeape-seneca",
-          "publishedOn": "2022-08-02T07:42:53.000Z",
-          "wordCount": null,
-          "title": "The Nounders | 4156, VapeApe, Seneca | Nouns DAO Series Ep #1",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/66791438.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
