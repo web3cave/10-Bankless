@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/arbitrum-nitro-launch-with-steven",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (67 min) | And $ARBI alpha?!",
+          "link": "https://shows.banklesshq.com/p/arbitrum-nitro-launch-with-steven",
+          "publishedOn": "2022-09-01T10:30:22.000Z",
+          "wordCount": null,
+          "title": "Arbitrum Nitro Launch with Steven Goldfeder & Harry Kalodner",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/71268001.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/dissenting-from-chinas-censorship",
           "author": "David Hoffman",
           "description": "Listen now (62 min) | Former ByteDance employee's experience as a content moderator",
@@ -28,7 +44,7 @@
           "link": "https://shows.banklesshq.com/p/debrief-ethereum-unsensored",
           "publishedOn": "2022-08-29T10:30:10.000Z",
           "wordCount": null,
-          "title": "Debrief - Ethereum Unsensored",
+          "title": "Debrief - Ethereum Uncensored",
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/70829505.mp3",
@@ -44,7 +60,7 @@
           "link": "https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin",
           "publishedOn": "2022-08-29T10:30:10.000Z",
           "wordCount": null,
-          "title": "134 - Ethereum Unsensored with Justin Drake",
+          "title": "134 - Ethereum Uncensored with Justin Drake",
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/70828118.mp3",
@@ -256,22 +272,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/67258214.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll",
-          "author": "David Hoffman",
-          "description": "Listen now (74 min) | Optimism's Ben Jones cohosts a zkEpisode",
-          "link": "https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll",
-          "publishedOn": "2022-08-03T10:48:40.000Z",
-          "wordCount": null,
-          "title": "The zkWars | zkSync & Scroll",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/66966687.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

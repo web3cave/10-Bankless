@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T06:35:17.061Z</id>
+    <id>urn:2022-09-02T06:43:26.808Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T06:35:17.062Z</updated>
+    <updated>2022-09-02T06:43:26.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Nitro Launch with Steven Goldfeder & Harry Kalodner]]></title>
+        <id>https://shows.banklesshq.com/p/arbitrum-nitro-launch-with-steven</id>
+        <link href="https://shows.banklesshq.com/p/arbitrum-nitro-launch-with-steven"/>
+        <updated>2022-09-01T10:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (67 min) | And $ARBI alpha?!]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dissenting from China's Censorship with Jiajun Zeng | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/dissenting-from-chinas-censorship</id>
@@ -16,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debrief - Ethereum Unsensored]]></title>
+        <title type="html"><![CDATA[Debrief - Ethereum Uncensored]]></title>
         <id>https://shows.banklesshq.com/p/debrief-ethereum-unsensored</id>
         <link href="https://shows.banklesshq.com/p/debrief-ethereum-unsensored"/>
         <updated>2022-08-29T10:30:10.000Z</updated>
@@ -26,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[134 - Ethereum Unsensored with Justin Drake]]></title>
+        <title type="html"><![CDATA[134 - Ethereum Uncensored with Justin Drake]]></title>
         <id>https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin</id>
         <link href="https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin"/>
         <updated>2022-08-29T10:30:10.000Z</updated>
@@ -163,16 +173,6 @@
         <summary type="html"><![CDATA[Listen now | 1st Week of August, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The zkWars | zkSync & Scroll]]></title>
-        <id>https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll</id>
-        <link href="https://shows.banklesshq.com/p/the-zkwars-zksync-and-scroll"/>
-        <updated>2022-08-03T10:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | Optimism's Ben Jones cohosts a zkEpisode]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
