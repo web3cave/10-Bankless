@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-03T06:26:45.842Z</id>
+    <id>urn:2022-09-04T06:26:12.074Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-03T06:26:45.842Z</updated>
+    <updated>2022-09-04T06:26:12.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Bull Case for Rocketpool with Marceau & Ken Smith]]></title>
+        <id>https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with</id>
+        <link href="https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with"/>
+        <updated>2022-09-03T16:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (83 min) | Why Rocketpool?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Saylor Getting Sued | Avalanche Playing Dirty?! | MERGETEMBER | Maker Drama]]></title>
         <id>https://shows.banklesshq.com/p/rollup-saylor-getting-sued-avalanche</id>
@@ -171,16 +181,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-rise-of-the-network-state"/>
         <updated>2022-08-08T10:30:13.000Z</updated>
         <summary type="html"><![CDATA[Listen now (30 min) | Debriefing the episode with Balaji]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Solana Wallet Hack | Nomad Bridge Hack | Ethereum PoW Chain | DeFi Tokens | Coinbase ETH Staking]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge</id>
-        <link href="https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge"/>
-        <updated>2022-08-05T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | 1st Week of August, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with",
+          "author": "David Hoffman",
+          "description": "Listen now (83 min) | Why Rocketpool?",
+          "link": "https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with",
+          "publishedOn": "2022-09-03T16:01:18.000Z",
+          "wordCount": null,
+          "title": "The Bull Case for Rocketpool with Marceau & Ken Smith",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/71615537.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-saylor-getting-sued-avalanche",
           "author": "Ryan Sean Adams",
           "description": "Listen now (91 min) | 1st Week of Mergetember",
@@ -272,22 +288,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/67666743.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | 1st Week of August, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-solana-wallet-hack-nomad-bridge",
-          "publishedOn": "2022-08-05T10:30:25.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Solana Wallet Hack | Nomad Bridge Hack | Ethereum PoW Chain | DeFi Tokens | Coinbase ETH Staking",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/67258214.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
