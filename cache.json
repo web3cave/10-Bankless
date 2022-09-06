@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (89 min) | The next chapter of crypto privacy",
+          "link": "https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko",
+          "publishedOn": "2022-09-05T10:30:20.000Z",
+          "wordCount": null,
+          "title": "135 - Crypto Wars 2.0 with Zooko",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/71588750.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-crypto-wars-20",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (20 min) | Debriefing the episode with Zooko",
+          "link": "https://shows.banklesshq.com/p/debrief-crypto-wars-20",
+          "publishedOn": "2022-09-05T10:30:20.000Z",
+          "wordCount": null,
+          "title": "Debrief - Crypto Wars 2.0",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/71589607.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with",
           "author": "David Hoffman",
           "description": "Listen now (83 min) | Why Rocketpool?",

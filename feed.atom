@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-05T06:51:11.341Z</id>
+    <id>urn:2022-09-06T07:02:00.150Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-05T06:51:11.341Z</updated>
+    <updated>2022-09-06T07:02:00.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[135 - Crypto Wars 2.0 with Zooko]]></title>
+        <id>https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko</id>
+        <link href="https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko"/>
+        <updated>2022-09-05T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (89 min) | The next chapter of crypto privacy]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Crypto Wars 2.0]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-crypto-wars-20</id>
+        <link href="https://shows.banklesshq.com/p/debrief-crypto-wars-20"/>
+        <updated>2022-09-05T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (20 min) | Debriefing the episode with Zooko]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bull Case for Rocketpool with Marceau & Ken Smith]]></title>
         <id>https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with</id>
