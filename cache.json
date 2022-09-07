@@ -292,38 +292,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (99 min) | The future of coordination",
-          "link": "https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji",
-          "publishedOn": "2022-08-08T10:30:13.000Z",
-          "wordCount": null,
-          "title": "131 - Rise of the Network State | Balaji Srinivasan",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/67666146.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-rise-of-the-network-state",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (30 min) | Debriefing the episode with Balaji",
-          "link": "https://shows.banklesshq.com/p/debrief-rise-of-the-network-state",
-          "publishedOn": "2022-08-08T10:30:13.000Z",
-          "wordCount": null,
-          "title": "Debrief - Rise of the Network State",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/67666743.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }

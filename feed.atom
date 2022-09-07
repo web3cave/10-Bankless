@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T07:02:00.150Z</id>
+    <id>urn:2022-09-07T06:58:34.174Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T07:02:00.150Z</updated>
+    <updated>2022-09-07T06:58:34.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -183,26 +183,6 @@
         <summary type="html"><![CDATA[Listen now (66 min) | Some of the giant shoulders we stand on]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[131 - Rise of the Network State | Balaji Srinivasan]]></title>
-        <id>https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji</id>
-        <link href="https://shows.banklesshq.com/p/131-rise-of-the-network-state-balaji"/>
-        <updated>2022-08-08T10:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (99 min) | The future of coordination]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Rise of the Network State]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-rise-of-the-network-state</id>
-        <link href="https://shows.banklesshq.com/p/debrief-rise-of-the-network-state"/>
-        <updated>2022-08-08T10:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (30 min) | Debriefing the episode with Balaji]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
