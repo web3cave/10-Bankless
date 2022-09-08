@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-arthur-hayes",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (30 min) | 1D = 1B",
+          "link": "https://shows.banklesshq.com/p/debrief-arthur-hayes",
+          "publishedOn": "2022-09-07T09:15:19.000Z",
+          "wordCount": null,
+          "title": "Debrief | Arthur Hayes",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/72215296.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (79 min) | Denominating Your Net Worth in Hydrocarbons",
+          "link": "https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes",
+          "publishedOn": "2022-09-07T09:09:28.000Z",
+          "wordCount": null,
+          "title": "Trading the Merge | Arthur Hayes",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/72213595.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko",
           "author": "Ryan Sean Adams",
           "description": "Listen now (89 min) | The next chapter of crypto privacy",
@@ -272,22 +304,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/68321768.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero",
-          "author": "David Hoffman",
-          "description": "Listen now (66 min) | Some of the giant shoulders we stand on",
-          "link": "https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero",
-          "publishedOn": "2022-08-09T09:38:41.000Z",
-          "wordCount": null,
-          "title": "Cryptographer David Chaum | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/67843001.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T06:58:34.174Z</id>
+    <id>urn:2022-09-08T06:49:38.435Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T06:58:34.174Z</updated>
+    <updated>2022-09-08T06:49:38.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief | Arthur Hayes]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-arthur-hayes</id>
+        <link href="https://shows.banklesshq.com/p/debrief-arthur-hayes"/>
+        <updated>2022-09-07T09:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (30 min) | 1D = 1B]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trading the Merge | Arthur Hayes]]></title>
+        <id>https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes</id>
+        <link href="https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes"/>
+        <updated>2022-09-07T09:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (79 min) | Denominating Your Net Worth in Hydrocarbons]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[135 - Crypto Wars 2.0 with Zooko]]></title>
         <id>https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko</id>
@@ -173,16 +193,6 @@
         <summary type="html"><![CDATA[Listen now (91 min) | 2nd Week of August, 2021]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptographer David Chaum | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero</id>
-        <link href="https://shows.banklesshq.com/p/cryptographer-david-chaum-layer-zero"/>
-        <updated>2022-08-09T09:38:41.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (66 min) | Some of the giant shoulders we stand on]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
