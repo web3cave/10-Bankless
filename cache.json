@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (90 min) | 2nd Week of Mergetember",
+          "link": "https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade",
+          "publishedOn": "2022-09-09T09:00:22.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Ethereum Merge Bellatrix Upgrade | Binance USDC Stablecoin Wars | Coinbase Treasury Tornado Lawsuit",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/72537587.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-arthur-hayes",
           "author": "Ryan Sean Adams",
           "description": "Listen now (30 min) | 1D = 1B",
