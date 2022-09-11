@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (89 min) | Let us know what you think!",
+          "link": "https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david",
+          "publishedOn": "2022-09-10T18:00:04.000Z",
+          "wordCount": null,
+          "title": "The ETH Merge: BULL OR BEAR? David debates Jordi Alexander",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/72603409.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade",
           "author": "Ryan Sean Adams",
           "description": "Listen now (90 min) | 2nd Week of Mergetember",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/68468195.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (91 min) | 2nd Week of August, 2021",
-          "link": "https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash",
-          "publishedOn": "2022-08-12T10:56:38.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Goerli Merge | Tornado Cash Ban | Coinbase BlackRock Deal | Fake Solana DeFi?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/68321768.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-10T06:31:44.501Z</id>
+    <id>urn:2022-09-11T06:29:48.209Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-10T06:31:44.501Z</updated>
+    <updated>2022-09-11T06:29:48.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The ETH Merge: BULL OR BEAR? David debates Jordi Alexander]]></title>
+        <id>https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david</id>
+        <link href="https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david"/>
+        <updated>2022-09-10T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (89 min) | Let us know what you think!]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Ethereum Merge Bellatrix Upgrade | Binance USDC Stablecoin Wars | Coinbase Treasury Tornado Lawsuit]]></title>
         <id>https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/132-polynyas-crypto-thesis"/>
         <updated>2022-08-15T06:24:15.000Z</updated>
         <summary type="html"><![CDATA[Listen now | A Unique Episode Exploring one of Crypto's Greatest Thinkers]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Goerli Merge | Tornado Cash Ban | Coinbase BlackRock Deal | Fake Solana DeFi?]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash</id>
-        <link href="https://shows.banklesshq.com/p/rollup-goerli-merge-tornado-cash"/>
-        <updated>2022-08-12T10:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (91 min) | 2nd Week of August, 2021]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
