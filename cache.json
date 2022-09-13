@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-demetri",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (20 min) | Our Takes on a Possible World War III",
+          "link": "https://shows.banklesshq.com/p/debrief-demetri",
+          "publishedOn": "2022-09-12T07:36:26.000Z",
+          "wordCount": null,
+          "title": "Debrief - Demetri Kofinas",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/72961372.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (89 min) | Can we solve our hardest problems?",
+          "link": "https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri",
+          "publishedOn": "2022-09-12T07:36:14.000Z",
+          "wordCount": null,
+          "title": "136 - WWIII vs the Machines | Demetri Kofinas",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/72939493.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david",
           "author": "Ryan Sean Adams",
           "description": "Listen now (89 min) | Let us know what you think!",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/69010649.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/ethereums-progression-with-hudson",
-          "author": "David Hoffman",
-          "description": "Listen now (80 min) | Finding your tribe and making an impact",
-          "link": "https://shows.banklesshq.com/p/ethereums-progression-with-hudson",
-          "publishedOn": "2022-08-16T10:30:21.000Z",
-          "wordCount": null,
-          "title": "Ethereum’s Progression with Hudson Jameson | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/68882106.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/132-polynyas-crypto-thesis",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | A Unique Episode Exploring one of Crypto's Greatest Thinkers",
-          "link": "https://shows.banklesshq.com/p/132-polynyas-crypto-thesis",
-          "publishedOn": "2022-08-15T06:24:15.000Z",
-          "wordCount": null,
-          "title": "132 - Polynya's Crypto Thesis",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/68468195.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

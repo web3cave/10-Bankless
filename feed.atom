@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T06:57:09.922Z</id>
+    <id>urn:2022-09-13T06:58:34.311Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-12T06:57:09.922Z</updated>
+    <updated>2022-09-13T06:58:34.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Demetri Kofinas]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-demetri</id>
+        <link href="https://shows.banklesshq.com/p/debrief-demetri"/>
+        <updated>2022-09-12T07:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (20 min) | Our Takes on a Possible World War III]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[136 - WWIII vs the Machines | Demetri Kofinas]]></title>
+        <id>https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri</id>
+        <link href="https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri"/>
+        <updated>2022-09-12T07:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (89 min) | Can we solve our hardest problems?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The ETH Merge: BULL OR BEAR? David debates Jordi Alexander]]></title>
         <id>https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis"/>
         <updated>2022-08-17T02:31:40.000Z</updated>
         <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Episode with Polynya]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Progression with Hudson Jameson | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/ethereums-progression-with-hudson</id>
-        <link href="https://shows.banklesshq.com/p/ethereums-progression-with-hudson"/>
-        <updated>2022-08-16T10:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (80 min) | Finding your tribe and making an impact]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[132 - Polynya's Crypto Thesis]]></title>
-        <id>https://shows.banklesshq.com/p/132-polynyas-crypto-thesis</id>
-        <link href="https://shows.banklesshq.com/p/132-polynyas-crypto-thesis"/>
-        <updated>2022-08-15T06:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | A Unique Episode Exploring one of Crypto's Greatest Thinkers]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
