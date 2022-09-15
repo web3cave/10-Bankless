@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-14T06:55:27.227Z</id>
+    <id>urn:2022-09-15T06:46:22.206Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-14T06:55:27.227Z</updated>
+    <updated>2022-09-15T06:46:22.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[15 Bad ETH Takes with Justin Drake]]></title>
+        <id>https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake</id>
+        <link href="https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake"/>
+        <updated>2022-09-14T09:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (88 min) | Kicking off Merge Week by Dusting off some Bad Takes]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Demetri Kofinas]]></title>
         <id>https://shows.banklesshq.com/p/debrief-demetri</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/is-the-merge-priced-in"/>
         <updated>2022-08-17T09:05:30.000Z</updated>
         <summary type="html"><![CDATA[Listen now (80 min) | We ask ETH investors Hal Press & Ryan Berckmans]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Polynya's Crypto Thesis]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis</id>
-        <link href="https://shows.banklesshq.com/p/debrief-polynyas-crypto-thesis"/>
-        <updated>2022-08-17T02:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Episode with Polynya]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
