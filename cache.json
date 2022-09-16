@@ -308,22 +308,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/is-the-merge-priced-in",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (80 min) | We ask ETH investors Hal Press & Ryan Berckmans",
-          "link": "https://shows.banklesshq.com/p/is-the-merge-priced-in",
-          "publishedOn": "2022-08-17T09:05:30.000Z",
-          "wordCount": null,
-          "title": "Is the Merge Priced In?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/69040564.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
