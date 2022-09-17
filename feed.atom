@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T06:51:11.129Z</id>
+    <id>urn:2022-09-17T06:29:41.612Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-16T06:51:11.129Z</updated>
+    <updated>2022-09-17T06:29:41.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - The Psychology of Crypto with Morgan Housel]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto</id>
+        <link href="https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto"/>
+        <updated>2022-09-17T04:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | Wealth, greed, happiness, and how to invest]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Ethereum Merge Breakdown]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown</id>
+        <link href="https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown"/>
+        <updated>2022-09-16T08:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (90 min) | 3rd Week of Mergetember, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 Bad ETH Takes with Justin Drake]]></title>
         <id>https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake</id>
@@ -181,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto"/>
         <updated>2022-08-20T05:26:30.000Z</updated>
         <summary type="html"><![CDATA[Listen now (76 min) | Avoiding crypto's achilles heel]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Tornado Cash Fallout | Ethereum Merge Updates | $350m a16z Flow Buy | Sudoswap NFTs]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum</id>
-        <link href="https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum"/>
-        <updated>2022-08-19T11:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (105 min) | 3rd Week of August, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

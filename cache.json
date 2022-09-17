@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (77 min) | Wealth, greed, happiness, and how to invest",
+          "link": "https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto",
+          "publishedOn": "2022-09-17T04:44:17.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - The Psychology of Crypto with Morgan Housel",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/73685769.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (90 min) | 3rd Week of Mergetember, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown",
+          "publishedOn": "2022-09-16T08:47:22.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Ethereum Merge Breakdown",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/73576160.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake",
           "author": "Ryan Sean Adams",
           "description": "Listen now (88 min) | Kicking off Merge Week by Dusting off some Bad Takes",
@@ -288,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/69490618.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (105 min) | 3rd Week of August, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-tornado-cash-fallout-ethereum",
-          "publishedOn": "2022-08-19T11:17:56.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Tornado Cash Fallout | Ethereum Merge Updates | $350m a16z Flow Buy | Sudoswap NFTs",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/69366951.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
