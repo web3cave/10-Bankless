@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-18T06:29:50.454Z</id>
+    <id>urn:2022-09-19T07:02:08.665Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-18T06:29:50.454Z</updated>
+    <updated>2022-09-19T07:02:08.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with"/>
         <updated>2022-08-24T09:55:38.000Z</updated>
         <summary type="html"><![CDATA[Listen now (79 min) | How the OFAC Sanctions Change the Legal Landscape for Crypto]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[133 - Flashbots Saves Crypto with Stephane Gosselin]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto</id>
-        <link href="https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto"/>
-        <updated>2022-08-20T05:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (76 min) | Avoiding crypto's achilles heel]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

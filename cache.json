@@ -308,22 +308,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (76 min) | Avoiding crypto's achilles heel",
-          "link": "https://shows.banklesshq.com/p/early-access-flashbots-saves-crypto",
-          "publishedOn": "2022-08-20T05:26:30.000Z",
-          "wordCount": null,
-          "title": "133 - Flashbots Saves Crypto with Stephane Gosselin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/69490618.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
