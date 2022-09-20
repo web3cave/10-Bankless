@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T07:02:08.665Z</id>
+    <id>urn:2022-09-20T06:52:56.644Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-19T07:02:08.665Z</updated>
+    <updated>2022-09-20T06:52:56.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - The Psychology of Crypto with Morgan Housel]]></title>
+        <title type="html"><![CDATA[137 - The Psychology of Crypto with Morgan Housel]]></title>
         <id>https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto</id>
         <link href="https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto"/>
         <updated>2022-09-17T04:44:17.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | Wealth, greed, happiness, and how to invest]]></summary>
+        <summary type="html"><![CDATA[Listen now (72 min) | Wealth, greed, happiness, and how to invest]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
