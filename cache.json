@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/merged-with-tim-beiko-and-danny-ryan",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (74 min) | Debriefing Crypto's Biggest Upgrade Ever",
+          "link": "https://shows.banklesshq.com/p/merged-with-tim-beiko-and-danny-ryan",
+          "publishedOn": "2022-09-21T07:31:37.000Z",
+          "wordCount": null,
+          "title": "MERGED with Tim Beiko & Danny Ryan",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/74204427.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/building-a-better-ponzi-with-ameen",
           "author": "David Hoffman",
           "description": "Listen now (90 min) | Slaying Moloch for good?",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/70413760.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (79 min) | How the OFAC Sanctions Change the Legal Landscape for Crypto",
-          "link": "https://shows.banklesshq.com/p/the-death-of-crypto-privacy-with",
-          "publishedOn": "2022-08-24T09:55:38.000Z",
-          "wordCount": null,
-          "title": "The Death of Crypto Privacy? with Jake Chervinsky",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/70109241.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
