@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/vitalik-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (38 min) | Debriefing the episode with Vitalik",
+          "link": "https://shows.banklesshq.com/p/vitalik-debrief",
+          "publishedOn": "2022-09-22T09:50:07.000Z",
+          "wordCount": null,
+          "title": "Debrief - What's Next? Vitalik Buterin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/74387316.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-whats-next-vitalik-buterin",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (118 min) | Post-merge and beyond—the next era of Ethereum begins",
+          "link": "https://shows.banklesshq.com/p/early-access-whats-next-vitalik-buterin",
+          "publishedOn": "2022-09-22T09:49:53.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - What's Next? Vitalik Buterin | Part I & Part II",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/74323942.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/merged-with-tim-beiko-and-danny-ryan",
           "author": "Ryan Sean Adams",
           "description": "Listen now (74 min) | Debriefing Crypto's Biggest Upgrade Ever",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/70829505.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (114 min) | Is Ethereum the Most Censorship Resistant Chain?",
-          "link": "https://shows.banklesshq.com/p/134-ethereum-unsensored-with-justin",
-          "publishedOn": "2022-08-29T10:30:10.000Z",
-          "wordCount": null,
-          "title": "134 - Ethereum Uncensored with Justin Drake",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/70828118.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-bitboy-lawsuit-ethereum-merge",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (105 min) | 4th Week of August, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-bitboy-lawsuit-ethereum-merge",
-          "publishedOn": "2022-08-26T10:30:45.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: BitBoy Lawsuit | Ethereum Merge Updates | Biden Cancels Debt | Tornado Cash Fallout",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/70413760.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
