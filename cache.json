@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (88 min) | 4th Week of September, 2022",
+          "link": "https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto",
+          "publishedOn": "2022-09-23T10:31:05.000Z",
+          "wordCount": null,
+          "title": "Post-Merge Recap | White House Crypto Regulatory | $160M Wintermute Hack | Do Kwon on the Run?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/74546237.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/vitalik-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (38 min) | Debriefing the episode with Vitalik",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/71000602.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-ethereum-unsensored",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (37 min) | Debriefing the episode with Justin Drake",
-          "link": "https://shows.banklesshq.com/p/debrief-ethereum-unsensored",
-          "publishedOn": "2022-08-29T10:30:10.000Z",
-          "wordCount": null,
-          "title": "Debrief - Ethereum Uncensored",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/70829505.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
