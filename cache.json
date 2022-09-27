@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part",
+          "author": "Ryan Sean Adams",
+          "description": "Post-merge and beyond—the next era of Ethereum begins",
+          "link": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part",
+          "publishedOn": "2022-09-26T10:31:14.000Z",
+          "wordCount": null,
+          "title": "138 - What's Next? Vitalik Buterin | Part I",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/tKjs8bBQ3sk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/tKjs8bBQ3sk"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto",
           "author": "Ryan Sean Adams",
           "description": "Listen now (88 min) | 4th Week of September, 2022",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/71268001.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/dissenting-from-chinas-censorship",
-          "author": "David Hoffman",
-          "description": "Listen now (62 min) | Former ByteDance employee's experience as a content moderator",
-          "link": "https://shows.banklesshq.com/p/dissenting-from-chinas-censorship",
-          "publishedOn": "2022-08-30T10:30:30.000Z",
-          "wordCount": null,
-          "title": "Dissenting from China's Censorship with Jiajun Zeng | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/71000602.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

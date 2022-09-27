@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T06:54:25.310Z</id>
+    <id>urn:2022-09-27T06:55:53.491Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-26T06:54:25.310Z</updated>
+    <updated>2022-09-27T06:55:53.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[138 - What's Next? Vitalik Buterin | Part I]]></title>
+        <id>https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part</id>
+        <link href="https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part"/>
+        <updated>2022-09-26T10:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Post-merge and beyond—the next era of Ethereum begins]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Post-Merge Recap | White House Crypto Regulatory | $160M Wintermute Hack | Do Kwon on the Run?]]></title>
         <id>https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (67 min) | And $ARBI alpha?!]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dissenting from China's Censorship with Jiajun Zeng | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/dissenting-from-chinas-censorship</id>
-        <link href="https://shows.banklesshq.com/p/dissenting-from-chinas-censorship"/>
-        <updated>2022-08-30T10:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (62 min) | Former ByteDance employee's experience as a content moderator]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
