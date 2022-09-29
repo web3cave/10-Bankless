@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (83 min) | The frontier is being built before our eyes",
+          "link": "https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb",
+          "publishedOn": "2022-09-28T10:31:09.000Z",
+          "wordCount": null,
+          "title": "The zkEVM is Here | zkSync's Steve Newcomb",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/75327426.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part",
           "author": "Ryan Sean Adams",
           "description": "Post-merge and beyond—the next era of Ethereum begins",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/71482236.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/arbitrum-nitro-launch-with-steven",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (67 min) | And $ARBI alpha?!",
-          "link": "https://shows.banklesshq.com/p/arbitrum-nitro-launch-with-steven",
-          "publishedOn": "2022-09-01T10:30:22.000Z",
-          "wordCount": null,
-          "title": "Arbitrum Nitro Launch with Steven Goldfeder & Harry Kalodner",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/71268001.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
