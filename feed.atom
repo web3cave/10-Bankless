@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-29T06:59:14.920Z</id>
+    <id>urn:2022-09-30T06:53:40.671Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-29T06:59:14.920Z</updated>
+    <updated>2022-09-30T06:53:40.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Crypto Needs Boys Club with Natasha & Deana | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha</id>
+        <link href="https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha"/>
+        <updated>2022-09-29T10:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (54 min) | The ultimate vibe and force to be reckoned with]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The zkEVM is Here | zkSync's Steve Newcomb]]></title>
         <id>https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (83 min) | Why Rocketpool?]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Saylor Getting Sued | Avalanche Playing Dirty?! | MERGETEMBER | Maker Drama]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-saylor-getting-sued-avalanche</id>
-        <link href="https://shows.banklesshq.com/p/rollup-saylor-getting-sued-avalanche"/>
-        <updated>2022-09-02T10:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (91 min) | 1st Week of Mergetember]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
