@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T06:53:40.671Z</id>
+    <id>urn:2022-10-01T06:39:57.247Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T06:53:40.671Z</updated>
+    <updated>2022-10-01T06:39:57.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: NFTs Are Hot Again | Macro is Breaking?! | CFTC Prosecuting DAO Token Holders]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is</id>
+        <link href="https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is"/>
+        <updated>2022-10-01T00:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (100 min) | 5th Week of September, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Crypto Needs Boys Club with Natasha & Deana | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (20 min) | Debriefing the episode with Zooko]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bull Case for Rocketpool with Marceau & Ken Smith]]></title>
-        <id>https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with</id>
-        <link href="https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with"/>
-        <updated>2022-09-03T16:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (83 min) | Why Rocketpool?]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

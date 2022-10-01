@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (100 min) | 5th Week of September, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is",
+          "publishedOn": "2022-10-01T00:57:08.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: NFTs Are Hot Again | Macro is Breaking?! | CFTC Prosecuting DAO Token Holders",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/75867235.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha",
           "author": "David Hoffman",
           "description": "Listen now (54 min) | The ultimate vibe and force to be reckoned with",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/71589607.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with",
-          "author": "David Hoffman",
-          "description": "Listen now (83 min) | Why Rocketpool?",
-          "link": "https://shows.banklesshq.com/p/the-bull-case-for-rocketpool-with",
-          "publishedOn": "2022-09-03T16:01:18.000Z",
-          "wordCount": null,
-          "title": "The Bull Case for Rocketpool with Marceau & Ken Smith",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/71615537.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
