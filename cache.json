@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512",
+          "author": "Ryan Sean Adams",
+          "description": "Vitalik's thoughts on A.I. and its relationship to crypto",
+          "link": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512",
+          "publishedOn": "2022-10-03T10:31:09.000Z",
+          "wordCount": null,
+          "title": "138 - What's Next? Vitalik Buterin | Part II",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/GM7ehAu-pWk",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/GM7ehAu-pWk"
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is",
           "author": "Ryan Sean Adams",
           "description": "Listen now (102 min) | 5th Week of September, 2022",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/71588750.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-crypto-wars-20",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (20 min) | Debriefing the episode with Zooko",
-          "link": "https://shows.banklesshq.com/p/debrief-crypto-wars-20",
-          "publishedOn": "2022-09-05T10:30:20.000Z",
-          "wordCount": null,
-          "title": "Debrief - Crypto Wars 2.0",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/71589607.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-03T06:41:12.215Z</id>
+    <id>urn:2022-10-04T06:37:59.609Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-03T06:41:12.215Z</updated>
+    <updated>2022-10-04T06:37:59.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[138 - What's Next? Vitalik Buterin | Part II]]></title>
+        <id>https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512</id>
+        <link href="https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512"/>
+        <updated>2022-10-03T10:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik's thoughts on A.I. and its relationship to crypto]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: NFTs Are Hot Again | Macro is Breaking?! | CFTC Prosecuting DAO Token Holders]]></title>
         <id>https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko"/>
         <updated>2022-09-05T10:30:20.000Z</updated>
         <summary type="html"><![CDATA[Listen now (89 min) | The next chapter of crypto privacy]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Crypto Wars 2.0]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-crypto-wars-20</id>
-        <link href="https://shows.banklesshq.com/p/debrief-crypto-wars-20"/>
-        <updated>2022-09-05T10:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (20 min) | Debriefing the episode with Zooko]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
