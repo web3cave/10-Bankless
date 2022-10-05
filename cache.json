@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist",
+          "author": "David Hoffman",
+          "description": "Listen now (62 min) | Can TradMedia keep up?",
+          "link": "https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist",
+          "publishedOn": "2022-10-04T10:31:02.000Z",
+          "wordCount": null,
+          "title": "What’s It Take To Be a Crypto Journalist? with Coindesk's Eli Tan and Casey Craig | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/76384425.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512",
           "author": "Ryan Sean Adams",
           "description": "Vitalik's thoughts on A.I. and its relationship to crypto",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/72213595.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (89 min) | The next chapter of crypto privacy",
-          "link": "https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko",
-          "publishedOn": "2022-09-05T10:30:20.000Z",
-          "wordCount": null,
-          "title": "135 - Crypto Wars 2.0 with Zooko",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/71588750.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

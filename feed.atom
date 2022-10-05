@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T06:37:59.609Z</id>
+    <id>urn:2022-10-05T06:45:34.167Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-04T06:37:59.609Z</updated>
+    <updated>2022-10-05T06:45:34.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What’s It Take To Be a Crypto Journalist? with Coindesk's Eli Tan and Casey Craig | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist</id>
+        <link href="https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist"/>
+        <updated>2022-10-04T10:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (62 min) | Can TradMedia keep up?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[138 - What's Next? Vitalik Buterin | Part II]]></title>
         <id>https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes"/>
         <updated>2022-09-07T09:09:28.000Z</updated>
         <summary type="html"><![CDATA[Listen now (79 min) | Denominating Your Net Worth in Hydrocarbons]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[135 - Crypto Wars 2.0 with Zooko]]></title>
-        <id>https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko</id>
-        <link href="https://shows.banklesshq.com/p/135-crypto-wars-20-with-zooko"/>
-        <updated>2022-09-05T10:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (89 min) | The next chapter of crypto privacy]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
