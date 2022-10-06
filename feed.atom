@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T06:45:34.167Z</id>
+    <id>urn:2022-10-06T06:35:35.141Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-05T06:45:34.167Z</updated>
+    <updated>2022-10-06T06:35:35.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Current State of the NFT Market with Garyvee]]></title>
+        <id>https://shows.banklesshq.com/p/the-current-state-of-the-nft-market</id>
+        <link href="https://shows.banklesshq.com/p/the-current-state-of-the-nft-market"/>
+        <updated>2022-10-05T10:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (44 min) | Should we be more bullish?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s It Take To Be a Crypto Journalist? with Coindesk's Eli Tan and Casey Craig | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-arthur-hayes"/>
         <updated>2022-09-07T09:15:19.000Z</updated>
         <summary type="html"><![CDATA[Listen now (30 min) | 1D = 1B]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trading the Merge | Arthur Hayes]]></title>
-        <id>https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes</id>
-        <link href="https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes"/>
-        <updated>2022-09-07T09:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (79 min) | Denominating Your Net Worth in Hydrocarbons]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

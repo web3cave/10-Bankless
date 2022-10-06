@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-current-state-of-the-nft-market",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (44 min) | Should we be more bullish?",
+          "link": "https://shows.banklesshq.com/p/the-current-state-of-the-nft-market",
+          "publishedOn": "2022-10-05T10:30:52.000Z",
+          "wordCount": null,
+          "title": "The Current State of the NFT Market with Garyvee",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/76567532.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist",
           "author": "David Hoffman",
           "description": "Listen now (62 min) | Can TradMedia keep up?",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/72215296.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (79 min) | Denominating Your Net Worth in Hydrocarbons",
-          "link": "https://shows.banklesshq.com/p/trading-the-merge-arthur-hayes",
-          "publishedOn": "2022-09-07T09:09:28.000Z",
-          "wordCount": null,
-          "title": "Trading the Merge | Arthur Hayes",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/72213595.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
