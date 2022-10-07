@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T06:35:35.141Z</id>
+    <id>urn:2022-10-07T06:38:52.345Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-06T06:35:35.141Z</updated>
+    <updated>2022-10-07T06:38:52.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - The Cosmos Thesis]]></title>
+        <id>https://shows.banklesshq.com/p/the-cosmos-thesis-debrief</id>
+        <link href="https://shows.banklesshq.com/p/the-cosmos-thesis-debrief"/>
+        <updated>2022-10-07T04:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the episode with Sunny and Zaki]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with"/>
+        <updated>2022-10-07T04:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (89 min) | Did we just become Cosmos-pilled?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens Next in Crypto? with Fiskantes & Matti]]></title>
+        <id>https://shows.banklesshq.com/p/what-happens-next-in-crypto-with</id>
+        <link href="https://shows.banklesshq.com/p/what-happens-next-in-crypto-with"/>
+        <updated>2022-10-06T10:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | A glimpse into the future of the space]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Current State of the NFT Market with Garyvee]]></title>
         <id>https://shows.banklesshq.com/p/the-current-state-of-the-nft-market</id>
@@ -171,36 +201,6 @@
         <link href="https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri"/>
         <updated>2022-09-12T07:36:14.000Z</updated>
         <summary type="html"><![CDATA[Listen now (89 min) | Can we solve our hardest problems?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ETH Merge: BULL OR BEAR? David debates Jordi Alexander]]></title>
-        <id>https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david</id>
-        <link href="https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david"/>
-        <updated>2022-09-10T18:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (89 min) | Let us know what you think!]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Ethereum Merge Bellatrix Upgrade | Binance USDC Stablecoin Wars | Coinbase Treasury Tornado Lawsuit]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade</id>
-        <link href="https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade"/>
-        <updated>2022-09-09T09:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (90 min) | 2nd Week of Mergetember]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief | Arthur Hayes]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-arthur-hayes</id>
-        <link href="https://shows.banklesshq.com/p/debrief-arthur-hayes"/>
-        <updated>2022-09-07T09:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (30 min) | 1D = 1B]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

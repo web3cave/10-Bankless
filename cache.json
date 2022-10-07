@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-cosmos-thesis-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (29 min) | Debriefing the episode with Sunny and Zaki",
+          "link": "https://shows.banklesshq.com/p/the-cosmos-thesis-debrief",
+          "publishedOn": "2022-10-07T04:41:21.000Z",
+          "wordCount": null,
+          "title": "Debrief - The Cosmos Thesis",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/76961930.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (89 min) | Did we just become Cosmos-pilled?",
+          "link": "https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with",
+          "publishedOn": "2022-10-07T04:41:09.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/76941323.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/what-happens-next-in-crypto-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (77 min) | A glimpse into the future of the space",
+          "link": "https://shows.banklesshq.com/p/what-happens-next-in-crypto-with",
+          "publishedOn": "2022-10-06T10:31:01.000Z",
+          "wordCount": null,
+          "title": "What Happens Next in Crypto? with Fiskantes & Matti",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/76690929.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-current-state-of-the-nft-market",
           "author": "Ryan Sean Adams",
           "description": "Listen now (44 min) | Should we be more bullish?",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/72939493.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (89 min) | Let us know what you think!",
-          "link": "https://shows.banklesshq.com/p/the-eth-merge-bull-or-bear-david",
-          "publishedOn": "2022-09-10T18:00:04.000Z",
-          "wordCount": null,
-          "title": "The ETH Merge: BULL OR BEAR? David debates Jordi Alexander",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/72603409.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (90 min) | 2nd Week of Mergetember",
-          "link": "https://shows.banklesshq.com/p/rollup-ethereum-merge-bellatrix-upgrade",
-          "publishedOn": "2022-09-09T09:00:22.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Ethereum Merge Bellatrix Upgrade | Binance USDC Stablecoin Wars | Coinbase Treasury Tornado Lawsuit",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/72537587.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-arthur-hayes",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (30 min) | 1D = 1B",
-          "link": "https://shows.banklesshq.com/p/debrief-arthur-hayes",
-          "publishedOn": "2022-09-07T09:15:19.000Z",
-          "wordCount": null,
-          "title": "Debrief | Arthur Hayes",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/72215296.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
