@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (81 min) | First Week of October, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler",
+          "publishedOn": "2022-10-07T09:21:54.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Kim Kardashian vs Gary Gensler | Credit Suisse Crisis | Celsius Foul Play | ENS NFTs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/76988475.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-cosmos-thesis-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (29 min) | Debriefing the episode with Sunny and Zaki",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/72961372.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (89 min) | Can we solve our hardest problems?",
-          "link": "https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri",
-          "publishedOn": "2022-09-12T07:36:14.000Z",
-          "wordCount": null,
-          "title": "136 - WWIII vs the Machines | Demetri Kofinas",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/72939493.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T06:38:52.345Z</id>
+    <id>urn:2022-10-08T06:33:13.903Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-07T06:38:52.345Z</updated>
+    <updated>2022-10-08T06:33:13.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Kim Kardashian vs Gary Gensler | Credit Suisse Crisis | Celsius Foul Play | ENS NFTs]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler</id>
+        <link href="https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler"/>
+        <updated>2022-10-07T09:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (81 min) | First Week of October, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - The Cosmos Thesis]]></title>
         <id>https://shows.banklesshq.com/p/the-cosmos-thesis-debrief</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-demetri"/>
         <updated>2022-09-12T07:36:26.000Z</updated>
         <summary type="html"><![CDATA[Listen now (20 min) | Our Takes on a Possible World War III]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[136 - WWIII vs the Machines | Demetri Kofinas]]></title>
-        <id>https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri</id>
-        <link href="https://shows.banklesshq.com/p/136-wwiii-vs-the-machines-demetri"/>
-        <updated>2022-09-12T07:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (89 min) | Can we solve our hardest problems?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
