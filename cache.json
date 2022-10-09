@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-bull-case-for-euler",
+          "author": "David Hoffman",
+          "description": "Listen now (49 min) | Alpha Leak",
+          "link": "https://shows.banklesshq.com/p/the-bull-case-for-euler",
+          "publishedOn": "2022-10-08T18:00:35.000Z",
+          "wordCount": null,
+          "title": "The Bull Case for Euler",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/77078211.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler",
           "author": "Ryan Sean Adams",
           "description": "Listen now (81 min) | First Week of October, 2022",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/73307853.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-demetri",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (20 min) | Our Takes on a Possible World War III",
-          "link": "https://shows.banklesshq.com/p/debrief-demetri",
-          "publishedOn": "2022-09-12T07:36:26.000Z",
-          "wordCount": null,
-          "title": "Debrief - Demetri Kofinas",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/72961372.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
