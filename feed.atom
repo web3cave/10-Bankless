@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T06:53:11.758Z</id>
+    <id>urn:2022-10-11T06:49:10.856Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T06:53:11.758Z</updated>
+    <updated>2022-10-11T06:49:10.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian]]></title>
+        <title type="html"><![CDATA[139 - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian]]></title>
         <id>https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with</id>
         <link href="https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with"/>
         <updated>2022-10-07T04:41:09.000Z</updated>
