@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat",
+          "author": "David Hoffman",
+          "description": "Listen now (69 min) | Diving into Basement-Level Crypto Theory",
+          "link": "https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat",
+          "publishedOn": "2022-10-11T09:20:12.000Z",
+          "wordCount": null,
+          "title": "Building Power Structures with Parker Jay-Pachirat | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/77741587.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-bull-case-for-euler",
           "author": "David Hoffman",
           "description": "Listen now (49 min) | Alpha Leak",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/73576160.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (88 min) | Kicking off Merge Week by Dusting off some Bad Takes",
-          "link": "https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake",
-          "publishedOn": "2022-09-14T09:30:36.000Z",
-          "wordCount": null,
-          "title": "15 Bad ETH Takes with Justin Drake",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/73307853.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T06:49:10.856Z</id>
+    <id>urn:2022-10-12T06:39:04.452Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T06:49:10.856Z</updated>
+    <updated>2022-10-12T06:39:04.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building Power Structures with Parker Jay-Pachirat | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat</id>
+        <link href="https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat"/>
+        <updated>2022-10-11T09:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (69 min) | Diving into Basement-Level Crypto Theory]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bull Case for Euler]]></title>
         <id>https://shows.banklesshq.com/p/the-bull-case-for-euler</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown"/>
         <updated>2022-09-16T08:47:22.000Z</updated>
         <summary type="html"><![CDATA[Listen now (90 min) | 3rd Week of Mergetember, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Bad ETH Takes with Justin Drake]]></title>
-        <id>https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake</id>
-        <link href="https://shows.banklesshq.com/p/15-bad-eth-takes-with-justin-drake"/>
-        <updated>2022-09-14T09:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (88 min) | Kicking off Merge Week by Dusting off some Bad Takes]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
