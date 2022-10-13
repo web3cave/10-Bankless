@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism",
+          "author": "David Hoffman",
+          "description": "Listen now (61 min) | The Battle for Bitcoin's Soul",
+          "link": "https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism",
+          "publishedOn": "2022-10-12T07:50:55.000Z",
+          "wordCount": null,
+          "title": "Rejecting Bitcoin Fundamentalism | Dan Held",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/77933448.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat",
           "author": "David Hoffman",
           "description": "Listen now (69 min) | Diving into Basement-Level Crypto Theory",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/73685769.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (90 min) | 3rd Week of Mergetember, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown",
-          "publishedOn": "2022-09-16T08:47:22.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Ethereum Merge Breakdown",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/73576160.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T06:39:04.452Z</id>
+    <id>urn:2022-10-13T06:51:34.709Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-12T06:39:04.452Z</updated>
+    <updated>2022-10-13T06:51:34.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rejecting Bitcoin Fundamentalism | Dan Held]]></title>
+        <id>https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism</id>
+        <link href="https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism"/>
+        <updated>2022-10-12T07:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (61 min) | The Battle for Bitcoin's Soul]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Power Structures with Parker Jay-Pachirat | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto"/>
         <updated>2022-09-17T04:44:17.000Z</updated>
         <summary type="html"><![CDATA[Listen now (72 min) | Wealth, greed, happiness, and how to invest]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Ethereum Merge Breakdown]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown</id>
-        <link href="https://shows.banklesshq.com/p/rollup-ethereum-merge-breakdown"/>
-        <updated>2022-09-16T08:47:22.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (90 min) | 3rd Week of Mergetember, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
