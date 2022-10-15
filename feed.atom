@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-14T06:54:35.028Z</id>
+    <id>urn:2022-10-15T06:37:46.117Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-14T06:54:35.028Z</updated>
+    <updated>2022-10-15T06:37:46.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Huge Binance Exploit | David Sues the Treasury | Devcon Bogota | PayPal Censoring]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david</id>
+        <link href="https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david"/>
+        <updated>2022-10-14T08:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (86 min) | 2nd Week of October, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rejecting Bitcoin Fundamentalism | Dan Held]]></title>
         <id>https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (90 min) | Slaying Moloch for good?]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[137 - The Psychology of Crypto with Morgan Housel]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto</id>
-        <link href="https://shows.banklesshq.com/p/early-access-the-psychology-of-crypto"/>
-        <updated>2022-09-17T04:44:17.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (72 min) | Wealth, greed, happiness, and how to invest]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
