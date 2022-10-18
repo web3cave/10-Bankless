@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-noah",
+          "author": null,
+          "description": "Listen now (29 min) | Debriefing the Episode with Noah Smith",
+          "link": "https://shows.banklesshq.com/p/debrief-noah",
+          "publishedOn": "2022-10-17T10:04:18.000Z",
+          "wordCount": null,
+          "title": "Debrief - The Future is Fiat",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/78941955.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith",
+          "author": null,
+          "description": "Listen now (93 min) | Articulations from a Knowledgeable Outsider",
+          "link": "https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith",
+          "publishedOn": "2022-10-17T10:02:17.000Z",
+          "wordCount": null,
+          "title": "140 - The Future is Fiat | Noah Smith",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/78939194.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david",
           "author": "Ryan Sean Adams",
           "description": "Listen now (86 min) | 2nd Week of October, 2022",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/74323942.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/merged-with-tim-beiko-and-danny-ryan",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (74 min) | Debriefing Crypto's Biggest Upgrade Ever",
-          "link": "https://shows.banklesshq.com/p/merged-with-tim-beiko-and-danny-ryan",
-          "publishedOn": "2022-09-21T07:31:37.000Z",
-          "wordCount": null,
-          "title": "MERGED with Tim Beiko & Danny Ryan",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/74204427.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/building-a-better-ponzi-with-ameen",
-          "author": "David Hoffman",
-          "description": "Listen now (90 min) | Slaying Moloch for good?",
-          "link": "https://shows.banklesshq.com/p/building-a-better-ponzi-with-ameen",
-          "publishedOn": "2022-09-20T16:01:14.000Z",
-          "wordCount": null,
-          "title": "Building A Better Ponzi with Ameen Soleimani | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/74065045.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

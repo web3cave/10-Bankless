@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-17T06:57:16.690Z</id>
+    <id>urn:2022-10-18T07:01:05.111Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-17T06:57:16.690Z</updated>
+    <updated>2022-10-18T07:01:05.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - The Future is Fiat]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-noah</id>
+        <link href="https://shows.banklesshq.com/p/debrief-noah"/>
+        <updated>2022-10-17T10:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the Episode with Noah Smith]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[140 - The Future is Fiat | Noah Smith]]></title>
+        <id>https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith</id>
+        <link href="https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith"/>
+        <updated>2022-10-17T10:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (93 min) | Articulations from a Knowledgeable Outsider]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Huge Binance Exploit | David Sues the Treasury | Devcon Bogota | PayPal Censoring]]></title>
         <id>https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now (118 min) | Post-merge and beyond—the next era of Ethereum begins]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MERGED with Tim Beiko & Danny Ryan]]></title>
-        <id>https://shows.banklesshq.com/p/merged-with-tim-beiko-and-danny-ryan</id>
-        <link href="https://shows.banklesshq.com/p/merged-with-tim-beiko-and-danny-ryan"/>
-        <updated>2022-09-21T07:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | Debriefing Crypto's Biggest Upgrade Ever]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Better Ponzi with Ameen Soleimani | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/building-a-better-ponzi-with-ameen</id>
-        <link href="https://shows.banklesshq.com/p/building-a-better-ponzi-with-ameen"/>
-        <updated>2022-09-20T16:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (90 min) | Slaying Moloch for good?]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
