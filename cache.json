@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (52 min) | Big W for the space",
+          "link": "https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with",
+          "publishedOn": "2022-10-20T10:30:51.000Z",
+          "wordCount": null,
+          "title": "Massive Arbitrum Acquisition!! with Steven Goldfeder & Preston Van Loon",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/79509168.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-noah",
           "author": null,
           "description": "Listen now (29 min) | Debriefing the Episode with Noah Smith",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/74387316.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-whats-next-vitalik-buterin",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (118 min) | Post-merge and beyond—the next era of Ethereum begins",
-          "link": "https://shows.banklesshq.com/p/early-access-whats-next-vitalik-buterin",
-          "publishedOn": "2022-09-22T09:49:53.000Z",
-          "wordCount": null,
-          "title": "EARLY ACCESS - What's Next? Vitalik Buterin | Part I & Part II",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/74323942.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

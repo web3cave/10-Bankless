@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-20T06:40:24.457Z</id>
+    <id>urn:2022-10-21T06:42:41.622Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-20T06:40:24.457Z</updated>
+    <updated>2022-10-21T06:42:41.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Massive Arbitrum Acquisition!! with Steven Goldfeder & Preston Van Loon]]></title>
+        <id>https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with</id>
+        <link href="https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with"/>
+        <updated>2022-10-20T10:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (52 min) | Big W for the space]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - The Future is Fiat]]></title>
         <id>https://shows.banklesshq.com/p/debrief-noah</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/vitalik-debrief"/>
         <updated>2022-09-22T09:50:07.000Z</updated>
         <summary type="html"><![CDATA[Listen now (38 min) | Debriefing the episode with Vitalik]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - What's Next? Vitalik Buterin | Part I & Part II]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-whats-next-vitalik-buterin</id>
-        <link href="https://shows.banklesshq.com/p/early-access-whats-next-vitalik-buterin"/>
-        <updated>2022-09-22T09:49:53.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (118 min) | Post-merge and beyond—the next era of Ethereum begins]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
