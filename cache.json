@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-ben-hunt",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (33 min) | Debriefing the Episode with Ben Hunt",
+          "link": "https://shows.banklesshq.com/p/debrief-ben-hunt",
+          "publishedOn": "2022-10-22T03:52:34.000Z",
+          "wordCount": null,
+          "title": "Debrief - Who Stole the Wealth?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/79917932.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-who-stole-the-wealth",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (77 min) | The era of hollowness and what to do about it",
+          "link": "https://shows.banklesshq.com/p/early-access-who-stole-the-wealth",
+          "publishedOn": "2022-10-22T03:52:30.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Who Stole the Wealth? with Ben Hunt",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/79916371.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (87 min) | 3rd Week of October, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos",
+          "publishedOn": "2022-10-21T10:30:36.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Is SBF Killing DeFi?? | Aptos Launch Down Bad | Ethereum Censorship Heats Up | Reddit Onboarding Millions",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/79740184.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with",
           "author": "Ryan Sean Adams",
           "description": "Listen now (52 min) | Big W for the space",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/75327426.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part",
-          "author": "Ryan Sean Adams",
-          "description": "Post-merge and beyond—the next era of Ethereum begins",
-          "link": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part",
-          "publishedOn": "2022-09-26T10:31:14.000Z",
-          "wordCount": null,
-          "title": "138 - What's Next? Vitalik Buterin | Part I",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/tKjs8bBQ3sk",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/tKjs8bBQ3sk"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (88 min) | 4th Week of September, 2022",
-          "link": "https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto",
-          "publishedOn": "2022-09-23T10:31:05.000Z",
-          "wordCount": null,
-          "title": "Post-Merge Recap | White House Crypto Regulatory | $160M Wintermute Hack | Do Kwon on the Run?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/74546237.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/vitalik-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (38 min) | Debriefing the episode with Vitalik",
-          "link": "https://shows.banklesshq.com/p/vitalik-debrief",
-          "publishedOn": "2022-09-22T09:50:07.000Z",
-          "wordCount": null,
-          "title": "Debrief - What's Next? Vitalik Buterin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/74387316.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

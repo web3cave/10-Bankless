@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T06:42:41.622Z</id>
+    <id>urn:2022-10-22T06:35:10.750Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-21T06:42:41.622Z</updated>
+    <updated>2022-10-22T06:35:10.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Who Stole the Wealth?]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-ben-hunt</id>
+        <link href="https://shows.banklesshq.com/p/debrief-ben-hunt"/>
+        <updated>2022-10-22T03:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (33 min) | Debriefing the Episode with Ben Hunt]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Who Stole the Wealth? with Ben Hunt]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-who-stole-the-wealth</id>
+        <link href="https://shows.banklesshq.com/p/early-access-who-stole-the-wealth"/>
+        <updated>2022-10-22T03:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | The era of hollowness and what to do about it]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Is SBF Killing DeFi?? | Aptos Launch Down Bad | Ethereum Censorship Heats Up | Reddit Onboarding Millions]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos</id>
+        <link href="https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos"/>
+        <updated>2022-10-21T10:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (87 min) | 3rd Week of October, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Massive Arbitrum Acquisition!! with Steven Goldfeder & Preston Van Loon]]></title>
         <id>https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with</id>
@@ -171,36 +201,6 @@
         <link href="https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb"/>
         <updated>2022-09-28T10:31:09.000Z</updated>
         <summary type="html"><![CDATA[Listen now (83 min) | The frontier is being built before our eyes]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[138 - What's Next? Vitalik Buterin | Part I]]></title>
-        <id>https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part</id>
-        <link href="https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part"/>
-        <updated>2022-09-26T10:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Post-merge and beyond—the next era of Ethereum begins]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-Merge Recap | White House Crypto Regulatory | $160M Wintermute Hack | Do Kwon on the Run?]]></title>
-        <id>https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto</id>
-        <link href="https://shows.banklesshq.com/p/post-merge-recap-white-house-crypto"/>
-        <updated>2022-09-23T10:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (88 min) | 4th Week of September, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - What's Next? Vitalik Buterin]]></title>
-        <id>https://shows.banklesshq.com/p/vitalik-debrief</id>
-        <link href="https://shows.banklesshq.com/p/vitalik-debrief"/>
-        <updated>2022-09-22T09:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (38 min) | Debriefing the episode with Vitalik]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
