@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-24T07:01:45.606Z</id>
+    <id>urn:2022-10-25T07:00:25.715Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-24T07:01:45.606Z</updated>
+    <updated>2022-10-25T07:00:25.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,7 +16,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Who Stole the Wealth? with Ben Hunt]]></title>
+        <title type="html"><![CDATA[141 - Who Stole the Wealth? with Ben Hunt]]></title>
         <id>https://shows.banklesshq.com/p/early-access-who-stole-the-wealth</id>
         <link href="https://shows.banklesshq.com/p/early-access-who-stole-the-wealth"/>
         <updated>2022-10-22T03:52:30.000Z</updated>
