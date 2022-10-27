@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (52 min) | Web3 Fantasy Sports",
+          "link": "https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with",
+          "publishedOn": "2022-10-26T10:30:52.000Z",
+          "wordCount": null,
+          "title": "Scaling Sorare's NFT Platform with CEO & Co-Founder, Nicolas Julia",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/80712286.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-ben-hunt",
           "author": "Ryan Sean Adams",
           "description": "Listen now (33 min) | Debriefing the Episode with Ben Hunt",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/75526955.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (83 min) | The frontier is being built before our eyes",
-          "link": "https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb",
-          "publishedOn": "2022-09-28T10:31:09.000Z",
-          "wordCount": null,
-          "title": "The zkEVM is Here | zkSync's Steve Newcomb",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/75327426.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

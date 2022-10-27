@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-26T06:33:41.404Z</id>
+    <id>urn:2022-10-27T06:30:16.139Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-26T06:33:41.404Z</updated>
+    <updated>2022-10-27T06:30:16.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scaling Sorare's NFT Platform with CEO & Co-Founder, Nicolas Julia]]></title>
+        <id>https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with</id>
+        <link href="https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with"/>
+        <updated>2022-10-26T10:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (52 min) | Web3 Fantasy Sports]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Who Stole the Wealth?]]></title>
         <id>https://shows.banklesshq.com/p/debrief-ben-hunt</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (54 min) | The ultimate vibe and force to be reckoned with]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The zkEVM is Here | zkSync's Steve Newcomb]]></title>
-        <id>https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb</id>
-        <link href="https://shows.banklesshq.com/p/the-zkevm-is-here-zksyncs-steve-newcomb"/>
-        <updated>2022-09-28T10:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (83 min) | The frontier is being built before our eyes]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
