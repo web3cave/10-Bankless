@@ -6,6 +6,134 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/devcon-7-kevin-owoki",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (13 min) | Supermodular",
+          "link": "https://shows.banklesshq.com/p/devcon-7-kevin-owoki",
+          "publishedOn": "2022-10-28T17:51:36.000Z",
+          "wordCount": null,
+          "title": "Devcon #7 - Kevin Owoki",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81234725.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (14 min) | The Layer 2 Wars",
+          "link": "https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski",
+          "publishedOn": "2022-10-28T17:48:22.000Z",
+          "wordCount": null,
+          "title": "Devcon #6 - Bartek Kiepuszewski",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81234574.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (11 min) | The Heart of Ethereum",
+          "link": "https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi",
+          "publishedOn": "2022-10-28T17:45:57.000Z",
+          "wordCount": null,
+          "title": "Devcon #5 - Aya Miyaguchi",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81233206.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/devcon-4-peter-szilagyi",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (21 min) | Building Geth",
+          "link": "https://shows.banklesshq.com/p/devcon-4-peter-szilagyi",
+          "publishedOn": "2022-10-28T17:21:51.000Z",
+          "wordCount": null,
+          "title": "Devcon #4 - Péter Szilágyi",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81229915.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/devcon-3-dankrad",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (12 min) | EIP-4844",
+          "link": "https://shows.banklesshq.com/p/devcon-3-dankrad",
+          "publishedOn": "2022-10-28T17:14:31.000Z",
+          "wordCount": null,
+          "title": "Devcon #3 - Dankrad",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81228972.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/devcon-2-justin-drake",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (19 min) | The Next Steps for ETH",
+          "link": "https://shows.banklesshq.com/p/devcon-2-justin-drake",
+          "publishedOn": "2022-10-28T16:59:42.000Z",
+          "wordCount": null,
+          "title": "Devcon #2 - Justin Drake",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81225204.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/devcon-1-vitalik-buterin",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (25 min) | A New Era for Ethereum",
+          "link": "https://shows.banklesshq.com/p/devcon-1-vitalik-buterin",
+          "publishedOn": "2022-10-28T16:48:09.000Z",
+          "wordCount": null,
+          "title": "Devcon #1 - Vitalik Buterin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81224753.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-new-apple-nft-policy-eth-is",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (88 min) | 🎃 SpoOky Edition 👻",
+          "link": "https://shows.banklesshq.com/p/rollup-new-apple-nft-policy-eth-is",
+          "publishedOn": "2022-10-28T10:19:01.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: NEW Apple NFT Policy | ETH is Ultra Sound Money | Lord of the Rings NFTs | Elon Twitter | FTX Stable",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81164178.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with",
           "author": "Ryan Sean Adams",
           "description": "Listen now (52 min) | Web3 Fantasy Sports",
@@ -192,134 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/76988475.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-cosmos-thesis-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (29 min) | Debriefing the episode with Sunny and Zaki",
-          "link": "https://shows.banklesshq.com/p/the-cosmos-thesis-debrief",
-          "publishedOn": "2022-10-07T04:41:21.000Z",
-          "wordCount": null,
-          "title": "Debrief - The Cosmos Thesis",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/76961930.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (89 min) | Did we just become Cosmos-pilled?",
-          "link": "https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with",
-          "publishedOn": "2022-10-07T04:41:09.000Z",
-          "wordCount": null,
-          "title": "139 - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/76941323.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/what-happens-next-in-crypto-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (77 min) | A glimpse into the future of the space",
-          "link": "https://shows.banklesshq.com/p/what-happens-next-in-crypto-with",
-          "publishedOn": "2022-10-06T10:31:01.000Z",
-          "wordCount": null,
-          "title": "What Happens Next in Crypto? with Fiskantes & Matti",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/76690929.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-current-state-of-the-nft-market",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (44 min) | Should we be more bullish?",
-          "link": "https://shows.banklesshq.com/p/the-current-state-of-the-nft-market",
-          "publishedOn": "2022-10-05T10:30:52.000Z",
-          "wordCount": null,
-          "title": "The Current State of the NFT Market with Garyvee",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/76567532.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist",
-          "author": "David Hoffman",
-          "description": "Listen now (62 min) | Can TradMedia keep up?",
-          "link": "https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist",
-          "publishedOn": "2022-10-04T10:31:02.000Z",
-          "wordCount": null,
-          "title": "What’s It Take To Be a Crypto Journalist? with Coindesk's Eli Tan and Casey Craig | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/76384425.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512",
-          "author": "Ryan Sean Adams",
-          "description": "Vitalik's thoughts on A.I. and its relationship to crypto",
-          "link": "https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512",
-          "publishedOn": "2022-10-03T10:31:09.000Z",
-          "wordCount": null,
-          "title": "138 - What's Next? Vitalik Buterin | Part II",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/GM7ehAu-pWk",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/GM7ehAu-pWk"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (102 min) | 5th Week of September, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is",
-          "publishedOn": "2022-10-01T00:57:08.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: NFTs Are Hot Again | Macro is Breaking?! | CFTC Prosecuting DAO Token Holders",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/75867235.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha",
-          "author": "David Hoffman",
-          "description": "Listen now (54 min) | The ultimate vibe and force to be reckoned with",
-          "link": "https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha",
-          "publishedOn": "2022-09-29T10:30:16.000Z",
-          "wordCount": null,
-          "title": "Why Crypto Needs Boys Club with Natasha & Deana | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/75526955.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

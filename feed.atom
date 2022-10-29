@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-28T06:30:01.000Z</id>
+    <id>urn:2022-10-29T06:28:28.476Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-28T06:30:01.000Z</updated>
+    <updated>2022-10-29T06:28:28.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Devcon #7 - Kevin Owoki]]></title>
+        <id>https://shows.banklesshq.com/p/devcon-7-kevin-owoki</id>
+        <link href="https://shows.banklesshq.com/p/devcon-7-kevin-owoki"/>
+        <updated>2022-10-28T17:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (13 min) | Supermodular]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon #6 - Bartek Kiepuszewski]]></title>
+        <id>https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski</id>
+        <link href="https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski"/>
+        <updated>2022-10-28T17:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (14 min) | The Layer 2 Wars]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon #5 - Aya Miyaguchi]]></title>
+        <id>https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi</id>
+        <link href="https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi"/>
+        <updated>2022-10-28T17:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (11 min) | The Heart of Ethereum]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon #4 - Péter Szilágyi]]></title>
+        <id>https://shows.banklesshq.com/p/devcon-4-peter-szilagyi</id>
+        <link href="https://shows.banklesshq.com/p/devcon-4-peter-szilagyi"/>
+        <updated>2022-10-28T17:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (21 min) | Building Geth]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon #3 - Dankrad]]></title>
+        <id>https://shows.banklesshq.com/p/devcon-3-dankrad</id>
+        <link href="https://shows.banklesshq.com/p/devcon-3-dankrad"/>
+        <updated>2022-10-28T17:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (12 min) | EIP-4844]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon #2 - Justin Drake]]></title>
+        <id>https://shows.banklesshq.com/p/devcon-2-justin-drake</id>
+        <link href="https://shows.banklesshq.com/p/devcon-2-justin-drake"/>
+        <updated>2022-10-28T16:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (19 min) | The Next Steps for ETH]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon #1 - Vitalik Buterin]]></title>
+        <id>https://shows.banklesshq.com/p/devcon-1-vitalik-buterin</id>
+        <link href="https://shows.banklesshq.com/p/devcon-1-vitalik-buterin"/>
+        <updated>2022-10-28T16:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (25 min) | A New Era for Ethereum]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: NEW Apple NFT Policy | ETH is Ultra Sound Money | Lord of the Rings NFTs | Elon Twitter | FTX Stable]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-new-apple-nft-policy-eth-is</id>
+        <link href="https://shows.banklesshq.com/p/rollup-new-apple-nft-policy-eth-is"/>
+        <updated>2022-10-28T10:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (88 min) | 🎃 SpoOky Edition 👻]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaling Sorare's NFT Platform with CEO & Co-Founder, Nicolas Julia]]></title>
         <id>https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with</id>
@@ -123,86 +203,6 @@
         <summary type="html"><![CDATA[Listen now (81 min) | First Week of October, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - The Cosmos Thesis]]></title>
-        <id>https://shows.banklesshq.com/p/the-cosmos-thesis-debrief</id>
-        <link href="https://shows.banklesshq.com/p/the-cosmos-thesis-debrief"/>
-        <updated>2022-10-07T04:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the episode with Sunny and Zaki]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[139 - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with</id>
-        <link href="https://shows.banklesshq.com/p/early-access-the-cosmos-thesis-with"/>
-        <updated>2022-10-07T04:41:09.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (89 min) | Did we just become Cosmos-pilled?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens Next in Crypto? with Fiskantes & Matti]]></title>
-        <id>https://shows.banklesshq.com/p/what-happens-next-in-crypto-with</id>
-        <link href="https://shows.banklesshq.com/p/what-happens-next-in-crypto-with"/>
-        <updated>2022-10-06T10:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | A glimpse into the future of the space]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Current State of the NFT Market with Garyvee]]></title>
-        <id>https://shows.banklesshq.com/p/the-current-state-of-the-nft-market</id>
-        <link href="https://shows.banklesshq.com/p/the-current-state-of-the-nft-market"/>
-        <updated>2022-10-05T10:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (44 min) | Should we be more bullish?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s It Take To Be a Crypto Journalist? with Coindesk's Eli Tan and Casey Craig | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist</id>
-        <link href="https://shows.banklesshq.com/p/whats-it-take-to-be-a-crypto-journalist"/>
-        <updated>2022-10-04T10:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (62 min) | Can TradMedia keep up?]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[138 - What's Next? Vitalik Buterin | Part II]]></title>
-        <id>https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512</id>
-        <link href="https://shows.banklesshq.com/p/138-whats-next-vitalik-buterin-part-512"/>
-        <updated>2022-10-03T10:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik's thoughts on A.I. and its relationship to crypto]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: NFTs Are Hot Again | Macro is Breaking?! | CFTC Prosecuting DAO Token Holders]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is</id>
-        <link href="https://shows.banklesshq.com/p/rollup-nfts-are-hot-again-macro-is"/>
-        <updated>2022-10-01T00:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (102 min) | 5th Week of September, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Crypto Needs Boys Club with Natasha & Deana | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha</id>
-        <link href="https://shows.banklesshq.com/p/why-crypto-needs-boys-club-with-natasha"/>
-        <updated>2022-09-29T10:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (54 min) | The ultimate vibe and force to be reckoned with]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
