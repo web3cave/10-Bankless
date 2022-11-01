@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-31T06:30:11.068Z</id>
+    <id>urn:2022-11-01T06:34:17.701Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-31T06:30:11.068Z</updated>
+    <updated>2022-11-01T06:34:17.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SBF vs. Erik Voorhees: How Do We Regulate Crypto?]]></title>
+        <id>https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate</id>
+        <link href="https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate"/>
+        <updated>2022-10-31T10:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (109 min) | The debate of the year]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - How Do We Regulate Crypto?]]></title>
+        <id>https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief</id>
+        <link href="https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief"/>
+        <updated>2022-10-31T10:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (19 min) | Debriefing the SBF vs. Erik Voorhees episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devcon #7 - Kevin Owoki]]></title>
         <id>https://shows.banklesshq.com/p/devcon-7-kevin-owoki</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now (69 min) | Diving into Basement-Level Crypto Theory]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bull Case for Euler]]></title>
-        <id>https://shows.banklesshq.com/p/the-bull-case-for-euler</id>
-        <link href="https://shows.banklesshq.com/p/the-bull-case-for-euler"/>
-        <updated>2022-10-08T18:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (49 min) | Alpha Leak]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Kim Kardashian vs Gary Gensler | Credit Suisse Crisis | Celsius Foul Play | ENS NFTs]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler</id>
-        <link href="https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler"/>
-        <updated>2022-10-07T09:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (81 min) | First Week of October, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (109 min) | The debate of the year",
+          "link": "https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate",
+          "publishedOn": "2022-10-31T10:30:14.000Z",
+          "wordCount": null,
+          "title": "SBF vs. Erik Voorhees: How Do We Regulate Crypto?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81658619.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (19 min) | Debriefing the SBF vs. Erik Voorhees episode",
+          "link": "https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief",
+          "publishedOn": "2022-10-31T10:30:14.000Z",
+          "wordCount": null,
+          "title": "Debrief - How Do We Regulate Crypto?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81304662.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/devcon-7-kevin-owoki",
           "author": "Ryan Sean Adams",
           "description": "Listen now (13 min) | Supermodular",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/77741587.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-bull-case-for-euler",
-          "author": "David Hoffman",
-          "description": "Listen now (49 min) | Alpha Leak",
-          "link": "https://shows.banklesshq.com/p/the-bull-case-for-euler",
-          "publishedOn": "2022-10-08T18:00:35.000Z",
-          "wordCount": null,
-          "title": "The Bull Case for Euler",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/77078211.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (81 min) | First Week of October, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-kim-kardashian-vs-gary-gensler",
-          "publishedOn": "2022-10-07T09:21:54.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Kim Kardashian vs Gary Gensler | Credit Suisse Crisis | Celsius Foul Play | ENS NFTs",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/76988475.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
