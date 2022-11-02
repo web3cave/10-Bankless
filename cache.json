@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (81 min) | How will we recover? Alf has the answers.",
+          "link": "https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf",
+          "publishedOn": "2022-11-01T18:00:13.000Z",
+          "wordCount": null,
+          "title": "Did Macro Kill Crypto? with MacroAlf",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/81968651.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate",
           "author": "Ryan Sean Adams",
           "description": "Listen now (109 min) | The debate of the year",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/77933448.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat",
-          "author": "David Hoffman",
-          "description": "Listen now (69 min) | Diving into Basement-Level Crypto Theory",
-          "link": "https://shows.banklesshq.com/p/critical-theory-with-parker-jay-pachirat",
-          "publishedOn": "2022-10-11T09:20:12.000Z",
-          "wordCount": null,
-          "title": "Building Power Structures with Parker Jay-Pachirat | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/77741587.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
