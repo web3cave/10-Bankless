@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-unichain-is-inevitable",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (26 min) | Debriefing the Dan Elitzer episode.",
+          "link": "https://shows.banklesshq.com/p/debrief-unichain-is-inevitable",
+          "publishedOn": "2022-11-02T06:45:40.000Z",
+          "wordCount": null,
+          "title": "Debrief - UNIChain is Inevitable",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/82069153.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-unichain-is-inevitable",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (77 min) | Will the App Chain Thesis play-out?",
+          "link": "https://shows.banklesshq.com/p/early-access-unichain-is-inevitable",
+          "publishedOn": "2022-11-02T06:45:31.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - UNIChain is Inevitable with Dan Elitzer",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/82068571.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf",
           "author": "Ryan Sean Adams",
           "description": "Listen now (81 min) | How will we recover? Alf has the answers.",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/78939194.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (86 min) | 2nd Week of October, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david",
-          "publishedOn": "2022-10-14T08:30:06.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Huge Binance Exploit | David Sues the Treasury | Devcon Bogota | PayPal Censoring",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/78355376.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism",
-          "author": "David Hoffman",
-          "description": "Listen now (61 min) | The Battle for Bitcoin's Soul",
-          "link": "https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism",
-          "publishedOn": "2022-10-12T07:50:55.000Z",
-          "wordCount": null,
-          "title": "Rejecting Bitcoin Fundamentalism | Dan Held",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/77933448.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

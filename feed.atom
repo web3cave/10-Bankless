@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T06:33:20.184Z</id>
+    <id>urn:2022-11-03T06:29:51.560Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T06:33:20.184Z</updated>
+    <updated>2022-11-03T06:29:51.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debrief - UNIChain is Inevitable]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-unichain-is-inevitable</id>
+        <link href="https://shows.banklesshq.com/p/debrief-unichain-is-inevitable"/>
+        <updated>2022-11-02T06:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Dan Elitzer episode.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - UNIChain is Inevitable with Dan Elitzer]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-unichain-is-inevitable</id>
+        <link href="https://shows.banklesshq.com/p/early-access-unichain-is-inevitable"/>
+        <updated>2022-11-02T06:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | Will the App Chain Thesis play-out?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did Macro Kill Crypto? with MacroAlf]]></title>
         <id>https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf</id>
@@ -183,26 +203,6 @@
         <summary type="html"><![CDATA[Listen now (93 min) | Articulations from a Knowledgeable Outsider]]></summary>
         <author>
             <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Huge Binance Exploit | David Sues the Treasury | Devcon Bogota | PayPal Censoring]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david</id>
-        <link href="https://shows.banklesshq.com/p/rollup-huge-binance-exploit-david"/>
-        <updated>2022-10-14T08:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (86 min) | 2nd Week of October, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rejecting Bitcoin Fundamentalism | Dan Held]]></title>
-        <id>https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism</id>
-        <link href="https://shows.banklesshq.com/p/rejecting-bitcoin-fundamentalism"/>
-        <updated>2022-10-12T07:50:55.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (61 min) | The Battle for Bitcoin's Soul]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
