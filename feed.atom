@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-03T06:29:51.560Z</id>
+    <id>urn:2022-11-04T06:30:48.939Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-03T06:29:51.560Z</updated>
+    <updated>2022-11-04T06:30:48.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitboy | Two Different Worlds]]></title>
+        <id>https://shows.banklesshq.com/p/bitboy-two-different-worlds</id>
+        <link href="https://shows.banklesshq.com/p/bitboy-two-different-worlds"/>
+        <updated>2022-11-03T06:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (64 min) | Clearing the Air with Ben Armstrong]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - UNIChain is Inevitable]]></title>
         <id>https://shows.banklesshq.com/p/debrief-unichain-is-inevitable</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-noah"/>
         <updated>2022-10-17T10:04:18.000Z</updated>
         <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the Episode with Noah Smith]]></summary>
-        <author>
-            <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[140 - The Future is Fiat | Noah Smith]]></title>
-        <id>https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith</id>
-        <link href="https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith"/>
-        <updated>2022-10-17T10:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (93 min) | Articulations from a Knowledgeable Outsider]]></summary>
         <author>
             <name>Bankless Shows</name>
         </author>

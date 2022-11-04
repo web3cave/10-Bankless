@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/bitboy-two-different-worlds",
+          "author": "David Hoffman",
+          "description": "Listen now (64 min) | Clearing the Air with Ben Armstrong",
+          "link": "https://shows.banklesshq.com/p/bitboy-two-different-worlds",
+          "publishedOn": "2022-11-03T06:34:16.000Z",
+          "wordCount": null,
+          "title": "Bitboy | Two Different Worlds",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/82268192.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-unichain-is-inevitable",
           "author": "Ryan Sean Adams",
           "description": "Listen now (26 min) | Debriefing the Dan Elitzer episode.",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/78941955.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith",
-          "author": null,
-          "description": "Listen now (93 min) | Articulations from a Knowledgeable Outsider",
-          "link": "https://shows.banklesshq.com/p/140-the-future-is-fiat-noah-smith",
-          "publishedOn": "2022-10-17T10:02:17.000Z",
-          "wordCount": null,
-          "title": "140 - The Future is Fiat | Noah Smith",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/78939194.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
