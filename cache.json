@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | 1st Week of November, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram",
+          "publishedOn": "2022-11-04T10:30:58.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Elon Twitter Takeover | Instagram NFTs | Art Gobblers & Goo | JP Morgan Crypto | Bitcoin's Birthday",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/82474610.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/bitboy-two-different-worlds",
           "author": "David Hoffman",
           "description": "Listen now (64 min) | Clearing the Air with Ben Armstrong",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/79509168.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-noah",
-          "author": null,
-          "description": "Listen now (29 min) | Debriefing the Episode with Noah Smith",
-          "link": "https://shows.banklesshq.com/p/debrief-noah",
-          "publishedOn": "2022-10-17T10:04:18.000Z",
-          "wordCount": null,
-          "title": "Debrief - The Future is Fiat",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/78941955.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-04T06:30:48.939Z</id>
+    <id>urn:2022-11-05T06:27:14.157Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-04T06:30:48.939Z</updated>
+    <updated>2022-11-05T06:27:14.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Elon Twitter Takeover | Instagram NFTs | Art Gobblers & Goo | JP Morgan Crypto | Bitcoin's Birthday]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram</id>
+        <link href="https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram"/>
+        <updated>2022-11-04T10:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 1st Week of November, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitboy | Two Different Worlds]]></title>
         <id>https://shows.banklesshq.com/p/bitboy-two-different-worlds</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (52 min) | Big W for the space]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - The Future is Fiat]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-noah</id>
-        <link href="https://shows.banklesshq.com/p/debrief-noah"/>
-        <updated>2022-10-17T10:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (29 min) | Debriefing the Episode with Noah Smith]]></summary>
-        <author>
-            <name>Bankless Shows</name>
         </author>
     </entry>
 </feed>
