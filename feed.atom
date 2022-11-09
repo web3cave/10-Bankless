@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T06:30:07.184Z</id>
+    <id>urn:2022-11-09T06:34:46.396Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T06:30:07.184Z</updated>
+    <updated>2022-11-09T06:34:46.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Part 2: Brian Armstrong, Erik Voorhees, & Ryan Selkis on Binance’s Acquisition of FTX]]></title>
+        <id>https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees</id>
+        <link href="https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees"/>
+        <updated>2022-11-09T04:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (61 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 In Part 2, Ryan and David are joined by Brian Armstrong, Erik Voorhees, & Ryan Selkis to discuss what transpired today, how it’ll impact our industry, and what it means moving forward.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 1: Recap & Analysis on Binance Acquires FTX | CZ vs SBF]]></title>
+        <id>https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance</id>
+        <link href="https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance"/>
+        <updated>2022-11-09T04:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (72 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 On Part 1 of this two-part series, Ryan and David recap everything that happened leading up to today, what’s unfolded thus far, what happens next, and what it means for the crypto space writ large.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POV Crypto Reunites with Christian Keroles | Layer Zero]]></title>
+        <id>https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian</id>
+        <link href="https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian"/>
+        <updated>2022-11-08T11:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (67 min) | Team Ethereum vs. Team Bitcoin]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Elon Twitter Takeover | Instagram NFTs | Art Gobblers & Goo | JP Morgan Crypto | Bitcoin's Birthday]]></title>
         <id>https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram</id>
@@ -171,36 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-ben-hunt"/>
         <updated>2022-10-22T03:52:34.000Z</updated>
         <summary type="html"><![CDATA[Listen now (33 min) | Debriefing the Episode with Ben Hunt]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[141 - Who Stole the Wealth? with Ben Hunt]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-who-stole-the-wealth</id>
-        <link href="https://shows.banklesshq.com/p/early-access-who-stole-the-wealth"/>
-        <updated>2022-10-22T03:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | The era of hollowness and what to do about it]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Is SBF Killing DeFi?? | Aptos Launch Down Bad | Ethereum Censorship Heats Up | Reddit Onboarding Millions]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos</id>
-        <link href="https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos"/>
-        <updated>2022-10-21T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (87 min) | 3rd Week of October, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Arbitrum Acquisition!! with Steven Goldfeder & Preston Van Loon]]></title>
-        <id>https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with</id>
-        <link href="https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with"/>
-        <updated>2022-10-20T10:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (52 min) | Big W for the space]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

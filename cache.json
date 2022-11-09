@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (61 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 In Part 2, Ryan and David are joined by Brian Armstrong, Erik Voorhees, & Ryan Selkis to discuss what transpired today, how it’ll impact our industry, and what it means moving forward.",
+          "link": "https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees",
+          "publishedOn": "2022-11-09T04:43:39.000Z",
+          "wordCount": null,
+          "title": "Part 2: Brian Armstrong, Erik Voorhees, & Ryan Selkis on Binance’s Acquisition of FTX",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/83433786.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (72 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 On Part 1 of this two-part series, Ryan and David recap everything that happened leading up to today, what’s unfolded thus far, what happens next, and what it means for the crypto space writ large.",
+          "link": "https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance",
+          "publishedOn": "2022-11-09T04:17:03.000Z",
+          "wordCount": null,
+          "title": "Part 1: Recap & Analysis on Binance Acquires FTX | CZ vs SBF",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/83430791.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (67 min) | Team Ethereum vs. Team Bitcoin",
+          "link": "https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian",
+          "publishedOn": "2022-11-08T11:30:30.000Z",
+          "wordCount": null,
+          "title": "POV Crypto Reunites with Christian Keroles | Layer Zero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/83246200.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram",
           "author": "Ryan Sean Adams",
           "description": "Listen now | 1st Week of November, 2022",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/79917932.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-who-stole-the-wealth",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (77 min) | The era of hollowness and what to do about it",
-          "link": "https://shows.banklesshq.com/p/early-access-who-stole-the-wealth",
-          "publishedOn": "2022-10-22T03:52:30.000Z",
-          "wordCount": null,
-          "title": "141 - Who Stole the Wealth? with Ben Hunt",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/79916371.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (87 min) | 3rd Week of October, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-is-sbf-killing-defi-aptos",
-          "publishedOn": "2022-10-21T10:30:36.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Is SBF Killing DeFi?? | Aptos Launch Down Bad | Ethereum Censorship Heats Up | Reddit Onboarding Millions",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/79740184.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (52 min) | Big W for the space",
-          "link": "https://shows.banklesshq.com/p/massive-arbitrum-acquisition-with",
-          "publishedOn": "2022-10-20T10:30:51.000Z",
-          "wordCount": null,
-          "title": "Massive Arbitrum Acquisition!! with Steven Goldfeder & Preston Van Loon",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/79509168.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
