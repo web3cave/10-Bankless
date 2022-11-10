@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later",
+          "author": "David Freiburger",
+          "description": "Listen now (90 min) | Recapping the contagion",
+          "link": "https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later",
+          "publishedOn": "2022-11-10T04:14:41.000Z",
+          "wordCount": null,
+          "title": "The Collapse of FTX | 24 hours later",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/83631078.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees",
           "author": "Ryan Sean Adams",
           "description": "Listen now (61 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 In Part 2, Ryan and David are joined by Brian Armstrong, Erik Voorhees, & Ryan Selkis to discuss what transpired today, how it’ll impact our industry, and what it means moving forward.",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/80712286.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-ben-hunt",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (33 min) | Debriefing the Episode with Ben Hunt",
-          "link": "https://shows.banklesshq.com/p/debrief-ben-hunt",
-          "publishedOn": "2022-10-22T03:52:34.000Z",
-          "wordCount": null,
-          "title": "Debrief - Who Stole the Wealth?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/79917932.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

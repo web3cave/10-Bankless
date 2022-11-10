@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T06:34:46.396Z</id>
+    <id>urn:2022-11-10T06:28:22.036Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T06:34:46.396Z</updated>
+    <updated>2022-11-10T06:28:22.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Collapse of FTX | 24 hours later]]></title>
+        <id>https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later</id>
+        <link href="https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later"/>
+        <updated>2022-11-10T04:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (90 min) | Recapping the contagion]]></summary>
+        <author>
+            <name>David Freiburger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 2: Brian Armstrong, Erik Voorhees, & Ryan Selkis on Binance’s Acquisition of FTX]]></title>
         <id>https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with"/>
         <updated>2022-10-26T10:30:52.000Z</updated>
         <summary type="html"><![CDATA[Listen now (52 min) | Web3 Fantasy Sports]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Who Stole the Wealth?]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-ben-hunt</id>
-        <link href="https://shows.banklesshq.com/p/debrief-ben-hunt"/>
-        <updated>2022-10-22T03:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (33 min) | Debriefing the Episode with Ben Hunt]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
