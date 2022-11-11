@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/bankless-x-uponly-therapy-stream",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (133 min) | Much needed catharsis after the craziest week in crypto",
+          "link": "https://shows.banklesshq.com/p/bankless-x-uponly-therapy-stream",
+          "publishedOn": "2022-11-10T23:43:57.000Z",
+          "wordCount": null,
+          "title": "Bankless x UpOnly Therapy Stream",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/83810248.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later",
           "author": "David Freiburger",
           "description": "Listen now (90 min) | Recapping the contagion",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/81164178.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (52 min) | Web3 Fantasy Sports",
-          "link": "https://shows.banklesshq.com/p/scaling-sorares-nft-platform-with",
-          "publishedOn": "2022-10-26T10:30:52.000Z",
-          "wordCount": null,
-          "title": "Scaling Sorare's NFT Platform with CEO & Co-Founder, Nicolas Julia",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/80712286.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
