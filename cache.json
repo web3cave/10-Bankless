@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-molly-white",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (27 min) | Debriefing the Molly White episode",
+          "link": "https://shows.banklesshq.com/p/debrief-molly-white",
+          "publishedOn": "2022-11-12T02:06:25.000Z",
+          "wordCount": null,
+          "title": "Debrief - Web3 Is Going Great!!",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/84024725.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-web3-is-going-great",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (85 min) | An articulate crypto critic's perspective",
+          "link": "https://shows.banklesshq.com/p/early-access-web3-is-going-great",
+          "publishedOn": "2022-11-12T02:06:18.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Web3 Is Going Great!! with Molly White",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/84022374.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-the-sbf-and-ftx-aftermath",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (93 min) | 2nd Week of November",
+          "link": "https://shows.banklesshq.com/p/rollup-the-sbf-and-ftx-aftermath",
+          "publishedOn": "2022-11-11T11:30:11.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: The SBF & FTX Aftermath | ETH Goes Ultra Sound | NEW Ethereum Roadmap | OpenSea Royalties",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/83892157.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/bankless-x-uponly-therapy-stream",
           "author": "Ryan Sean Adams",
           "description": "Listen now (133 min) | Much needed catharsis after the craziest week in crypto",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/81228972.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/devcon-2-justin-drake",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (19 min) | The Next Steps for ETH",
-          "link": "https://shows.banklesshq.com/p/devcon-2-justin-drake",
-          "publishedOn": "2022-10-28T16:59:42.000Z",
-          "wordCount": null,
-          "title": "Devcon #2 - Justin Drake",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81225204.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/devcon-1-vitalik-buterin",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (25 min) | A New Era for Ethereum",
-          "link": "https://shows.banklesshq.com/p/devcon-1-vitalik-buterin",
-          "publishedOn": "2022-10-28T16:48:09.000Z",
-          "wordCount": null,
-          "title": "Devcon #1 - Vitalik Buterin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81224753.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-new-apple-nft-policy-eth-is",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (88 min) | 🎃 SpoOky Edition 👻",
-          "link": "https://shows.banklesshq.com/p/rollup-new-apple-nft-policy-eth-is",
-          "publishedOn": "2022-10-28T10:19:01.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: NEW Apple NFT Policy | ETH is Ultra Sound Money | Lord of the Rings NFTs | Elon Twitter | FTX Stable",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81164178.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
