@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-path-forward-livestream",
+          "author": "David Hoffman",
+          "description": "Listen now (59 min) | Where Do We Go From Here?",
+          "link": "https://shows.banklesshq.com/p/the-path-forward-livestream",
+          "publishedOn": "2022-11-15T11:30:51.000Z",
+          "wordCount": null,
+          "title": "The Path Forward | Livestream",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/84620233.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-molly-white",
           "author": "Ryan Sean Adams",
           "description": "Listen now (27 min) | Debriefing the Molly White episode",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/81229915.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/devcon-3-dankrad",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (12 min) | EIP-4844",
-          "link": "https://shows.banklesshq.com/p/devcon-3-dankrad",
-          "publishedOn": "2022-10-28T17:14:31.000Z",
-          "wordCount": null,
-          "title": "Devcon #3 - Dankrad",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81228972.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

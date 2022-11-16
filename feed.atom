@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T06:26:21.478Z</id>
+    <id>urn:2022-11-16T06:26:37.479Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-15T06:26:21.478Z</updated>
+    <updated>2022-11-16T06:26:37.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Path Forward | Livestream]]></title>
+        <id>https://shows.banklesshq.com/p/the-path-forward-livestream</id>
+        <link href="https://shows.banklesshq.com/p/the-path-forward-livestream"/>
+        <updated>2022-11-15T11:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (59 min) | Where Do We Go From Here?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debrief - Web3 Is Going Great!!]]></title>
         <id>https://shows.banklesshq.com/p/debrief-molly-white</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/devcon-4-peter-szilagyi"/>
         <updated>2022-10-28T17:21:51.000Z</updated>
         <summary type="html"><![CDATA[Listen now (21 min) | Building Geth]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devcon #3 - Dankrad]]></title>
-        <id>https://shows.banklesshq.com/p/devcon-3-dankrad</id>
-        <link href="https://shows.banklesshq.com/p/devcon-3-dankrad"/>
-        <updated>2022-10-28T17:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (12 min) | EIP-4844]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
