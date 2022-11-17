@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T06:26:37.479Z</id>
+    <id>urn:2022-11-17T06:26:42.142Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T06:26:37.479Z</updated>
+    <updated>2022-11-17T06:26:42.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the FTX Meltdown Happened—explained by Castle Island's Matt Walsh]]></title>
+        <id>https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained</id>
+        <link href="https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained"/>
+        <updated>2022-11-16T11:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (60 min) | What caused the first domino and when the last will fall]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Path Forward | Livestream]]></title>
         <id>https://shows.banklesshq.com/p/the-path-forward-livestream</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi"/>
         <updated>2022-10-28T17:45:57.000Z</updated>
         <summary type="html"><![CDATA[Listen now (11 min) | The Heart of Ethereum]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devcon #4 - Péter Szilágyi]]></title>
-        <id>https://shows.banklesshq.com/p/devcon-4-peter-szilagyi</id>
-        <link href="https://shows.banklesshq.com/p/devcon-4-peter-szilagyi"/>
-        <updated>2022-10-28T17:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (21 min) | Building Geth]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

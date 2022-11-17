@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (60 min) | What caused the first domino and when the last will fall",
+          "link": "https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained",
+          "publishedOn": "2022-11-16T11:30:44.000Z",
+          "wordCount": null,
+          "title": "How the FTX Meltdown Happened—explained by Castle Island's Matt Walsh",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/84811316.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-path-forward-livestream",
           "author": "David Hoffman",
           "description": "Listen now (59 min) | Where Do We Go From Here?",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/81233206.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/devcon-4-peter-szilagyi",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (21 min) | Building Geth",
-          "link": "https://shows.banklesshq.com/p/devcon-4-peter-szilagyi",
-          "publishedOn": "2022-10-28T17:21:51.000Z",
-          "wordCount": null,
-          "title": "Devcon #4 - Péter Szilágyi",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81229915.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
