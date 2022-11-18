@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T06:26:42.142Z</id>
+    <id>urn:2022-11-18T06:27:06.079Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T06:26:42.142Z</updated>
+    <updated>2022-11-18T06:27:06.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spaces - Why Chris Burniske is Calling the Bottom]]></title>
+        <id>https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling</id>
+        <link href="https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling"/>
+        <updated>2022-11-17T18:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (50 min) | FTX happened. But is the worst over? Crypto OG Chris Burniske believes so.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Rebuild with Jesse Powell of Kraken Exchange]]></title>
+        <id>https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell</id>
+        <link href="https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell"/>
+        <updated>2022-11-17T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (46 min) | Brick by brick]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the FTX Meltdown Happened—explained by Castle Island's Matt Walsh]]></title>
         <id>https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/devcon-7-kevin-owoki"/>
         <updated>2022-10-28T17:51:36.000Z</updated>
         <summary type="html"><![CDATA[Listen now (13 min) | Supermodular]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devcon #6 - Bartek Kiepuszewski]]></title>
-        <id>https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski</id>
-        <link href="https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski"/>
-        <updated>2022-10-28T17:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (14 min) | The Layer 2 Wars]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devcon #5 - Aya Miyaguchi]]></title>
-        <id>https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi</id>
-        <link href="https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi"/>
-        <updated>2022-10-28T17:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (11 min) | The Heart of Ethereum]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (50 min) | FTX happened. But is the worst over? Crypto OG Chris Burniske believes so.",
+          "link": "https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling",
+          "publishedOn": "2022-11-17T18:37:32.000Z",
+          "wordCount": null,
+          "title": "Spaces - Why Chris Burniske is Calling the Bottom",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/85186841.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (46 min) | Brick by brick",
+          "link": "https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell",
+          "publishedOn": "2022-11-17T11:30:10.000Z",
+          "wordCount": null,
+          "title": "How We Rebuild with Jesse Powell of Kraken Exchange",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/85082819.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained",
           "author": "Ryan Sean Adams",
           "description": "Listen now (60 min) | What caused the first domino and when the last will fall",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/81234725.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (14 min) | The Layer 2 Wars",
-          "link": "https://shows.banklesshq.com/p/devcon-6-bartek-kiepuszewski",
-          "publishedOn": "2022-10-28T17:48:22.000Z",
-          "wordCount": null,
-          "title": "Devcon #6 - Bartek Kiepuszewski",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81234574.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (11 min) | The Heart of Ethereum",
-          "link": "https://shows.banklesshq.com/p/devcon-5-aya-miyaguchi",
-          "publishedOn": "2022-10-28T17:45:57.000Z",
-          "wordCount": null,
-          "title": "Devcon #5 - Aya Miyaguchi",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81233206.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
