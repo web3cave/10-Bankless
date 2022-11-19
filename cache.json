@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (74 min) | The frontier's frontier",
+          "link": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc",
+          "publishedOn": "2022-11-18T19:00:58.000Z",
+          "wordCount": null,
+          "title": "Alpha Leak | The Bull Case for zkBTC",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/85278493.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (82 min) | 2nd Week of November, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread",
+          "publishedOn": "2022-11-18T11:31:01.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: FTX Contagion | SBF Tweet Thread | Genesis Trading | Gemini Earn | StarkNet Token | Cosmos ATOM 2.0",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/85257713.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling",
           "author": "Ryan Sean Adams",
           "description": "Listen now (50 min) | FTX happened. But is the worst over? Crypto OG Chris Burniske believes so.",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/81658619.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (19 min) | Debriefing the SBF vs. Erik Voorhees episode",
-          "link": "https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief",
-          "publishedOn": "2022-10-31T10:30:14.000Z",
-          "wordCount": null,
-          "title": "Debrief - How Do We Regulate Crypto?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81304662.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/devcon-7-kevin-owoki",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (13 min) | Supermodular",
-          "link": "https://shows.banklesshq.com/p/devcon-7-kevin-owoki",
-          "publishedOn": "2022-10-28T17:51:36.000Z",
-          "wordCount": null,
-          "title": "Devcon #7 - Kevin Owoki",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81234725.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

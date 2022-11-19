@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T06:27:06.079Z</id>
+    <id>urn:2022-11-19T06:25:42.667Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T06:27:06.079Z</updated>
+    <updated>2022-11-19T06:25:42.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alpha Leak | The Bull Case for zkBTC]]></title>
+        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc</id>
+        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc"/>
+        <updated>2022-11-18T19:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (74 min) | The frontier's frontier]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: FTX Contagion | SBF Tweet Thread | Genesis Trading | Gemini Earn | StarkNet Token | Cosmos ATOM 2.0]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread</id>
+        <link href="https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread"/>
+        <updated>2022-11-18T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (82 min) | 2nd Week of November, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spaces - Why Chris Burniske is Calling the Bottom]]></title>
         <id>https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate"/>
         <updated>2022-10-31T10:30:14.000Z</updated>
         <summary type="html"><![CDATA[Listen now (109 min) | The debate of the year]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - How Do We Regulate Crypto?]]></title>
-        <id>https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief</id>
-        <link href="https://shows.banklesshq.com/p/sbf-erik-voorhees-debrief"/>
-        <updated>2022-10-31T10:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (19 min) | Debriefing the SBF vs. Erik Voorhees episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devcon #7 - Kevin Owoki]]></title>
-        <id>https://shows.banklesshq.com/p/devcon-7-kevin-owoki</id>
-        <link href="https://shows.banklesshq.com/p/devcon-7-kevin-owoki"/>
-        <updated>2022-10-28T17:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (13 min) | Supermodular]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
