@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | The Lords of Easy Money",
+          "link": "https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher",
+          "publishedOn": "2022-11-21T11:30:59.000Z",
+          "wordCount": null,
+          "title": "145 - Is The Fed Corrupt? with Christopher Leonard",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/85822047.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-leonard",
+          "author": "David Freiburger",
+          "description": "Listen now (26 min) | Debriefing the Christopher Leonard Episode",
+          "link": "https://shows.banklesshq.com/p/debrief-leonard",
+          "publishedOn": "2022-11-21T11:30:58.000Z",
+          "wordCount": null,
+          "title": "Debrief - Is the Fed Corrupt?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/83892015.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc",
           "author": "Ryan Sean Adams",
           "description": "Listen now (74 min) | The frontier's frontier",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/82068571.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (81 min) | How will we recover? Alf has the answers.",
-          "link": "https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf",
-          "publishedOn": "2022-11-01T18:00:13.000Z",
-          "wordCount": null,
-          "title": "Did Macro Kill Crypto? with MacroAlf",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81968651.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (109 min) | The debate of the year",
-          "link": "https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate",
-          "publishedOn": "2022-10-31T10:30:14.000Z",
-          "wordCount": null,
-          "title": "SBF vs. Erik Voorhees: How Do We Regulate Crypto?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/81658619.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T06:28:23.880Z</id>
+    <id>urn:2022-11-22T06:27:11.198Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-21T06:28:23.880Z</updated>
+    <updated>2022-11-22T06:27:11.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[145 - Is The Fed Corrupt? with Christopher Leonard]]></title>
+        <id>https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher</id>
+        <link href="https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher"/>
+        <updated>2022-11-21T11:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | The Lords of Easy Money]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Is the Fed Corrupt?]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-leonard</id>
+        <link href="https://shows.banklesshq.com/p/debrief-leonard"/>
+        <updated>2022-11-21T11:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Christopher Leonard Episode]]></summary>
+        <author>
+            <name>David Freiburger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alpha Leak | The Bull Case for zkBTC]]></title>
         <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-unichain-is-inevitable"/>
         <updated>2022-11-02T06:45:31.000Z</updated>
         <summary type="html"><![CDATA[Listen now (77 min) | Will the App Chain Thesis play-out?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Macro Kill Crypto? with MacroAlf]]></title>
-        <id>https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf</id>
-        <link href="https://shows.banklesshq.com/p/did-macro-kill-crypto-with-macroalf"/>
-        <updated>2022-11-01T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (81 min) | How will we recover? Alf has the answers.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF vs. Erik Voorhees: How Do We Regulate Crypto?]]></title>
-        <id>https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate</id>
-        <link href="https://shows.banklesshq.com/p/sbf-vs-erik-voorhees-how-do-we-regulate"/>
-        <updated>2022-10-31T10:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (109 min) | The debate of the year]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
