@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?",
+          "link": "https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi",
+          "publishedOn": "2022-11-23T11:31:03.000Z",
+          "wordCount": null,
+          "title": "Was 2021 Just a Gigantic PONZI?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86305417.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher",
           "author": "Ryan Sean Adams",
           "description": "Listen now | The Lords of Easy Money",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/82069153.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-unichain-is-inevitable",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (77 min) | Will the App Chain Thesis play-out?",
-          "link": "https://shows.banklesshq.com/p/early-access-unichain-is-inevitable",
-          "publishedOn": "2022-11-02T06:45:31.000Z",
-          "wordCount": null,
-          "title": "143 - UNIChain is Inevitable with Dan Elitzer",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/82068571.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T06:24:57.650Z</id>
+    <id>urn:2022-11-24T06:24:47.287Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-23T06:24:57.650Z</updated>
+    <updated>2022-11-24T06:24:47.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Was 2021 Just a Gigantic PONZI?]]></title>
+        <id>https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi</id>
+        <link href="https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi"/>
+        <updated>2022-11-23T11:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[145 - Is The Fed Corrupt? with Christopher Leonard]]></title>
         <id>https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-unichain-is-inevitable"/>
         <updated>2022-11-02T06:45:40.000Z</updated>
         <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Dan Elitzer episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[143 - UNIChain is Inevitable with Dan Elitzer]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-unichain-is-inevitable</id>
-        <link href="https://shows.banklesshq.com/p/early-access-unichain-is-inevitable"/>
-        <updated>2022-11-02T06:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | Will the App Chain Thesis play-out?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
