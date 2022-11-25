@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | Thanksgiving 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure",
+          "publishedOn": "2022-11-24T11:30:54.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Genesis, Grayscale, DCG Failure? | FTX Contagion Continues | Mango Solana Exploit",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86511212.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-tim-ferriss",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (21 min) | Debriefing the Tim Ferriss episode",
+          "link": "https://shows.banklesshq.com/p/debrief-tim-ferriss",
+          "publishedOn": "2022-11-24T07:25:08.000Z",
+          "wordCount": null,
+          "title": "Debrief - Tim Ferriss",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86535044.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (129 min) | The next chapter of Tim's career",
+          "link": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
+          "publishedOn": "2022-11-24T07:24:56.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Tim Ferriss on NFTs and 'Cockpunch'",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86534203.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi",
           "author": "Ryan Sean Adams",
           "description": "Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?",
@@ -39,7 +87,7 @@
         },
         {
           "id": "https://shows.banklesshq.com/p/debrief-leonard",
-          "author": "David Freiburger",
+          "author": "Ryan Sean Adams",
           "description": "Listen now (26 min) | Debriefing the Christopher Leonard Episode",
           "link": "https://shows.banklesshq.com/p/debrief-leonard",
           "publishedOn": "2022-11-21T11:30:58.000Z",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/83246200.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | 1st Week of November, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram",
-          "publishedOn": "2022-11-04T10:30:58.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Elon Twitter Takeover | Instagram NFTs | Art Gobblers & Goo | JP Morgan Crypto | Bitcoin's Birthday",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/82474610.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/bitboy-two-different-worlds",
-          "author": "David Hoffman",
-          "description": "Listen now (64 min) | Clearing the Air with Ben Armstrong",
-          "link": "https://shows.banklesshq.com/p/bitboy-two-different-worlds",
-          "publishedOn": "2022-11-03T06:34:16.000Z",
-          "wordCount": null,
-          "title": "Bitboy | Two Different Worlds",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/82268192.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-unichain-is-inevitable",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (26 min) | Debriefing the Dan Elitzer episode.",
-          "link": "https://shows.banklesshq.com/p/debrief-unichain-is-inevitable",
-          "publishedOn": "2022-11-02T06:45:40.000Z",
-          "wordCount": null,
-          "title": "Debrief - UNIChain is Inevitable",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/82069153.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

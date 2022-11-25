@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T06:24:47.287Z</id>
+    <id>urn:2022-11-25T06:25:31.748Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-24T06:24:47.287Z</updated>
+    <updated>2022-11-25T06:25:31.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Genesis, Grayscale, DCG Failure? | FTX Contagion Continues | Mango Solana Exploit]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure</id>
+        <link href="https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure"/>
+        <updated>2022-11-24T11:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Thanksgiving 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Tim Ferriss]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-tim-ferriss</id>
+        <link href="https://shows.banklesshq.com/p/debrief-tim-ferriss"/>
+        <updated>2022-11-24T07:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (21 min) | Debriefing the Tim Ferriss episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Tim Ferriss on NFTs and 'Cockpunch']]></title>
+        <id>https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts</id>
+        <link href="https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts"/>
+        <updated>2022-11-24T07:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (129 min) | The next chapter of Tim's career]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Was 2021 Just a Gigantic PONZI?]]></title>
         <id>https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi</id>
@@ -32,7 +62,7 @@
         <updated>2022-11-21T11:30:58.000Z</updated>
         <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Christopher Leonard Episode]]></summary>
         <author>
-            <name>David Freiburger</name>
+            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
@@ -171,36 +201,6 @@
         <link href="https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian"/>
         <updated>2022-11-08T11:30:30.000Z</updated>
         <summary type="html"><![CDATA[Listen now (67 min) | Team Ethereum vs. Team Bitcoin]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Elon Twitter Takeover | Instagram NFTs | Art Gobblers & Goo | JP Morgan Crypto | Bitcoin's Birthday]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram</id>
-        <link href="https://shows.banklesshq.com/p/rollup-elon-twitter-takeover-instagram"/>
-        <updated>2022-11-04T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | 1st Week of November, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitboy | Two Different Worlds]]></title>
-        <id>https://shows.banklesshq.com/p/bitboy-two-different-worlds</id>
-        <link href="https://shows.banklesshq.com/p/bitboy-two-different-worlds"/>
-        <updated>2022-11-03T06:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (64 min) | Clearing the Air with Ben Armstrong]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - UNIChain is Inevitable]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-unichain-is-inevitable</id>
-        <link href="https://shows.banklesshq.com/p/debrief-unichain-is-inevitable"/>
-        <updated>2022-11-02T06:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Dan Elitzer episode.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
