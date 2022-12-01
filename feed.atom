@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-30T06:25:22.550Z</id>
+    <id>urn:2022-12-01T06:26:05.957Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-30T06:25:22.550Z</updated>
+    <updated>2022-12-01T06:26:05.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Isn't Sam Bankman-Fried in Jail?]]></title>
+        <id>https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail</id>
+        <link href="https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail"/>
+        <updated>2022-11-30T11:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (70 min) | Day 20 with zero consequences]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Genesis, Grayscale, DCG Failure? | FTX Contagion Continues | Mango Solana Exploit]]></title>
         <id>https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance"/>
         <updated>2022-11-09T04:17:03.000Z</updated>
         <summary type="html"><![CDATA[Listen now (72 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 On Part 1 of this two-part series, Ryan and David recap everything that happened leading up to today, what’s unfolded thus far, what happens next, and what it means for the crypto space writ large.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POV Crypto Reunites with Christian Keroles | Layer Zero]]></title>
-        <id>https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian</id>
-        <link href="https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian"/>
-        <updated>2022-11-08T11:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (67 min) | Team Ethereum vs. Team Bitcoin]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

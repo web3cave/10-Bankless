@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (70 min) | Day 20 with zero consequences",
+          "link": "https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail",
+          "publishedOn": "2022-11-30T11:30:51.000Z",
+          "wordCount": null,
+          "title": "Why Isn't Sam Bankman-Fried in Jail?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/87702957.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure",
           "author": "Ryan Sean Adams",
           "description": "Listen now | Thanksgiving 2022",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/83430791.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (67 min) | Team Ethereum vs. Team Bitcoin",
-          "link": "https://shows.banklesshq.com/p/pov-crypto-reunites-with-christian",
-          "publishedOn": "2022-11-08T11:30:30.000Z",
-          "wordCount": null,
-          "title": "POV Crypto Reunites with Christian Keroles | Layer Zero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/83246200.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
