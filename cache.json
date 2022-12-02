@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (37 min) | We need regulatory clarity and we need it now",
+          "link": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
+          "publishedOn": "2022-12-01T11:30:52.000Z",
+          "wordCount": null,
+          "title": "Senator Pat Toomey's Concerns about the SEC & Crypto",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/87929106.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail",
           "author": "Ryan Sean Adams",
           "description": "Listen now (70 min) | Day 20 with zero consequences",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/83433786.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (72 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 On Part 1 of this two-part series, Ryan and David recap everything that happened leading up to today, what’s unfolded thus far, what happens next, and what it means for the crypto space writ large.",
-          "link": "https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance",
-          "publishedOn": "2022-11-09T04:17:03.000Z",
-          "wordCount": null,
-          "title": "Part 1: Recap & Analysis on Binance Acquires FTX | CZ vs SBF",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/83430791.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

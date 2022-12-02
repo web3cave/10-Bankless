@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T06:26:05.957Z</id>
+    <id>urn:2022-12-02T06:23:51.174Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-01T06:26:05.957Z</updated>
+    <updated>2022-12-02T06:23:51.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Senator Pat Toomey's Concerns about the SEC & Crypto]]></title>
+        <id>https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about</id>
+        <link href="https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about"/>
+        <updated>2022-12-01T11:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (37 min) | We need regulatory clarity and we need it now]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Isn't Sam Bankman-Fried in Jail?]]></title>
         <id>https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees"/>
         <updated>2022-11-09T04:43:39.000Z</updated>
         <summary type="html"><![CDATA[Listen now (61 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 In Part 2, Ryan and David are joined by Brian Armstrong, Erik Voorhees, & Ryan Selkis to discuss what transpired today, how it’ll impact our industry, and what it means moving forward.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 1: Recap & Analysis on Binance Acquires FTX | CZ vs SBF]]></title>
-        <id>https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance</id>
-        <link href="https://shows.banklesshq.com/p/part-1-recap-and-analysis-on-binance"/>
-        <updated>2022-11-09T04:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (72 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 On Part 1 of this two-part series, Ryan and David recap everything that happened leading up to today, what’s unfolded thus far, what happens next, and what it means for the crypto space writ large.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
