@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (95 min) | 1st Week of December, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi",
+          "publishedOn": "2022-12-02T10:04:25.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: SBF Live Interviews | BlockFi Bankruptcy | Crypto Bottom Signals | MetaMask Privacy Policy | Earnifi",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/88178190.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-saagar-enjeti",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (28 min) | Ryan and David debrief the Saagar Enjeti episode.",
+          "link": "https://shows.banklesshq.com/p/debrief-saagar-enjeti",
+          "publishedOn": "2022-12-02T09:42:05.000Z",
+          "wordCount": null,
+          "title": "Debrief - Saagar Enjeti",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/88175634.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-why-mainstream-media",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (83 min) | New vs. Old Media",
+          "link": "https://shows.banklesshq.com/p/early-access-why-mainstream-media",
+          "publishedOn": "2022-12-02T09:41:42.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Why Mainstream Media Sucks & How to Fix It with Saagar Enjeti",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/88174942.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
           "author": "Ryan Sean Adams",
           "description": "Listen now (37 min) | We need regulatory clarity and we need it now",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/83892157.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/bankless-x-uponly-therapy-stream",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (133 min) | Much needed catharsis after the craziest week in crypto",
-          "link": "https://shows.banklesshq.com/p/bankless-x-uponly-therapy-stream",
-          "publishedOn": "2022-11-10T23:43:57.000Z",
-          "wordCount": null,
-          "title": "Bankless x UpOnly Therapy Stream",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/83810248.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later",
-          "author": "David Freiburger",
-          "description": "Listen now (90 min) | Recapping the contagion",
-          "link": "https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later",
-          "publishedOn": "2022-11-10T04:14:41.000Z",
-          "wordCount": null,
-          "title": "The Collapse of FTX | 24 hours later",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/83631078.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (61 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 In Part 2, Ryan and David are joined by Brian Armstrong, Erik Voorhees, & Ryan Selkis to discuss what transpired today, how it’ll impact our industry, and what it means moving forward.",
-          "link": "https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees",
-          "publishedOn": "2022-11-09T04:43:39.000Z",
-          "wordCount": null,
-          "title": "Part 2: Brian Armstrong, Erik Voorhees, & Ryan Selkis on Binance’s Acquisition of FTX",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/83433786.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

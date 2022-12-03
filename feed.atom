@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-02T06:23:51.174Z</id>
+    <id>urn:2022-12-03T06:22:07.324Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-02T06:23:51.174Z</updated>
+    <updated>2022-12-03T06:22:07.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SBF Live Interviews | BlockFi Bankruptcy | Crypto Bottom Signals | MetaMask Privacy Policy | Earnifi]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi"/>
+        <updated>2022-12-02T10:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (95 min) | 1st Week of December, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Saagar Enjeti]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-saagar-enjeti</id>
+        <link href="https://shows.banklesshq.com/p/debrief-saagar-enjeti"/>
+        <updated>2022-12-02T09:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (28 min) | Ryan and David debrief the Saagar Enjeti episode.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Why Mainstream Media Sucks & How to Fix It with Saagar Enjeti]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-why-mainstream-media</id>
+        <link href="https://shows.banklesshq.com/p/early-access-why-mainstream-media"/>
+        <updated>2022-12-02T09:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (83 min) | New vs. Old Media]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senator Pat Toomey's Concerns about the SEC & Crypto]]></title>
         <id>https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about</id>
@@ -171,36 +201,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-the-sbf-and-ftx-aftermath"/>
         <updated>2022-11-11T11:30:11.000Z</updated>
         <summary type="html"><![CDATA[Listen now (93 min) | 2nd Week of November]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless x UpOnly Therapy Stream]]></title>
-        <id>https://shows.banklesshq.com/p/bankless-x-uponly-therapy-stream</id>
-        <link href="https://shows.banklesshq.com/p/bankless-x-uponly-therapy-stream"/>
-        <updated>2022-11-10T23:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (133 min) | Much needed catharsis after the craziest week in crypto]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Collapse of FTX | 24 hours later]]></title>
-        <id>https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later</id>
-        <link href="https://shows.banklesshq.com/p/the-collapse-of-ftx-24-hours-later"/>
-        <updated>2022-11-10T04:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (90 min) | Recapping the contagion]]></summary>
-        <author>
-            <name>David Freiburger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2: Brian Armstrong, Erik Voorhees, & Ryan Selkis on Binance’s Acquisition of FTX]]></title>
-        <id>https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees</id>
-        <link href="https://shows.banklesshq.com/p/part-2-brian-armstrong-erik-voorhees"/>
-        <updated>2022-11-09T04:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (61 min) | ⬆️ Join Bankless Premium to listen to the Ad-Free version of this episode. 🚀 In Part 2, Ryan and David are joined by Brian Armstrong, Erik Voorhees, & Ryan Selkis to discuss what transpired today, how it’ll impact our industry, and what it means moving forward.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
