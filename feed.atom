@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T06:24:03.827Z</id>
+    <id>urn:2022-12-08T06:24:19.710Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T06:24:03.827Z</updated>
+    <updated>2022-12-08T06:24:19.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is This the Endgame? with Itay Vinik]]></title>
+        <id>https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik</id>
+        <link href="https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik"/>
+        <updated>2022-12-07T11:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (79 min) | When’s the Fed Going to Pivot?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: SBF Live Interviews | BlockFi Bankruptcy | Crypto Bottom Signals | MetaMask Privacy Policy | Earnifi]]></title>
         <id>https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-web3-is-going-great"/>
         <updated>2022-11-12T02:06:18.000Z</updated>
         <summary type="html"><![CDATA[Listen now (85 min) | An articulate crypto critic's perspective]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: The SBF & FTX Aftermath | ETH Goes Ultra Sound | NEW Ethereum Roadmap | OpenSea Royalties]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-the-sbf-and-ftx-aftermath</id>
-        <link href="https://shows.banklesshq.com/p/rollup-the-sbf-and-ftx-aftermath"/>
-        <updated>2022-11-11T11:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (93 min) | 2nd Week of November]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

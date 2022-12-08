@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (79 min) | When’s the Fed Going to Pivot?",
+          "link": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
+          "publishedOn": "2022-12-07T11:31:04.000Z",
+          "wordCount": null,
+          "title": "Is This the Endgame? with Itay Vinik",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/89117498.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi",
           "author": "Ryan Sean Adams",
           "description": "Listen now (95 min) | 1st Week of December, 2022",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/84022374.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-the-sbf-and-ftx-aftermath",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (93 min) | 2nd Week of November",
-          "link": "https://shows.banklesshq.com/p/rollup-the-sbf-and-ftx-aftermath",
-          "publishedOn": "2022-11-11T11:30:11.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: The SBF & FTX Aftermath | ETH Goes Ultra Sound | NEW Ethereum Roadmap | OpenSea Royalties",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/83892157.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
