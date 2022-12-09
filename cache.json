@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (58 min) | Fuel & Celestia",
+          "link": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
+          "publishedOn": "2022-12-08T19:00:57.000Z",
+          "wordCount": null,
+          "title": "Alpha Leak | The Bull Case for Modular Blockchains",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/89319871.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
           "author": "Ryan Sean Adams",
           "description": "Listen now (79 min) | When’s the Fed Going to Pivot?",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/84024725.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-web3-is-going-great",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (85 min) | An articulate crypto critic's perspective",
-          "link": "https://shows.banklesshq.com/p/early-access-web3-is-going-great",
-          "publishedOn": "2022-11-12T02:06:18.000Z",
-          "wordCount": null,
-          "title": "144 - Web3 Is Going Great!! with Molly White",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/84022374.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

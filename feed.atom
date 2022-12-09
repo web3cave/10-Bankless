@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T06:24:19.710Z</id>
+    <id>urn:2022-12-09T06:22:48.313Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T06:24:19.710Z</updated>
+    <updated>2022-12-09T06:22:48.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alpha Leak | The Bull Case for Modular Blockchains]]></title>
+        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular</id>
+        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular"/>
+        <updated>2022-12-08T19:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (58 min) | Fuel & Celestia]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is This the Endgame? with Itay Vinik]]></title>
         <id>https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-molly-white"/>
         <updated>2022-11-12T02:06:25.000Z</updated>
         <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Molly White episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[144 - Web3 Is Going Great!! with Molly White]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-web3-is-going-great</id>
-        <link href="https://shows.banklesshq.com/p/early-access-web3-is-going-great"/>
-        <updated>2022-11-12T02:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (85 min) | An articulate crypto critic's perspective]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
