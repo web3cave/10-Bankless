@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T06:22:48.313Z</id>
+    <id>urn:2022-12-10T06:22:42.796Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T06:22:48.313Z</updated>
+    <updated>2022-12-10T06:22:42.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Coinbase vs Apple | Crypto Market Bottom Signals | Genesis Fallout | SBF Scandal | Reddit NFTs]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-coinbase-vs-apple-crypto-market</id>
+        <link href="https://shows.banklesshq.com/p/rollup-coinbase-vs-apple-crypto-market"/>
+        <updated>2022-12-09T11:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (96 min) | 2nd Week of December 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alpha Leak | The Bull Case for Modular Blockchains]]></title>
         <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (59 min) | Where Do We Go From Here?]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Web3 Is Going Great!!]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-molly-white</id>
-        <link href="https://shows.banklesshq.com/p/debrief-molly-white"/>
-        <updated>2022-11-12T02:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Molly White episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
