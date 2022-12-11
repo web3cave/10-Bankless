@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T06:22:42.796Z</id>
+    <id>urn:2022-12-11T06:22:39.389Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-10T06:22:42.796Z</updated>
+    <updated>2022-12-11T06:22:39.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular"/>
         <updated>2022-12-08T19:00:57.000Z</updated>
         <summary type="html"><![CDATA[Listen now (58 min) | Fuel & Celestia]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantom Wallet on Ethereum!]]></title>
+        <id>https://shows.banklesshq.com/p/phantom-wallet-on-ethereum</id>
+        <link href="https://shows.banklesshq.com/p/phantom-wallet-on-ethereum"/>
+        <updated>2022-12-08T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (59 min) | Co-Founders Discussing the DeFi Wallet Landscape]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (60 min) | What caused the first domino and when the last will fall]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path Forward | Livestream]]></title>
-        <id>https://shows.banklesshq.com/p/the-path-forward-livestream</id>
-        <link href="https://shows.banklesshq.com/p/the-path-forward-livestream"/>
-        <updated>2022-11-15T11:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (59 min) | Where Do We Go From Here?]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
