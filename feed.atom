@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-12T06:24:08.785Z</id>
+    <id>urn:2022-12-13T06:24:27.300Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-12T06:24:08.785Z</updated>
+    <updated>2022-12-13T06:24:27.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[148 - This is How Crypto Fixes the Internet | Antonio García Martínez]]></title>
+        <id>https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the</id>
+        <link href="https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the"/>
+        <updated>2022-12-12T09:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (77 min) | How Web3 Revolutionizes the Digital Advertising Model]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Antonio García Martínez]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-antonio</id>
+        <link href="https://shows.banklesshq.com/p/debrief-antonio"/>
+        <updated>2022-12-12T09:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Episode with Antonio]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Coinbase vs Apple | Crypto Market Bottom Signals | Genesis Fallout | SBF Scandal | Reddit NFTs]]></title>
         <id>https://shows.banklesshq.com/p/rollup-coinbase-vs-apple-crypto-market</id>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling"/>
         <updated>2022-11-17T18:37:32.000Z</updated>
         <summary type="html"><![CDATA[Listen now (50 min) | FTX happened. But is the worst over? Crypto OG Chris Burniske believes so.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Rebuild with Jesse Powell of Kraken Exchange]]></title>
-        <id>https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell</id>
-        <link href="https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell"/>
-        <updated>2022-11-17T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (46 min) | Brick by brick]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the FTX Meltdown Happened—explained by Castle Island's Matt Walsh]]></title>
-        <id>https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained</id>
-        <link href="https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained"/>
-        <updated>2022-11-16T11:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (60 min) | What caused the first domino and when the last will fall]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
