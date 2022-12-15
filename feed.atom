@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T06:24:05.745Z</id>
+    <id>urn:2022-12-15T06:23:58.089Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-14T06:24:05.745Z</updated>
+    <updated>2022-12-15T06:23:58.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2022's Biggest Crypto Moments]]></title>
+        <id>https://shows.banklesshq.com/p/2022s-biggest-crypto-moments</id>
+        <link href="https://shows.banklesshq.com/p/2022s-biggest-crypto-moments"/>
+        <updated>2022-12-14T10:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (58 min) | The Best, The Worst, The Villains, and the Heroes]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[148 - This is How Crypto Fixes the Internet | Antonio García Martínez]]></title>
         <id>https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread"/>
         <updated>2022-11-18T11:31:01.000Z</updated>
         <summary type="html"><![CDATA[Listen now (82 min) | 2nd Week of November, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spaces - Why Chris Burniske is Calling the Bottom]]></title>
-        <id>https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling</id>
-        <link href="https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling"/>
-        <updated>2022-11-17T18:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (50 min) | FTX happened. But is the worst over? Crypto OG Chris Burniske believes so.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
