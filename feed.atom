@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T06:22:22.465Z</id>
+    <id>urn:2022-12-17T06:20:50.969Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T06:22:22.465Z</updated>
+    <updated>2022-12-17T06:20:50.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik's Top 5 Crypto Wins of 2022]]></title>
+        <id>https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022</id>
+        <link href="https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022"/>
+        <updated>2022-12-16T22:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik Buterin discusses this year's silver linings and 2023's opportunities.]]></summary>
+        <author>
+            <name>Lucas Matney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - Vitalik Buterin]]></title>
+        <id>https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief</id>
+        <link href="https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief"/>
+        <updated>2022-12-16T09:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Vitalik episode]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Ethereum in 2023 with Vitalik Buterin]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with"/>
+        <updated>2022-12-16T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (100 min) | Will it be even better than 2022?]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SBF Arrested | Trump NFTs | Binance Bank Run | Fed Inflation | Proof of Reserves | Bored Ape Lawsuit]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sbf-arrested-trump-nfts-binance</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sbf-arrested-trump-nfts-binance"/>
+        <updated>2022-12-16T08:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (90 min) | 2nd Week of December, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022's Biggest Crypto Moments]]></title>
         <id>https://shows.banklesshq.com/p/2022s-biggest-crypto-moments</id>
@@ -161,46 +201,6 @@
         <link href="https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi"/>
         <updated>2022-11-23T11:31:03.000Z</updated>
         <summary type="html"><![CDATA[Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[145 - Is The Fed Corrupt? with Christopher Leonard]]></title>
-        <id>https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher</id>
-        <link href="https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher"/>
-        <updated>2022-11-21T11:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | The Lords of Easy Money]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Is the Fed Corrupt?]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-leonard</id>
-        <link href="https://shows.banklesshq.com/p/debrief-leonard"/>
-        <updated>2022-11-21T11:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Christopher Leonard Episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha Leak | The Bull Case for zkBTC]]></title>
-        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc</id>
-        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc"/>
-        <updated>2022-11-18T19:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | The frontier's frontier]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: FTX Contagion | SBF Tweet Thread | Genesis Trading | Gemini Earn | StarkNet Token | Cosmos ATOM 2.0]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread</id>
-        <link href="https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread"/>
-        <updated>2022-11-18T11:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (82 min) | 2nd Week of November, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
