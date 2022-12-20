@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T06:22:52.923Z</id>
+    <id>urn:2022-12-20T06:23:49.135Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-19T06:22:52.923Z</updated>
+    <updated>2022-12-20T06:23:49.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Ethereum in 2023 with Vitalik Buterin]]></title>
+        <title type="html"><![CDATA[149 - Ethereum in 2023 with Vitalik Buterin]]></title>
         <id>https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with</id>
         <link href="https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with"/>
         <updated>2022-12-16T09:30:07.000Z</updated>
