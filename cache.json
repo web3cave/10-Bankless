@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (95 min) | Crypto is Still Inevitable",
+          "link": "https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis",
+          "publishedOn": "2022-12-22T21:56:19.000Z",
+          "wordCount": null,
+          "title": "Crypto Thesis for 2023 | Ryan Selkis",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/92205975.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022",
           "author": "Lucas Matney",
           "description": "Vitalik Buterin discusses this year's silver linings and 2023's opportunities.",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/86534203.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?",
-          "link": "https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi",
-          "publishedOn": "2022-11-23T11:31:03.000Z",
-          "wordCount": null,
-          "title": "Was 2021 Just a Gigantic PONZI?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/86305417.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
