@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T06:23:03.195Z</id>
+    <id>urn:2022-12-24T06:20:46.785Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T06:23:03.195Z</updated>
+    <updated>2022-12-24T06:20:46.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SBF in the USA | Visa Ethereum Payments | Trump NFTs | Binance Buys Voyager]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum"/>
+        <updated>2022-12-23T11:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | December 23, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Bull Case for Ethereum IV with Justin Drake, DCinvestor, & Anthony Sassano]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum</id>
+        <link href="https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum"/>
+        <updated>2022-12-23T07:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (98 min) | What's 2023 going to look like?]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Thesis for 2023 | Ryan Selkis]]></title>
         <id>https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis</id>
@@ -171,36 +191,6 @@
         <link href="https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail"/>
         <updated>2022-11-30T11:30:51.000Z</updated>
         <summary type="html"><![CDATA[Listen now (70 min) | Day 20 with zero consequences]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Genesis, Grayscale, DCG Failure? | FTX Contagion Continues | Mango Solana Exploit]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure</id>
-        <link href="https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure"/>
-        <updated>2022-11-24T11:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Thanksgiving 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Tim Ferriss]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-tim-ferriss</id>
-        <link href="https://shows.banklesshq.com/p/debrief-tim-ferriss"/>
-        <updated>2022-11-24T07:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (21 min) | Debriefing the Tim Ferriss episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[146 - Tim Ferriss on NFTs and 'Cockpunch']]></title>
-        <id>https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts</id>
-        <link href="https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts"/>
-        <updated>2022-11-24T07:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (129 min) | The next chapter of Tim's career]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

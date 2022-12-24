@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (76 min) | December 23, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum",
+          "publishedOn": "2022-12-23T11:30:57.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: SBF in the USA | Visa Ethereum Payments | Trump NFTs | Binance Buys Voyager",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/92416177.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum",
+          "author": null,
+          "description": "Listen now (98 min) | What's 2023 going to look like?",
+          "link": "https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum",
+          "publishedOn": "2022-12-23T07:14:41.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Bull Case for Ethereum IV with Justin Drake, DCinvestor, & Anthony Sassano",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/92420764.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis",
           "author": "Ryan Sean Adams",
           "description": "Listen now (95 min) | Crypto is Still Inevitable",
@@ -272,54 +304,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/87702957.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | Thanksgiving 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure",
-          "publishedOn": "2022-11-24T11:30:54.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Genesis, Grayscale, DCG Failure? | FTX Contagion Continues | Mango Solana Exploit",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/86511212.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-tim-ferriss",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (21 min) | Debriefing the Tim Ferriss episode",
-          "link": "https://shows.banklesshq.com/p/debrief-tim-ferriss",
-          "publishedOn": "2022-11-24T07:25:08.000Z",
-          "wordCount": null,
-          "title": "Debrief - Tim Ferriss",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/86535044.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (129 min) | The next chapter of Tim's career",
-          "link": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
-          "publishedOn": "2022-11-24T07:24:56.000Z",
-          "wordCount": null,
-          "title": "146 - Tim Ferriss on NFTs and 'Cockpunch'",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/86534203.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
