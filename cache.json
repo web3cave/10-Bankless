@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here",
+          "author": null,
+          "description": "Listen now (34 min) | Debriefing the Why Are We Here? with Erik Voorhees episode",
+          "link": "https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here",
+          "publishedOn": "2022-12-28T07:25:43.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Erik Voorhees",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/93320967.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-why-are-we-here-with",
+          "author": null,
+          "description": "Listen now (90 min) | Why stay?",
+          "link": "https://shows.banklesshq.com/p/early-access-why-are-we-here-with",
+          "publishedOn": "2022-12-28T07:25:37.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Why Are We Here? with Erik Voorhees",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/93318667.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum",
           "author": "Ryan Sean Adams",
           "description": "Listen now (76 min) | December 23, 2022",
@@ -288,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/87929106.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (70 min) | Day 20 with zero consequences",
-          "link": "https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail",
-          "publishedOn": "2022-11-30T11:30:51.000Z",
-          "wordCount": null,
-          "title": "Why Isn't Sam Bankman-Fried in Jail?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/87702957.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
