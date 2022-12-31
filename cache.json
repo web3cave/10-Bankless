@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
+          "author": null,
+          "description": "Listen now (81 min) | Last Week of 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
+          "publishedOn": "2022-12-30T11:01:17.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/93714920.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here",
           "author": null,
           "description": "Listen now (34 min) | Debriefing the Why Are We Here? with Erik Voorhees episode",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/88174942.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (37 min) | We need regulatory clarity and we need it now",
-          "link": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
-          "publishedOn": "2022-12-01T11:30:52.000Z",
-          "wordCount": null,
-          "title": "Senator Pat Toomey's Concerns about the SEC & Crypto",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/87929106.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
