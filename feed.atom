@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-31T06:21:24.005Z</id>
+    <id>urn:2023-01-01T06:21:37.337Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-31T06:21:24.005Z</updated>
+    <updated>2023-01-01T06:21:37.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,36 +171,6 @@
         <link href="https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik"/>
         <updated>2022-12-07T11:31:04.000Z</updated>
         <summary type="html"><![CDATA[Listen now (79 min) | When’s the Fed Going to Pivot?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: SBF Live Interviews | BlockFi Bankruptcy | Crypto Bottom Signals | MetaMask Privacy Policy | Earnifi]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi</id>
-        <link href="https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi"/>
-        <updated>2022-12-02T10:04:25.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (95 min) | 1st Week of December, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Saagar Enjeti]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-saagar-enjeti</id>
-        <link href="https://shows.banklesshq.com/p/debrief-saagar-enjeti"/>
-        <updated>2022-12-02T09:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (28 min) | Ryan and David debrief the Saagar Enjeti episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[147 - Why Mainstream Media Sucks & How to Fix It with Saagar Enjeti]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-why-mainstream-media</id>
-        <link href="https://shows.banklesshq.com/p/early-access-why-mainstream-media"/>
-        <updated>2022-12-02T09:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (83 min) | New vs. Old Media]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
