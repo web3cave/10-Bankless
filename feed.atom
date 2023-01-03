@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-02T06:22:30.466Z</id>
+    <id>urn:2023-01-03T06:21:34.392Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-02T06:22:30.466Z</updated>
+    <updated>2023-01-03T06:21:34.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Why Are We Here? with Erik Voorhees]]></title>
+        <title type="html"><![CDATA[151 - Why Are We Here? with Erik Voorhees]]></title>
         <id>https://shows.banklesshq.com/p/early-access-why-are-we-here-with</id>
         <link href="https://shows.banklesshq.com/p/early-access-why-are-we-here-with"/>
         <updated>2022-12-28T07:25:37.000Z</updated>
