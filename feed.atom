@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-03T06:21:34.392Z</id>
+    <id>urn:2023-01-04T06:22:35.842Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-03T06:21:34.392Z</updated>
+    <updated>2023-01-04T06:22:35.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Are NFTs Securities? with Brian Frye]]></title>
+        <id>https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye</id>
+        <link href="https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye"/>
+        <updated>2023-01-04T05:53:23.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (75 min) | Securities Lawyer Trolls the SEC]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn]]></title>
         <id>https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi</id>

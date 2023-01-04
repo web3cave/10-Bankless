@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye",
+          "author": "David Hoffman",
+          "description": "Listen now (75 min) | Securities Lawyer Trolls the SEC",
+          "link": "https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye",
+          "publishedOn": "2023-01-04T05:53:23.000Z",
+          "wordCount": null,
+          "title": "Are NFTs Securities? with Brian Frye",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/94568098.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
           "author": null,
           "description": "Listen now (81 min) | Last Week of 2022",
