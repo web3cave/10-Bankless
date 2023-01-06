@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/whats-the-point-of-securities-laws",
+          "author": "David Hoffman",
+          "description": "Listen now (61 min) | The securities rabbit hole continues",
+          "link": "https://shows.banklesshq.com/p/whats-the-point-of-securities-laws",
+          "publishedOn": "2023-01-05T11:30:55.000Z",
+          "wordCount": null,
+          "title": "What's the Point of Securities Laws? with Mike Selig",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/94782518.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye",
           "author": "David Hoffman",
           "description": "Listen now (75 min) | Securities Lawyer Trolls the SEC",
@@ -272,22 +288,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/89870595.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (79 min) | When’s the Fed Going to Pivot?",
-          "link": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
-          "publishedOn": "2022-12-07T11:31:04.000Z",
-          "wordCount": null,
-          "title": "Is This the Endgame? with Itay Vinik",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/89117498.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
