@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T06:23:00.418Z</id>
+    <id>urn:2023-01-07T06:21:08.146Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-06T06:23:00.418Z</updated>
+    <updated>2023-01-07T06:21:08.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SBF Pleads Not Guilty | Winklevoss vs Barry Silbert | Predicting 2023 | ETH Staking]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss"/>
+        <updated>2023-01-06T09:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 1st Week of 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's the Point of Securities Laws? with Mike Selig]]></title>
         <id>https://shows.banklesshq.com/p/whats-the-point-of-securities-laws</id>
@@ -171,16 +181,6 @@
         <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular"/>
         <updated>2022-12-08T19:00:57.000Z</updated>
         <summary type="html"><![CDATA[Listen now (58 min) | Fuel & Celestia]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phantom Wallet on Ethereum!]]></title>
-        <id>https://shows.banklesshq.com/p/phantom-wallet-on-ethereum</id>
-        <link href="https://shows.banklesshq.com/p/phantom-wallet-on-ethereum"/>
-        <updated>2022-12-08T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (59 min) | Co-Founders Discussing the DeFi Wallet Landscape]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
