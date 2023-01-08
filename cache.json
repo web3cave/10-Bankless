@@ -260,38 +260,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-coinbase-vs-apple-crypto-market",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (96 min) | 2nd Week of December 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-coinbase-vs-apple-crypto-market",
-          "publishedOn": "2022-12-09T11:30:55.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Coinbase vs Apple | Crypto Market Bottom Signals | Genesis Fallout | SBF Scandal | Reddit NFTs",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/89575261.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (58 min) | Fuel & Celestia",
-          "link": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
-          "publishedOn": "2022-12-08T19:00:57.000Z",
-          "wordCount": null,
-          "title": "Alpha Leak | The Bull Case for Modular Blockchains",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/89319871.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
