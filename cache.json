@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/liv-boeree",
+          "author": "David Hoffman",
+          "description": "Listen now (26 min) | Debriefing the Why Can't We Have Nice Things with Liv Boeree episode",
+          "link": "https://shows.banklesshq.com/p/liv-boeree",
+          "publishedOn": "2023-01-09T11:30:56.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Liv Boeree",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/95560341.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/152-why-cant-we-have-nice-things",
+          "author": "David Hoffman",
+          "description": "Listen now (84 min) | Slaying Moloch",
+          "link": "https://shows.banklesshq.com/p/152-why-cant-we-have-nice-things",
+          "publishedOn": "2023-01-09T11:30:56.000Z",
+          "wordCount": null,
+          "title": "152 - Why Can't We Have Nice Things | Liv Boeree",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/95557772.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss",
           "author": "Ryan Sean Adams",
           "description": "Listen now | 1st Week of 2023",
