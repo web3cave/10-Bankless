@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (76 min) | Our hottest predictions + ultra alpha leak",
+          "link": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
+          "publishedOn": "2023-01-11T00:12:07.000Z",
+          "wordCount": null,
+          "title": "10 Predictions for 2023 with Ryan & David",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/95943977.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/liv-boeree",
           "author": "David Hoffman",
           "description": "Listen now (26 min) | Debriefing the Why Can't We Have Nice Things with Liv Boeree episode",
@@ -256,38 +272,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/90605009.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (77 min) | How Web3 Revolutionizes the Digital Advertising Model",
-          "link": "https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the",
-          "publishedOn": "2022-12-12T09:55:32.000Z",
-          "wordCount": null,
-          "title": "148 - This is How Crypto Fixes the Internet | Antonio García Martínez",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/90136094.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-antonio",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (27 min) | Debriefing the Episode with Antonio",
-          "link": "https://shows.banklesshq.com/p/debrief-antonio",
-          "publishedOn": "2022-12-12T09:54:50.000Z",
-          "wordCount": null,
-          "title": "Debrief - Antonio García Martínez",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/90136870.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

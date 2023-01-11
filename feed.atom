@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T06:24:02.873Z</id>
+    <id>urn:2023-01-11T06:23:12.499Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T06:24:02.873Z</updated>
+    <updated>2023-01-11T06:23:12.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Predictions for 2023 with Ryan & David]]></title>
+        <id>https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan</id>
+        <link href="https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan"/>
+        <updated>2023-01-11T00:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | Our hottest predictions + ultra alpha leak]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - Liv Boeree]]></title>
         <id>https://shows.banklesshq.com/p/liv-boeree</id>
@@ -163,26 +173,6 @@
         <summary type="html"><![CDATA[Listen now (58 min) | The Best, The Worst, The Villains, and the Heroes]]></summary>
         <author>
             <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[148 - This is How Crypto Fixes the Internet | Antonio García Martínez]]></title>
-        <id>https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the</id>
-        <link href="https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the"/>
-        <updated>2022-12-12T09:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (77 min) | How Web3 Revolutionizes the Digital Advertising Model]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Antonio García Martínez]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-antonio</id>
-        <link href="https://shows.banklesshq.com/p/debrief-antonio"/>
-        <updated>2022-12-12T09:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Episode with Antonio]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
