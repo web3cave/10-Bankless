@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
+          "author": "David Hoffman",
+          "description": "Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode",
+          "link": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
+          "publishedOn": "2023-01-12T06:07:56.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Tyler Cowen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/96196440.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (58 min) | A polymath's perspective",
+          "link": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
+          "publishedOn": "2023-01-12T06:07:47.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Why Crypto is Underrated with Tyler Cowen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/96196441.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (33 min) | An afternoon with the Chief Pleasr",
+          "link": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
+          "publishedOn": "2023-01-12T05:32:25.000Z",
+          "wordCount": null,
+          "title": "PleasrDAO's NFT Auction House with Jamis Johnson",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/96193583.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
           "author": "Ryan Sean Adams",
           "description": "Listen now (76 min) | Our hottest predictions + ultra alpha leak",

@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T06:23:12.499Z</id>
+    <id>urn:2023-01-12T06:23:17.561Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T06:23:12.499Z</updated>
+    <updated>2023-01-12T06:23:17.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - Tyler Cowen]]></title>
+        <id>https://shows.banklesshq.com/p/tyler-cowen-debrief</id>
+        <link href="https://shows.banklesshq.com/p/tyler-cowen-debrief"/>
+        <updated>2023-01-12T06:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Why Crypto is Underrated with Tyler Cowen]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated</id>
+        <link href="https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated"/>
+        <updated>2023-01-12T06:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (58 min) | A polymath's perspective]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PleasrDAO's NFT Auction House with Jamis Johnson]]></title>
+        <id>https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with</id>
+        <link href="https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with"/>
+        <updated>2023-01-12T05:32:25.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (33 min) | An afternoon with the Chief Pleasr]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Predictions for 2023 with Ryan & David]]></title>
         <id>https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan</id>
