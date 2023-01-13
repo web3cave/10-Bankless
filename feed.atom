@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-12T06:23:17.561Z</id>
+    <id>urn:2023-01-13T06:23:14.111Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-12T06:23:17.561Z</updated>
+    <updated>2023-01-13T06:23:14.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -193,16 +193,6 @@
         <summary type="html"><![CDATA[Listen now (90 min) | 2nd Week of December, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022's Biggest Crypto Moments]]></title>
-        <id>https://shows.banklesshq.com/p/2022s-biggest-crypto-moments</id>
-        <link href="https://shows.banklesshq.com/p/2022s-biggest-crypto-moments"/>
-        <updated>2022-12-14T10:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (58 min) | The Best, The Worst, The Villains, and the Heroes]]></summary>
-        <author>
-            <name>Bankless Shows</name>
         </author>
     </entry>
 </feed>

@@ -308,22 +308,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/2022s-biggest-crypto-moments",
-          "author": null,
-          "description": "Listen now (58 min) | The Best, The Worst, The Villains, and the Heroes",
-          "link": "https://shows.banklesshq.com/p/2022s-biggest-crypto-moments",
-          "publishedOn": "2022-12-14T10:54:03.000Z",
-          "wordCount": null,
-          "title": "2022's Biggest Crypto Moments",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/90605009.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
