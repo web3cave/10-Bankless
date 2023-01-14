@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (94 min) | 2nd Week of January, 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry",
+          "publishedOn": "2023-01-13T08:18:02.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Crypto Rallies | Gemini vs Barry Silbert | Game of Thrones NFT | Ethereum Liquid Staking",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/96424802.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
           "author": "David Hoffman",
           "description": "Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode",
@@ -24,7 +40,7 @@
         {
           "id": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (58 min) | A polymath's perspective",
+          "description": "Listen now (55 min) | A polymath's perspective",
           "link": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
           "publishedOn": "2023-01-12T06:07:47.000Z",
           "wordCount": null,

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T06:23:14.111Z</id>
+    <id>urn:2023-01-14T06:21:09.864Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T06:23:14.111Z</updated>
+    <updated>2023-01-14T06:21:09.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Crypto Rallies | Gemini vs Barry Silbert | Game of Thrones NFT | Ethereum Liquid Staking]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry</id>
+        <link href="https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry"/>
+        <updated>2023-01-13T08:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (94 min) | 2nd Week of January, 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - Tyler Cowen]]></title>
         <id>https://shows.banklesshq.com/p/tyler-cowen-debrief</id>
@@ -20,7 +30,7 @@
         <id>https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated</id>
         <link href="https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated"/>
         <updated>2023-01-12T06:07:47.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (58 min) | A polymath's perspective]]></summary>
+        <summary type="html"><![CDATA[Listen now (55 min) | A polymath's perspective]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
