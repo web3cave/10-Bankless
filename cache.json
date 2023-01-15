@@ -55,8 +55,8 @@
         },
         {
           "id": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (33 min) | An afternoon with the Chief Pleasr",
+          "author": "David Hoffman",
+          "description": "Listen now (30 min) | An afternoon with the Chief Pleasr",
           "link": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
           "publishedOn": "2023-01-12T05:32:25.000Z",
           "wordCount": null,
@@ -272,54 +272,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/91085131.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief",
-          "author": null,
-          "description": "Listen now (26 min) | Debriefing the Vitalik episode",
-          "link": "https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief",
-          "publishedOn": "2022-12-16T09:30:18.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Vitalik Buterin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/91000923.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with",
-          "author": null,
-          "description": "Listen now (100 min) | Will it be even better than 2022?",
-          "link": "https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with",
-          "publishedOn": "2022-12-16T09:30:07.000Z",
-          "wordCount": null,
-          "title": "149 - Ethereum in 2023 with Vitalik Buterin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/90999894.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-sbf-arrested-trump-nfts-binance",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (90 min) | 2nd Week of December, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-sbf-arrested-trump-nfts-binance",
-          "publishedOn": "2022-12-16T08:49:11.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: SBF Arrested | Trump NFTs | Binance Bank Run | Fed Inflation | Proof of Reserves | Bored Ape Lawsuit",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/90996931.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
