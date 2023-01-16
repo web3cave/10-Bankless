@@ -260,22 +260,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022",
-          "author": "Lucas Matney",
-          "description": "Vitalik Buterin discusses this year's silver linings and 2023's opportunities.",
-          "link": "https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022",
-          "publishedOn": "2022-12-16T22:46:13.000Z",
-          "wordCount": null,
-          "title": "Vitalik's Top 5 Crypto Wins of 2022",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/91085131.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }

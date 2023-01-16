@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-15T06:21:43.502Z</id>
+    <id>urn:2023-01-16T06:23:52.652Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-15T06:21:43.502Z</updated>
+    <updated>2023-01-16T06:23:52.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -163,16 +163,6 @@
         <summary type="html"><![CDATA[Listen now (95 min) | Crypto is Still Inevitable]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik's Top 5 Crypto Wins of 2022]]></title>
-        <id>https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022</id>
-        <link href="https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022"/>
-        <updated>2022-12-16T22:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik Buterin discusses this year's silver linings and 2023's opportunities.]]></summary>
-        <author>
-            <name>Lucas Matney</name>
         </author>
     </entry>
 </feed>
