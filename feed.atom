@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-16T06:23:52.652Z</id>
+    <id>urn:2023-01-17T06:22:42.418Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-16T06:23:52.652Z</updated>
+    <updated>2023-01-17T06:22:42.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Why Crypto is Underrated with Tyler Cowen]]></title>
+        <title type="html"><![CDATA[153 - Why Crypto is Underrated with Tyler Cowen]]></title>
         <id>https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated</id>
         <link href="https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated"/>
         <updated>2023-01-12T06:07:47.000Z</updated>
