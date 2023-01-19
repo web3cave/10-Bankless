@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode",
+          "link": "https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum",
+          "publishedOn": "2023-01-19T05:49:21.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Sign-in with Ethereum",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/97547000.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-sign-in-with-ethereum",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (89 min) | Reclaiming our identities once and for all",
+          "link": "https://shows.banklesshq.com/p/early-access-sign-in-with-ethereum",
+          "publishedOn": "2023-01-19T05:49:13.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Sign-in With Ethereum with Wayne Chang",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/97630254.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/whats-hot-in-arbitrum-arbitrum-ecosystem",
+          "author": "David Freiburger",
+          "description": "Listen now (70 min) | Everything you need to know about Arbitrum",
+          "link": "https://shows.banklesshq.com/p/whats-hot-in-arbitrum-arbitrum-ecosystem",
+          "publishedOn": "2023-01-18T11:30:09.000Z",
+          "wordCount": null,
+          "title": "What's Hot in Arbitrum? | Arbitrum Ecosystem Guide",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/97408858.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry",
           "author": "Ryan Sean Adams",
           "description": "Listen now (94 min) | 2nd Week of January, 2023",
