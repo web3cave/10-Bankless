@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T06:23:34.666Z</id>
+    <id>urn:2023-01-21T06:21:26.887Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T06:23:34.666Z</updated>
+    <updated>2023-01-21T06:21:26.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Genesis Bankrupt | SEC vs Gemini | Bitzlato | New 3AC Exchange GTX | MetaMask Staking | ETH Denver]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini</id>
+        <link href="https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini"/>
+        <updated>2023-01-20T09:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (80 min) | 3rd Week of January, 2023]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - Sign-in with Ethereum]]></title>
         <id>https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum</id>
