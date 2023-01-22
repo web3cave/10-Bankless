@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T06:21:26.887Z</id>
+    <id>urn:2023-01-22T06:21:30.245Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T06:21:26.887Z</updated>
+    <updated>2023-01-22T06:21:30.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -173,36 +173,6 @@
         <summary type="html"><![CDATA[Listen now (79 min) | Why stay?]]></summary>
         <author>
             <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: SBF in the USA | Visa Ethereum Payments | Trump NFTs | Binance Buys Voyager]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum</id>
-        <link href="https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum"/>
-        <updated>2022-12-23T11:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (76 min) | December 23, 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[150 - Bull Case for Ethereum IV with Justin Drake, DCinvestor, & Anthony Sassano]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum</id>
-        <link href="https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum"/>
-        <updated>2022-12-23T07:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (98 min) | What's 2023 going to look like?]]></summary>
-        <author>
-            <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Thesis for 2023 | Ryan Selkis]]></title>
-        <id>https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis</id>
-        <link href="https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis"/>
-        <updated>2022-12-22T21:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (95 min) | Crypto is Still Inevitable]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
