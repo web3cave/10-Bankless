@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-dan-romero",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (25 min) | Debriefing the Dan Romero, The Rise of Decentralized Social Networks episode.",
+          "link": "https://shows.banklesshq.com/p/debrief-dan-romero",
+          "publishedOn": "2023-01-26T04:50:11.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - The Rise of Decentralized Social Networks",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/99021767.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (85 min) | First we take back our money, then our identity.",
+          "link": "https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized",
+          "publishedOn": "2023-01-26T04:50:05.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/99022450.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
+          "author": "Ryan Sean Adams",
+          "description": "Jetzt anhören (66 min) | The future of Enterprise Blockchain",
+          "link": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
+          "publishedOn": "2023-01-25T11:30:59.000Z",
+          "wordCount": null,
+          "title": "Unlocking Privacy on Ethereum with Paul Brody",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/98836606.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini",
           "author": "David Hoffman",
           "description": "Listen now (80 min) | 3rd Week of January, 2023",
