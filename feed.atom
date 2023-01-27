@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T06:22:19.373Z</id>
+    <id>urn:2023-01-27T06:22:40.344Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-26T06:22:19.373Z</updated>
+    <updated>2023-01-27T06:22:40.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bull Trap, or Bull Market? with Vance Spencer]]></title>
+        <id>https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance</id>
+        <link href="https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance"/>
+        <updated>2023-01-26T11:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (47 min) | Where are we??? Vance has the answer.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - The Rise of Decentralized Social Networks]]></title>
         <id>https://shows.banklesshq.com/p/debrief-dan-romero</id>
@@ -30,7 +40,7 @@
         <id>https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with</id>
         <link href="https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with"/>
         <updated>2023-01-25T11:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Jetzt anhören (66 min) | The future of Enterprise Blockchain]]></summary>
+        <summary type="html"><![CDATA[Listen now (66 min) | The future of Enterprise Blockchain]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -181,26 +191,6 @@
         <link href="https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi"/>
         <updated>2022-12-30T11:01:17.000Z</updated>
         <summary type="html"><![CDATA[Listen now (81 min) | Last Week of 2022]]></summary>
-        <author>
-            <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Erik Voorhees]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here</id>
-        <link href="https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here"/>
-        <updated>2022-12-28T07:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (34 min) | Debriefing the Why Are We Here? with Erik Voorhees episode]]></summary>
-        <author>
-            <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[151 - Why Are We Here? with Erik Voorhees]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-why-are-we-here-with</id>
-        <link href="https://shows.banklesshq.com/p/early-access-why-are-we-here-with"/>
-        <updated>2022-12-28T07:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (79 min) | Why stay?]]></summary>
         <author>
             <name>Bankless Shows</name>
         </author>

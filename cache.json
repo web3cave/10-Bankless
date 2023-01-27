@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (47 min) | Where are we??? Vance has the answer.",
+          "link": "https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance",
+          "publishedOn": "2023-01-26T11:33:59.000Z",
+          "wordCount": null,
+          "title": "Bull Trap, or Bull Market? with Vance Spencer",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/99033185.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-dan-romero",
           "author": "Ryan Sean Adams",
           "description": "Listen now (25 min) | Debriefing the Dan Romero, The Rise of Decentralized Social Networks episode.",
@@ -40,7 +56,7 @@
         {
           "id": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
           "author": "Ryan Sean Adams",
-          "description": "Jetzt anhören (66 min) | The future of Enterprise Blockchain",
+          "description": "Listen now (66 min) | The future of Enterprise Blockchain",
           "link": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
           "publishedOn": "2023-01-25T11:30:59.000Z",
           "wordCount": null,
@@ -288,38 +304,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/93714920.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here",
-          "author": null,
-          "description": "Listen now (34 min) | Debriefing the Why Are We Here? with Erik Voorhees episode",
-          "link": "https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here",
-          "publishedOn": "2022-12-28T07:25:43.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Erik Voorhees",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/93320967.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-why-are-we-here-with",
-          "author": null,
-          "description": "Listen now (79 min) | Why stay?",
-          "link": "https://shows.banklesshq.com/p/early-access-why-are-we-here-with",
-          "publishedOn": "2022-12-28T07:25:37.000Z",
-          "wordCount": null,
-          "title": "151 - Why Are We Here? with Erik Voorhees",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/93318667.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
