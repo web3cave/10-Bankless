@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | 4th Week of January, 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto",
+          "publishedOn": "2023-01-27T13:06:11.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Genesis Bankruptcy | SEC Crypto Crackdown | Kevin Rose NFTs Hacked | Aptos Token | BAYC Sewer Pass",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/99219765.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance",
           "author": "Ryan Sean Adams",
           "description": "Listen now (47 min) | Where are we??? Vance has the answer.",

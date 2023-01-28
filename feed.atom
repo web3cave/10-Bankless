@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T06:22:40.344Z</id>
+    <id>urn:2023-01-28T06:21:22.616Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T06:22:40.344Z</updated>
+    <updated>2023-01-28T06:21:22.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Genesis Bankruptcy | SEC Crypto Crackdown | Kevin Rose NFTs Hacked | Aptos Token | BAYC Sewer Pass]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto</id>
+        <link href="https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto"/>
+        <updated>2023-01-27T13:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 4th Week of January, 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bull Trap, or Bull Market? with Vance Spencer]]></title>
         <id>https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance</id>
