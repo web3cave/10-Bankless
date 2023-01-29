@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-chris-burniske",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (12 min) | Debriefing the Chris Burniske, Investing in Waves episode.",
+          "link": "https://shows.banklesshq.com/p/debrief-chris-burniske",
+          "publishedOn": "2023-01-28T07:48:57.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Investing in Waves",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/99388499.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (109 min) | Why crypto is like surfing and how you catch a good wave",
+          "link": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
+          "publishedOn": "2023-01-28T07:48:09.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Investing in Waves with Chris Burniske",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/99388299.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto",
           "author": "Ryan Sean Adams",
           "description": "Listen now | 4th Week of January, 2023",
@@ -60,7 +92,7 @@
           "link": "https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized",
           "publishedOn": "2023-01-26T04:50:05.000Z",
           "wordCount": null,
-          "title": "EARLY ACCESS - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero",
+          "title": "155 - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero",
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99022450.mp3",
@@ -288,38 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/94782518.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye",
-          "author": "David Hoffman",
-          "description": "Listen now (75 min) | Securities Lawyer Trolls the SEC",
-          "link": "https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye",
-          "publishedOn": "2023-01-04T05:53:23.000Z",
-          "wordCount": null,
-          "title": "Are NFTs Securities? with Brian Frye",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/94568098.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
-          "author": null,
-          "description": "Listen now (81 min) | Last Week of 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
-          "publishedOn": "2022-12-30T11:01:17.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/93714920.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
