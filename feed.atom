@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T06:23:31.770Z</id>
+    <id>urn:2023-01-31T06:23:50.546Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-30T06:23:31.770Z</updated>
+    <updated>2023-01-31T06:23:50.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Investing in Waves with Chris Burniske]]></title>
+        <title type="html"><![CDATA[156 - Investing in Waves with Chris Burniske]]></title>
         <id>https://shows.banklesshq.com/p/early-access-investing-in-waves-with</id>
         <link href="https://shows.banklesshq.com/p/early-access-investing-in-waves-with"/>
         <updated>2023-01-28T07:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (109 min) | Why crypto is like surfing and how you catch a good wave]]></summary>
+        <summary type="html"><![CDATA[Listen now (96 min) | Why crypto is like surfing and how you catch a good wave]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
