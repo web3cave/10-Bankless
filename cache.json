@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-power-to-mint-money",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (69 min) | The history of crypto bull markets and why it matters",
+          "link": "https://shows.banklesshq.com/p/the-power-to-mint-money",
+          "publishedOn": "2023-02-01T11:31:05.000Z",
+          "wordCount": null,
+          "title": "The Power to Mint Money",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/100165114.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-anatoly-solana",
           "author": "Ryan Sean Adams",
           "description": "Listen now (25 min) | Debriefing the Will Solana Make It? with Anatoly Yakovenko episode.",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/95560341.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/152-why-cant-we-have-nice-things",
-          "author": "David Hoffman",
-          "description": "Listen now (84 min) | Slaying Moloch",
-          "link": "https://shows.banklesshq.com/p/152-why-cant-we-have-nice-things",
-          "publishedOn": "2023-01-09T11:30:56.000Z",
-          "wordCount": null,
-          "title": "152 - Why Can't We Have Nice Things | Liv Boeree",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/95557772.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
