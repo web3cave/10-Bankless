@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T06:23:16.153Z</id>
+    <id>urn:2023-02-04T06:21:36.966Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-03T06:23:16.153Z</updated>
+    <updated>2023-02-04T06:21:36.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Bitcoin NFTs | Canto | FOMC Interest Rates | Blur OpenSea Royalties]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest</id>
+        <link href="https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest"/>
+        <updated>2023-02-03T11:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (90 min) | 1st Week of February, 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Power to Mint Money]]></title>
         <id>https://shows.banklesshq.com/p/the-power-to-mint-money</id>
         <link href="https://shows.banklesshq.com/p/the-power-to-mint-money"/>
         <updated>2023-02-01T11:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (69 min) | The history of crypto bull markets and why it matters]]></summary>
+        <summary type="html"><![CDATA[Jetzt anhören (69 min) | The history of crypto bull markets and why it matters]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (76 min) | Our hottest predictions + ultra alpha leak]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Liv Boeree]]></title>
-        <id>https://shows.banklesshq.com/p/liv-boeree</id>
-        <link href="https://shows.banklesshq.com/p/liv-boeree"/>
-        <updated>2023-01-09T11:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Why Can't We Have Nice Things with Liv Boeree episode]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

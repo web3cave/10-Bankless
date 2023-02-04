@@ -6,9 +6,25 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (90 min) | 1st Week of February, 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest",
+          "publishedOn": "2023-02-03T11:20:06.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Bitcoin NFTs | Canto | FOMC Interest Rates | Blur OpenSea Royalties",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/100628112.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (69 min) | The history of crypto bull markets and why it matters",
+          "description": "Jetzt anhören (69 min) | The history of crypto bull markets and why it matters",
           "link": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "publishedOn": "2023-02-01T11:31:05.000Z",
           "wordCount": null,
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/95943977.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/liv-boeree",
-          "author": "David Hoffman",
-          "description": "Listen now (26 min) | Debriefing the Why Can't We Have Nice Things with Liv Boeree episode",
-          "link": "https://shows.banklesshq.com/p/liv-boeree",
-          "publishedOn": "2023-01-09T11:30:56.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Liv Boeree",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/95560341.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
