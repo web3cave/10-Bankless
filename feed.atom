@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-06T06:23:30.538Z</id>
+    <id>urn:2023-02-07T06:22:44.391Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-06T06:23:30.538Z</updated>
+    <updated>2023-02-07T06:22:44.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - You're Not Bullish Enough on NFTs]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-punk6529</id>
+        <link href="https://shows.banklesshq.com/p/debrief-punk6529"/>
+        <updated>2023-02-06T21:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - You're Not Bullish Enough on NFTs with Punk6529]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough</id>
+        <link href="https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough"/>
+        <updated>2023-02-06T21:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (81 min) | Why they're inevitable and will shape the arc of history]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Bitcoin NFTs | Canto | FOMC Interest Rates | Blur OpenSea Royalties]]></title>
         <id>https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest</id>
@@ -36,7 +56,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Will Solana Make It? with Anatoly Yakovenko]]></title>
+        <title type="html"><![CDATA[157 - Will Solana Make It with Anatoly Yakovenko]]></title>
         <id>https://shows.banklesshq.com/p/early-access-will-solana-make-it</id>
         <link href="https://shows.banklesshq.com/p/early-access-will-solana-make-it"/>
         <updated>2023-01-31T06:18:02.000Z</updated>
@@ -120,7 +140,7 @@
         <id>https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini</id>
         <link href="https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini"/>
         <updated>2023-01-20T09:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (80 min) | 3rd Week of January, 2023]]></summary>
+        <summary type="html"><![CDATA[Écoutez maintenant (80 min) | 3rd Week of January, 2023]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
@@ -130,7 +150,7 @@
         <id>https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum</id>
         <link href="https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum"/>
         <updated>2023-01-19T05:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode]]></summary>
+        <summary type="html"><![CDATA[Écoutez maintenant (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -181,26 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated"/>
         <updated>2023-01-12T06:07:47.000Z</updated>
         <summary type="html"><![CDATA[Listen now (55 min) | A polymath's perspective]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PleasrDAO's NFT Auction House with Jamis Johnson]]></title>
-        <id>https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with</id>
-        <link href="https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with"/>
-        <updated>2023-01-12T05:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (30 min) | An afternoon with the Chief Pleasr]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Predictions for 2023 with Ryan & David]]></title>
-        <id>https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan</id>
-        <link href="https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan"/>
-        <updated>2023-01-11T00:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (76 min) | Our hottest predictions + ultra alpha leak]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
