@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T06:22:44.391Z</id>
+    <id>urn:2023-02-08T06:22:39.204Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-07T06:22:44.391Z</updated>
+    <updated>2023-02-08T06:22:39.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NFTs Attacking Bitcoin? with Eric Wall & Casey Rodarmor]]></title>
+        <id>https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric</id>
+        <link href="https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric"/>
+        <updated>2023-02-07T19:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (68 min) | What it means for Bitcoin's future]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - You're Not Bullish Enough on NFTs]]></title>
         <id>https://shows.banklesshq.com/p/debrief-punk6529</id>
@@ -40,7 +50,7 @@
         <id>https://shows.banklesshq.com/p/the-power-to-mint-money</id>
         <link href="https://shows.banklesshq.com/p/the-power-to-mint-money"/>
         <updated>2023-02-01T11:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Écoutez maintenant (69 min) | The history of crypto bull markets and why it matters]]></summary>
+        <summary type="html"><![CDATA[Listen now (69 min) | The history of crypto bull markets and why it matters]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -80,7 +90,7 @@
         <id>https://shows.banklesshq.com/p/early-access-investing-in-waves-with</id>
         <link href="https://shows.banklesshq.com/p/early-access-investing-in-waves-with"/>
         <updated>2023-01-28T07:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (96 min) | Why crypto is like surfing and how you catch a good wave]]></summary>
+        <summary type="html"><![CDATA[Jetzt anhören (96 min) | Why crypto is like surfing and how you catch a good wave]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[153 - Why Crypto is Underrated with Tyler Cowen]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated</id>
-        <link href="https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated"/>
-        <updated>2023-01-12T06:07:47.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (55 min) | A polymath's perspective]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>

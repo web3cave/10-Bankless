@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
+          "author": "David Hoffman",
+          "description": "Listen now (68 min) | What it means for Bitcoin's future",
+          "link": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
+          "publishedOn": "2023-02-07T19:00:42.000Z",
+          "wordCount": null,
+          "title": "NFTs Attacking Bitcoin? with Eric Wall & Casey Rodarmor",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/101294297.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-punk6529",
           "author": "Ryan Sean Adams",
           "description": "Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.",
@@ -56,7 +72,7 @@
         {
           "id": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "author": "Ryan Sean Adams",
-          "description": "Écoutez maintenant (69 min) | The history of crypto bull markets and why it matters",
+          "description": "Listen now (69 min) | The history of crypto bull markets and why it matters",
           "link": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "publishedOn": "2023-02-01T11:31:05.000Z",
           "wordCount": null,
@@ -120,7 +136,7 @@
         {
           "id": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (96 min) | Why crypto is like surfing and how you catch a good wave",
+          "description": "Jetzt anhören (96 min) | Why crypto is like surfing and how you catch a good wave",
           "link": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
           "publishedOn": "2023-01-28T07:48:09.000Z",
           "wordCount": null,
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/96196440.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (55 min) | A polymath's perspective",
-          "link": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
-          "publishedOn": "2023-01-12T06:07:47.000Z",
-          "wordCount": null,
-          "title": "153 - Why Crypto is Underrated with Tyler Cowen",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/96196441.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
