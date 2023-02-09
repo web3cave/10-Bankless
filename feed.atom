@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T06:22:39.204Z</id>
+    <id>urn:2023-02-09T06:24:25.237Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T06:22:39.204Z</updated>
+    <updated>2023-02-09T06:24:25.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -150,7 +150,7 @@
         <id>https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini</id>
         <link href="https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini"/>
         <updated>2023-01-20T09:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Écoutez maintenant (80 min) | 3rd Week of January, 2023]]></summary>
+        <summary type="html"><![CDATA[Listen now (80 min) | 3rd Week of January, 2023]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
@@ -160,7 +160,7 @@
         <id>https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum</id>
         <link href="https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum"/>
         <updated>2023-01-19T05:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Écoutez maintenant (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode]]></summary>
+        <summary type="html"><![CDATA[Listen now (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
