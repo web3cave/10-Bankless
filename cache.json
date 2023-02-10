@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-operation-choke-point-sec",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (100 min) | 2nd Week of February, 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-operation-choke-point-sec",
+          "publishedOn": "2023-02-10T06:18:43.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Operation Choke Point | SEC Crypto Staking Crackdown | Genesis Earn Repayment | a16z Uniswap",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/102009995.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1",
+          "author": "David Hoffman",
+          "description": "Listen now (99 min) | StarkWare Founders, Account Abstraction, Smart Contract Wallets, and Governance",
+          "link": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1",
+          "publishedOn": "2023-02-09T12:45:42.000Z",
+          "wordCount": null,
+          "title": "The StarkWare Sessions | Episodes #1-4",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/101813889.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/whats-going-on-with-canto",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (62 min) | Up 500% in 30 Days... in a bear market! What's the deal here?",
+          "link": "https://shows.banklesshq.com/p/whats-going-on-with-canto",
+          "publishedOn": "2023-02-09T10:40:03.000Z",
+          "wordCount": null,
+          "title": "What's going on with Canto?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/101828279.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
           "author": "David Hoffman",
           "description": "Listen now (68 min) | What it means for Bitcoin's future",
@@ -136,7 +184,7 @@
         {
           "id": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
           "author": "Ryan Sean Adams",
-          "description": "Jetzt anhören (96 min) | Why crypto is like surfing and how you catch a good wave",
+          "description": "Listen now (96 min) | Why crypto is like surfing and how you catch a good wave",
           "link": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
           "publishedOn": "2023-01-28T07:48:09.000Z",
           "wordCount": null,
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/97630254.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/whats-hot-in-arbitrum-arbitrum-ecosystem",
-          "author": "David Freiburger",
-          "description": "Listen now (70 min) | Everything you need to know about Arbitrum",
-          "link": "https://shows.banklesshq.com/p/whats-hot-in-arbitrum-arbitrum-ecosystem",
-          "publishedOn": "2023-01-18T11:30:09.000Z",
-          "wordCount": null,
-          "title": "What's Hot in Arbitrum? | Arbitrum Ecosystem Guide",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/97408858.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (94 min) | 2nd Week of January, 2023",
-          "link": "https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry",
-          "publishedOn": "2023-01-13T08:18:02.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Crypto Rallies | Gemini vs Barry Silbert | Game of Thrones NFT | Ethereum Liquid Staking",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/96424802.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
-          "author": "David Hoffman",
-          "description": "Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode",
-          "link": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
-          "publishedOn": "2023-01-12T06:07:56.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Tyler Cowen",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/96196440.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
