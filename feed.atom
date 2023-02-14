@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T06:24:30.011Z</id>
+    <id>urn:2023-02-14T06:24:23.691Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-13T06:24:30.011Z</updated>
+    <updated>2023-02-14T06:24:23.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,7 +66,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - You're Not Bullish Enough on NFTs with Punk6529]]></title>
+        <title type="html"><![CDATA[158 - You're Not Bullish Enough on NFTs with Punk6529]]></title>
         <id>https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough</id>
         <link href="https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough"/>
         <updated>2023-02-06T21:25:32.000Z</updated>
@@ -90,7 +90,7 @@
         <id>https://shows.banklesshq.com/p/the-power-to-mint-money</id>
         <link href="https://shows.banklesshq.com/p/the-power-to-mint-money"/>
         <updated>2023-02-01T11:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Ascolta ora (69 min) | The history of crypto bull markets and why it matters]]></summary>
+        <summary type="html"><![CDATA[Listen now (69 min) | The history of crypto bull markets and why it matters]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
