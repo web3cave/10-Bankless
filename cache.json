@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
+          "author": "David Hoffman",
+          "description": "Listen now (67 min) | Operation Chokepoint is in full effect—here's everything you need to know",
+          "link": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
+          "publishedOn": "2023-02-15T11:30:13.000Z",
+          "wordCount": null,
+          "title": "The SEC Declares War on Crypto with Ryan & David",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/102996218.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1-d46",
           "author": "David Hoffman",
           "description": "Listen now (105 min) | Digital Identity, Gaming, Open-Source Funding, Cross-Chain Data, and zk-Hardware",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/97864584.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode",
-          "link": "https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum",
-          "publishedOn": "2023-01-19T05:49:21.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Sign-in with Ethereum",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/97547000.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
