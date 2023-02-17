@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (53 min) | The $330M airdrop to Blur traders",
+          "link": "https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman",
+          "publishedOn": "2023-02-16T11:30:53.000Z",
+          "wordCount": null,
+          "title": "$BLUR AIRDROP with Blur's Founder, Pacman",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103191406.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-eliezer",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (30 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode",
+          "link": "https://shows.banklesshq.com/p/debrief-eliezer",
+          "publishedOn": "2023-02-16T06:24:51.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - We're All Gonna Die",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103214358.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (103 min) | With AGI on the horizon, is there hope for humanity?",
+          "link": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
+          "publishedOn": "2023-02-16T06:24:16.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - We’re All Gonna Die with Eliezer Yudkowsky",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103213495.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
           "author": "David Hoffman",
           "description": "Listen now (67 min) | Operation Chokepoint is in full effect—here's everything you need to know",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99021767.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (85 min) | First we take back our money, then our identity.",
-          "link": "https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized",
-          "publishedOn": "2023-01-26T04:50:05.000Z",
-          "wordCount": null,
-          "title": "155 - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99022450.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (66 min) | The future of Enterprise Blockchain",
-          "link": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
-          "publishedOn": "2023-01-25T11:30:59.000Z",
-          "wordCount": null,
-          "title": "Unlocking Privacy on Ethereum with Paul Brody",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/98836606.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini",
-          "author": "David Hoffman",
-          "description": "Listen now (80 min) | 3rd Week of January, 2023",
-          "link": "https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini",
-          "publishedOn": "2023-01-20T09:20:08.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Genesis Bankrupt | SEC vs Gemini | Bitzlato | New 3AC Exchange GTX | MetaMask Staking | ETH Denver",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/97864584.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

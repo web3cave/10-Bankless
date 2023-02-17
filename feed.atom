@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T06:24:06.301Z</id>
+    <id>urn:2023-02-17T06:24:04.568Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T06:24:06.301Z</updated>
+    <updated>2023-02-17T06:24:04.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$BLUR AIRDROP with Blur's Founder, Pacman]]></title>
+        <id>https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman</id>
+        <link href="https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman"/>
+        <updated>2023-02-16T11:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (53 min) | The $330M airdrop to Blur traders]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - We're All Gonna Die]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
+        <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
+        <updated>2023-02-16T06:24:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (30 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - We’re All Gonna Die with Eliezer Yudkowsky]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with"/>
+        <updated>2023-02-16T06:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (103 min) | With AGI on the horizon, is there hope for humanity?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The SEC Declares War on Crypto with Ryan & David]]></title>
         <id>https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with</id>
@@ -173,36 +203,6 @@
         <summary type="html"><![CDATA[Listen now (25 min) | Debriefing the Dan Romero, The Rise of Decentralized Social Networks episode.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[155 - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized</id>
-        <link href="https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized"/>
-        <updated>2023-01-26T04:50:05.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (85 min) | First we take back our money, then our identity.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlocking Privacy on Ethereum with Paul Brody]]></title>
-        <id>https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with</id>
-        <link href="https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with"/>
-        <updated>2023-01-25T11:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (66 min) | The future of Enterprise Blockchain]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Genesis Bankrupt | SEC vs Gemini | Bitzlato | New 3AC Exchange GTX | MetaMask Staking | ETH Denver]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini</id>
-        <link href="https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini"/>
-        <updated>2023-01-20T09:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (80 min) | 3rd Week of January, 2023]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>
