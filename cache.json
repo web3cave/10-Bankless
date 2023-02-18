@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur",
+          "author": "Ryan Sean Adams",
+          "description": "Jetzt anhören (93 min) | 3rd Friday of February, 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur",
+          "publishedOn": "2023-02-17T11:30:58.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: SEC Staking Krakdown | $BLUR Airdrop | SBF’s Bailout Money Source | Ordinals Still Growing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103452791.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman",
           "author": "Ryan Sean Adams",
           "description": "Listen now (53 min) | The $330M airdrop to Blur traders",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99033185.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-dan-romero",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (25 min) | Debriefing the Dan Romero, The Rise of Decentralized Social Networks episode.",
-          "link": "https://shows.banklesshq.com/p/debrief-dan-romero",
-          "publishedOn": "2023-01-26T04:50:11.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - The Rise of Decentralized Social Networks",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99021767.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

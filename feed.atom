@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T06:24:04.568Z</id>
+    <id>urn:2023-02-18T06:22:08.475Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T06:24:04.568Z</updated>
+    <updated>2023-02-18T06:22:08.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SEC Staking Krakdown | $BLUR Airdrop | SBF’s Bailout Money Source | Ordinals Still Growing]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur"/>
+        <updated>2023-02-17T11:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Jetzt anhören (93 min) | 3rd Friday of February, 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$BLUR AIRDROP with Blur's Founder, Pacman]]></title>
         <id>https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman</id>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance"/>
         <updated>2023-01-26T11:33:59.000Z</updated>
         <summary type="html"><![CDATA[Listen now (47 min) | Where are we??? Vance has the answer.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - The Rise of Decentralized Social Networks]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-dan-romero</id>
-        <link href="https://shows.banklesshq.com/p/debrief-dan-romero"/>
-        <updated>2023-01-26T04:50:11.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (25 min) | Debriefing the Dan Romero, The Rise of Decentralized Social Networks episode.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
