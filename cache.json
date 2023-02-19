@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica",
+          "author": "David Hoffman",
+          "description": "Listen now (56 min) | Who's got better crypto regulation and why?",
+          "link": "https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica",
+          "publishedOn": "2023-02-18T11:30:16.000Z",
+          "wordCount": null,
+          "title": "EU Markets in Crypto-Assets (MiCA) with Seth Hertlein, Patrick Hansen, & Rebecca Rettig",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103334802.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur",
           "author": "Ryan Sean Adams",
           "description": "Jetzt anhören (93 min) | 3rd Friday of February, 2023",
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99219765.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (47 min) | Where are we??? Vance has the answer.",
-          "link": "https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance",
-          "publishedOn": "2023-01-26T11:33:59.000Z",
-          "wordCount": null,
-          "title": "Bull Trap, or Bull Market? with Vance Spencer",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99033185.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
