@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T06:24:55.447Z</id>
+    <id>urn:2023-02-21T06:24:00.427Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-20T06:24:55.447Z</updated>
+    <updated>2023-02-21T06:24:00.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[159 - We’re All Gonna Die with Eliezer Yudkowsky]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with"/>
+        <updated>2023-02-20T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (103 min) | With AGI on the horizon, is there hope for humanity?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU Markets in Crypto-Assets (MiCA) with Seth Hertlein, Patrick Hansen, & Rebecca Rettig]]></title>
         <id>https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica</id>
@@ -41,16 +51,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
         <updated>2023-02-16T06:24:51.000Z</updated>
         <summary type="html"><![CDATA[Listen now (30 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - We’re All Gonna Die with Eliezer Yudkowsky]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with</id>
-        <link href="https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with"/>
-        <updated>2023-02-16T06:24:16.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (103 min) | With AGI on the horizon, is there hope for humanity?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
