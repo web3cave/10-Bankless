@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-eliezer",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode",
+          "link": "https://shows.banklesshq.com/p/debrief-eliezer",
+          "publishedOn": "2023-02-21T18:39:00.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - We're All Gonna Die",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103214358/4f64d64b6dc93f30b1d4db2986a42181.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
           "author": "Ryan Sean Adams",
           "description": "Listen now (103 min) | With AGI on the horizon, is there hope for humanity?",
@@ -70,22 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://shows.banklesshq.com/p/debrief-eliezer",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (30 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode",
-          "link": "https://shows.banklesshq.com/p/debrief-eliezer",
-          "publishedOn": "2023-02-16T06:24:51.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - We're All Gonna Die",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103214358.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
           "id": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
           "author": "David Hoffman",
           "description": "Listen now (67 min) | Operation Chokepoint is in full effect—here's everything you need to know",
@@ -136,7 +136,7 @@
         {
           "id": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1",
           "author": "David Hoffman",
-          "description": "Jetzt anhören (99 min) | StarkWare Founders, Account Abstraction, Smart Contract Wallets, and Governance",
+          "description": "Listen now (99 min) | StarkWare Founders, Account Abstraction, Smart Contract Wallets, and Governance",
           "link": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1",
           "publishedOn": "2023-02-09T12:45:42.000Z",
           "wordCount": null,

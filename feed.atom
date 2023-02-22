@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T06:24:00.427Z</id>
+    <id>urn:2023-02-22T06:24:40.911Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-21T06:24:00.427Z</updated>
+    <updated>2023-02-22T06:24:40.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - We're All Gonna Die]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
+        <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
+        <updated>2023-02-21T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[159 - We’re All Gonna Die with Eliezer Yudkowsky]]></title>
         <id>https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with</id>
@@ -46,16 +56,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEBRIEF - We're All Gonna Die]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
-        <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
-        <updated>2023-02-16T06:24:51.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (30 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The SEC Declares War on Crypto with Ryan & David]]></title>
         <id>https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with</id>
         <link href="https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with"/>
@@ -90,7 +90,7 @@
         <id>https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1</id>
         <link href="https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1"/>
         <updated>2023-02-09T12:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Jetzt anhören (99 min) | StarkWare Founders, Account Abstraction, Smart Contract Wallets, and Governance]]></summary>
+        <summary type="html"><![CDATA[Listen now (99 min) | StarkWare Founders, Account Abstraction, Smart Contract Wallets, and Governance]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
