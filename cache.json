@@ -6,6 +6,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with",
+          "author": "David Hoffman",
+          "description": "Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments",
+          "link": "https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with",
+          "publishedOn": "2023-02-22T23:58:11.000Z",
+          "wordCount": null,
+          "title": "ETH Is NOT Ultrasound Money with Jon Charbonneau",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104545068.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank",
+          "author": "David Hoffman",
+          "description": "Listen now (68 min) | 3rd Largest Community?",
+          "link": "https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank",
+          "publishedOn": "2023-02-22T11:33:56.000Z",
+          "wordCount": null,
+          "title": "The Polygon NFT Ecosystem with Frank (DeGods), Zhuoxun Yin (Magic Eden), & Stani Kulechov (Lens)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104188822.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-eliezer",
           "author": "Ryan Sean Adams",
           "description": "Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode",
@@ -16,6 +48,22 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/103214358/4f64d64b6dc93f30b1d4db2986a42181.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (53 min) | Is there anything we can do to solve AI alignment?",
+          "link": "https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were",
+          "publishedOn": "2023-02-21T05:38:00.000Z",
+          "wordCount": null,
+          "title": "Spaces - Eliezer Yudkowsky thinks we're doomed",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104588281.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99958611.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-chris-burniske",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (12 min) | Debriefing the Chris Burniske, Investing in Waves episode.",
-          "link": "https://shows.banklesshq.com/p/debrief-chris-burniske",
-          "publishedOn": "2023-01-28T07:48:57.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Investing in Waves",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99388499.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (96 min) | Why crypto is like surfing and how you catch a good wave",
-          "link": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
-          "publishedOn": "2023-01-28T07:48:09.000Z",
-          "wordCount": null,
-          "title": "156 - Investing in Waves with Chris Burniske",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99388299.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now | 4th Week of January, 2023",
-          "link": "https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto",
-          "publishedOn": "2023-01-27T13:06:11.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Genesis Bankruptcy | SEC Crypto Crackdown | Kevin Rose NFTs Hacked | Aptos Token | BAYC Sewer Pass",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99219765.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T06:24:40.911Z</id>
+    <id>urn:2023-02-23T06:23:50.907Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T06:24:40.911Z</updated>
+    <updated>2023-02-23T06:23:50.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Is NOT Ultrasound Money with Jon Charbonneau]]></title>
+        <id>https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with</id>
+        <link href="https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with"/>
+        <updated>2023-02-22T23:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Polygon NFT Ecosystem with Frank (DeGods), Zhuoxun Yin (Magic Eden), & Stani Kulechov (Lens)]]></title>
+        <id>https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank</id>
+        <link href="https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank"/>
+        <updated>2023-02-22T11:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (68 min) | 3rd Largest Community?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - We're All Gonna Die]]></title>
         <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
         <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
         <updated>2023-02-21T18:39:00.000Z</updated>
         <summary type="html"><![CDATA[Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spaces - Eliezer Yudkowsky thinks we're doomed]]></title>
+        <id>https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were</id>
+        <link href="https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were"/>
+        <updated>2023-02-21T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (53 min) | Is there anything we can do to solve AI alignment?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -171,36 +201,6 @@
         <link href="https://shows.banklesshq.com/p/early-access-will-solana-make-it"/>
         <updated>2023-01-31T06:18:02.000Z</updated>
         <summary type="html"><![CDATA[Listen now (79 min) | Will it survive the bear?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Investing in Waves]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-chris-burniske</id>
-        <link href="https://shows.banklesshq.com/p/debrief-chris-burniske"/>
-        <updated>2023-01-28T07:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (12 min) | Debriefing the Chris Burniske, Investing in Waves episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[156 - Investing in Waves with Chris Burniske]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-investing-in-waves-with</id>
-        <link href="https://shows.banklesshq.com/p/early-access-investing-in-waves-with"/>
-        <updated>2023-01-28T07:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (96 min) | Why crypto is like surfing and how you catch a good wave]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Genesis Bankruptcy | SEC Crypto Crackdown | Kevin Rose NFTs Hacked | Aptos Token | BAYC Sewer Pass]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto</id>
-        <link href="https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto"/>
-        <updated>2023-01-27T13:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | 4th Week of January, 2023]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
