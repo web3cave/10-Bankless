@@ -59,6 +59,51 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-23 datetime="2023-02-23T14:01:00.000Z">2023-02-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-23 datetime="2023-02-23T14:01:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Bankless Shows</button>
+                  <a class="source-heading__link" href="https://shows.banklesshq.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://shows.banklesshq.com/p/coinbase-launches-base-their-own"
+                        open
+                      >
+                        <summary class="article-expander__title">Coinbase Announces Base🔵, an Ethereum L2 Network Powered by Optimism</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://shows.banklesshq.com/p/coinbase-launches-base-their-own">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Listen now (62 min) | Hottest news since The Merge</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-22 datetime="2023-02-22T23:58:11.000Z">2023-02-22</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-22 datetime="2023-02-22T23:58:11.000Z"></time>
           </button>
@@ -790,23 +835,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://shows.banklesshq.com/p/early-access-will-solana-make-it"
-                        open
-                      >
-                        <summary class="article-expander__title">157 - Will Solana Make It with Anatoly Yakovenko</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://shows.banklesshq.com/p/early-access-will-solana-make-it">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Listen now (79 min) | Will it survive the bear?</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -814,8 +842,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/10-Bankless/actions/runs/4249994047">
-        <time id="build-timestamp" datetime="2023-02-23T06:23:50.886Z">2023-02-23T06:23:50.886Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/10-Bankless/actions/runs/4259940373">
+        <time id="build-timestamp" datetime="2023-02-24T06:24:44.573Z">2023-02-24T06:24:44.573Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
