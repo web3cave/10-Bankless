@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T06:24:44.594Z</id>
+    <id>urn:2023-02-25T06:23:05.213Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T06:24:44.594Z</updated>
+    <updated>2023-02-25T06:23:05.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A.I. vs Humans with Eliezer Yudkowsky (Twitter Spaces)]]></title>
+        <id>https://shows.banklesshq.com/p/ai-vs-humans-with-eliezer-yudkowsky</id>
+        <link href="https://shows.banklesshq.com/p/ai-vs-humans-with-eliezer-yudkowsky"/>
+        <updated>2023-02-24T20:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (54 min) | Who wins?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Drops Base | SEC Sues Terraform Labs & Do Kwon | Spotify Token Gating | OpenSea vs. Blur]]></title>
+        <id>https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform</id>
+        <link href="https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform"/>
+        <updated>2023-02-24T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (96 min) | 4th Friday of February 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Announces Base🔵, an Ethereum L2 Network Powered by Optimism]]></title>
         <id>https://shows.banklesshq.com/p/coinbase-launches-base-their-own</id>
@@ -41,16 +61,6 @@
         <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
         <updated>2023-02-21T18:39:00.000Z</updated>
         <summary type="html"><![CDATA[Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spaces - Eliezer Yudkowsky thinks we're doomed]]></title>
-        <id>https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were</id>
-        <link href="https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were"/>
-        <updated>2023-02-21T05:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (53 min) | Is there anything we can do to solve AI alignment?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://shows.banklesshq.com/p/the-power-to-mint-money"/>
         <updated>2023-02-01T11:31:05.000Z</updated>
         <summary type="html"><![CDATA[Listen now (69 min) | The history of crypto bull markets and why it matters]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Will Solana Make It?]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-anatoly-solana</id>
-        <link href="https://shows.banklesshq.com/p/debrief-anatoly-solana"/>
-        <updated>2023-01-31T06:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (25 min) | Debriefing the Will Solana Make It? with Anatoly Yakovenko episode.]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
