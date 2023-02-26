@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben",
+          "author": "David Freiburger",
+          "description": "Listen now (53 min) | The Superchain vision",
+          "link": "https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben",
+          "publishedOn": "2023-02-25T11:30:12.000Z",
+          "wordCount": null,
+          "title": "Optimism Base Superchain 🔵_🔴 with Ben Jones, Karl Floersch, & Jing Wang",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104942082.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/annie-jacobsen-debrief",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (23 min) | Ryan and David debrief the recent Annie Jacobsen episode",
+          "link": "https://shows.banklesshq.com/p/annie-jacobsen-debrief",
+          "publishedOn": "2023-02-25T09:03:41.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Is the CIA Spying on Crypto?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104997630.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-is-the-cia-spying-on",
+          "author": "David Hoffman",
+          "description": "Listen now (79 min) | What does history tell us?",
+          "link": "https://shows.banklesshq.com/p/early-access-is-the-cia-spying-on",
+          "publishedOn": "2023-02-25T09:03:36.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Is the CIA Spying on Crypto? with Annie Jacobsen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104996606.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/ai-vs-humans-with-eliezer-yudkowsky",
           "author": "Ryan Sean Adams",
           "description": "Listen now (54 min) | Who wins?",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/101283937.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (81 min) | Why they're inevitable and will shape the arc of history",
-          "link": "https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough",
-          "publishedOn": "2023-02-06T21:25:32.000Z",
-          "wordCount": null,
-          "title": "158 - You're Not Bullish Enough on NFTs with Punk6529",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/101067230.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (90 min) | 1st Week of February, 2023",
-          "link": "https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest",
-          "publishedOn": "2023-02-03T11:20:06.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Bitcoin NFTs | Canto | FOMC Interest Rates | Blur OpenSea Royalties",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/100628112.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-power-to-mint-money",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (69 min) | The history of crypto bull markets and why it matters",
-          "link": "https://shows.banklesshq.com/p/the-power-to-mint-money",
-          "publishedOn": "2023-02-01T11:31:05.000Z",
-          "wordCount": null,
-          "title": "The Power to Mint Money",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/100165114.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
