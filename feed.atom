@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T06:25:17.084Z</id>
+    <id>urn:2023-02-28T06:24:58.470Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-27T06:25:17.084Z</updated>
+    <updated>2023-02-28T06:24:58.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben</id>
         <link href="https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben"/>
         <updated>2023-02-25T11:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (53 min) | The Superchain vision]]></summary>
+        <summary type="html"><![CDATA[Jetzt anhören (53 min) | The Superchain vision]]></summary>
         <author>
             <name>David Freiburger</name>
         </author>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - Is the CIA Spying on Crypto? with Annie Jacobsen]]></title>
+        <title type="html"><![CDATA[160 - Is the CIA Spying on Crypto? with Annie Jacobsen]]></title>
         <id>https://shows.banklesshq.com/p/early-access-is-the-cia-spying-on</id>
         <link href="https://shows.banklesshq.com/p/early-access-is-the-cia-spying-on"/>
         <updated>2023-02-25T09:03:36.000Z</updated>
@@ -90,7 +90,7 @@
         <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
         <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
         <updated>2023-02-21T18:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
+        <summary type="html"><![CDATA[Escucha ahora (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
