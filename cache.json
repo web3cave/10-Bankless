@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (78 min) | Understand crypto security before it's too late",
+          "link": "https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your",
+          "publishedOn": "2023-02-28T18:01:23.000Z",
+          "wordCount": null,
+          "title": "Ledger CTO on How NOT to Lose Your Crypto",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/105553881.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben",
           "author": "David Freiburger",
           "description": "Jetzt anhören (53 min) | The Superchain vision",
@@ -296,7 +312,7 @@
         {
           "id": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
           "author": "David Hoffman",
-          "description": "Ouça agora (68 min) | What it means for Bitcoin's future",
+          "description": "Listen now (68 min) | What it means for Bitcoin's future",
           "link": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
           "publishedOn": "2023-02-07T19:00:42.000Z",
           "wordCount": null,
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/101294297.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-punk6529",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.",
-          "link": "https://shows.banklesshq.com/p/debrief-punk6529",
-          "publishedOn": "2023-02-06T21:25:43.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - You're Not Bullish Enough on NFTs",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/101283937.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

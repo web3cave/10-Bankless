@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T06:24:58.470Z</id>
+    <id>urn:2023-03-01T06:25:38.707Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T06:24:58.470Z</updated>
+    <updated>2023-03-01T06:25:38.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger CTO on How NOT to Lose Your Crypto]]></title>
+        <id>https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your</id>
+        <link href="https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your"/>
+        <updated>2023-02-28T18:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (78 min) | Understand crypto security before it's too late]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Base Superchain 🔵_🔴 with Ben Jones, Karl Floersch, & Jing Wang]]></title>
         <id>https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben</id>
@@ -190,19 +200,9 @@
         <id>https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric</id>
         <link href="https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric"/>
         <updated>2023-02-07T19:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Ouça agora (68 min) | What it means for Bitcoin's future]]></summary>
+        <summary type="html"><![CDATA[Listen now (68 min) | What it means for Bitcoin's future]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - You're Not Bullish Enough on NFTs]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-punk6529</id>
-        <link href="https://shows.banklesshq.com/p/debrief-punk6529"/>
-        <updated>2023-02-06T21:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
