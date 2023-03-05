@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T06:22:56.451Z</id>
+    <id>urn:2023-03-05T06:22:32.227Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-04T06:22:56.451Z</updated>
+    <updated>2023-03-05T06:22:32.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -110,7 +110,7 @@
         <id>https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with</id>
         <link href="https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with"/>
         <updated>2023-02-22T23:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments]]></summary>
+        <summary type="html"><![CDATA[Escucha ahora (73 min) | Tune in to hear Jon's controversial(?) arguments]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
