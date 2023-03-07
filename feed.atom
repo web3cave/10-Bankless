@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T06:25:02.444Z</id>
+    <id>urn:2023-03-07T06:24:53.416Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-06T06:25:02.444Z</updated>
+    <updated>2023-03-07T06:24:53.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - The Smart Money is Here with Eric Peters]]></title>
+        <title type="html"><![CDATA[160 - The Smart Money is Here with Eric Peters]]></title>
         <id>https://shows.banklesshq.com/p/early-access-the-smart-money-is-here</id>
         <link href="https://shows.banklesshq.com/p/early-access-the-smart-money-is-here"/>
         <updated>2023-03-03T06:40:45.000Z</updated>
@@ -90,7 +90,7 @@
         <id>https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform</id>
         <link href="https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform"/>
         <updated>2023-02-24T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (96 min) | 4th Friday of February 2023]]></summary>
+        <summary type="html"><![CDATA[Escucha ahora (96 min) | 4th Friday of February 2023]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -110,7 +110,7 @@
         <id>https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with</id>
         <link href="https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with"/>
         <updated>2023-02-22T23:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Escucha ahora (73 min) | Tune in to hear Jon's controversial(?) arguments]]></summary>
+        <summary type="html"><![CDATA[Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
