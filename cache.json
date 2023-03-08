@@ -6,6 +6,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/uniswaps-wallet-details-with-callil",
+          "author": "David Freiburger",
+          "description": "Listen now (56 min) | The future of crypto wallets?",
+          "link": "https://shows.banklesshq.com/p/uniswaps-wallet-details-with-callil",
+          "publishedOn": "2023-03-08T03:28:08.000Z",
+          "wordCount": null,
+          "title": "Uniswap's Wallet Details with Callil Capuozzo, Design Lead at Uniswap Labs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107112174.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-silvergate-trouble-metamask",
           "author": "Ryan Sean Adams",
           "description": "Listen now (77 min) | 2nd Week of March 2023",
@@ -104,7 +120,7 @@
         {
           "id": "https://shows.banklesshq.com/p/early-access-is-the-cia-spying-on",
           "author": "David Hoffman",
-          "description": "Écoutez maintenant (79 min) | What does history tell us?",
+          "description": "Listen now (79 min) | What does history tell us?",
           "link": "https://shows.banklesshq.com/p/early-access-is-the-cia-spying-on",
           "publishedOn": "2023-02-25T09:03:36.000Z",
           "wordCount": null,
@@ -304,22 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/102197259.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-operation-choke-point-sec",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (100 min) | 2nd Week of February, 2023",
-          "link": "https://shows.banklesshq.com/p/rollup-operation-choke-point-sec",
-          "publishedOn": "2023-02-10T06:18:43.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Operation Choke Point | SEC Crypto Staking Crackdown | Genesis Earn Repayment | a16z Uniswap",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/102009995.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
