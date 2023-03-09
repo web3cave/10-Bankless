@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T06:24:32.776Z</id>
+    <id>urn:2023-03-09T06:25:04.408Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-08T06:24:32.776Z</updated>
+    <updated>2023-03-09T06:25:04.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Squid with Fig | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023</id>
+        <link href="https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023"/>
+        <updated>2023-03-09T01:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (10 min) | Interview #5]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon’s zkEVM with Jordi Baylina | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina</id>
+        <link href="https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina"/>
+        <updated>2023-03-08T23:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (15 min) | Interview #4]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Osmosis Labs with Sunny Aggarwal | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/osmosis-labs-with-sunny-aggarwal</id>
+        <link href="https://shows.banklesshq.com/p/osmosis-labs-with-sunny-aggarwal"/>
+        <updated>2023-03-08T21:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (13 min) | Interview #3]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superfluid with Francesco Renzi | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/superfluid-with-francesco-renzi-ethdenver</id>
+        <link href="https://shows.banklesshq.com/p/superfluid-with-francesco-renzi-ethdenver"/>
+        <updated>2023-03-08T19:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (9 min) | Interview #2]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axelar with Sergey Gorbunov | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/axelar-with-sergey-gorbunov-ethdenver</id>
+        <link href="https://shows.banklesshq.com/p/axelar-with-sergey-gorbunov-ethdenver"/>
+        <updated>2023-03-08T17:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (11 min) | Interview #1]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap's Wallet Details with Callil Capuozzo, Design Lead at Uniswap Labs]]></title>
         <id>https://shows.banklesshq.com/p/uniswaps-wallet-details-with-callil</id>
@@ -100,7 +150,7 @@
         <id>https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform</id>
         <link href="https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform"/>
         <updated>2023-02-24T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Escucha ahora (96 min) | 4th Friday of February 2023]]></summary>
+        <summary type="html"><![CDATA[Listen now (96 min) | 4th Friday of February 2023]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -153,56 +203,6 @@
         <summary type="html"><![CDATA[Listen now (103 min) | With AGI on the horizon, is there hope for humanity?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU Markets in Crypto-Assets (MiCA) with Seth Hertlein, Patrick Hansen, & Rebecca Rettig]]></title>
-        <id>https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica</id>
-        <link href="https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica"/>
-        <updated>2023-02-18T11:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (56 min) | Who's got better crypto regulation and why?]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: SEC Staking Krakdown | $BLUR Airdrop | SBF’s Bailout Money Source | Ordinals Still Growing]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur</id>
-        <link href="https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur"/>
-        <updated>2023-02-17T11:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (93 min) | 3rd Friday of February, 2023]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$BLUR AIRDROP with Blur's Founder, Pacman]]></title>
-        <id>https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman</id>
-        <link href="https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman"/>
-        <updated>2023-02-16T11:30:53.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (53 min) | The $330M airdrop to Blur traders]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SEC Declares War on Crypto with Ryan & David]]></title>
-        <id>https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with</id>
-        <link href="https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with"/>
-        <updated>2023-02-15T11:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (67 min) | Operation Chokepoint is in full effect—here's everything you need to know]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The StarkWare Sessions | Episodes #5-9]]></title>
-        <id>https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1-d46</id>
-        <link href="https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1-d46"/>
-        <updated>2023-02-11T03:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (105 min) | Digital Identity, Gaming, Open-Source Funding, Cross-Chain Data, and zk-Hardware]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
 </feed>

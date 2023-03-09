@@ -6,6 +6,86 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023",
+          "author": "David Hoffman",
+          "description": "Listen now (10 min) | Interview #5",
+          "link": "https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023",
+          "publishedOn": "2023-03-09T01:30:58.000Z",
+          "wordCount": null,
+          "title": "Squid with Fig | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107284126.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina",
+          "author": "David Hoffman",
+          "description": "Listen now (15 min) | Interview #4",
+          "link": "https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina",
+          "publishedOn": "2023-03-08T23:30:08.000Z",
+          "wordCount": null,
+          "title": "Polygon’s zkEVM with Jordi Baylina | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107264597.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/osmosis-labs-with-sunny-aggarwal",
+          "author": "David Hoffman",
+          "description": "Listen now (13 min) | Interview #3",
+          "link": "https://shows.banklesshq.com/p/osmosis-labs-with-sunny-aggarwal",
+          "publishedOn": "2023-03-08T21:30:37.000Z",
+          "wordCount": null,
+          "title": "Osmosis Labs with Sunny Aggarwal | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107248368.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/superfluid-with-francesco-renzi-ethdenver",
+          "author": "David Hoffman",
+          "description": "Listen now (9 min) | Interview #2",
+          "link": "https://shows.banklesshq.com/p/superfluid-with-francesco-renzi-ethdenver",
+          "publishedOn": "2023-03-08T19:30:18.000Z",
+          "wordCount": null,
+          "title": "Superfluid with Francesco Renzi | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107233682.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/axelar-with-sergey-gorbunov-ethdenver",
+          "author": "David Hoffman",
+          "description": "Listen now (11 min) | Interview #1",
+          "link": "https://shows.banklesshq.com/p/axelar-with-sergey-gorbunov-ethdenver",
+          "publishedOn": "2023-03-08T17:32:56.000Z",
+          "wordCount": null,
+          "title": "Axelar with Sergey Gorbunov | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107229005.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/uniswaps-wallet-details-with-callil",
           "author": "David Freiburger",
           "description": "Listen now (56 min) | The future of crypto wallets?",
@@ -152,7 +232,7 @@
         {
           "id": "https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform",
           "author": "Ryan Sean Adams",
-          "description": "Escucha ahora (96 min) | 4th Friday of February 2023",
+          "description": "Listen now (96 min) | 4th Friday of February 2023",
           "link": "https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform",
           "publishedOn": "2023-02-24T11:30:04.000Z",
           "wordCount": null,
@@ -240,86 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/103213495.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica",
-          "author": "David Hoffman",
-          "description": "Listen now (56 min) | Who's got better crypto regulation and why?",
-          "link": "https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica",
-          "publishedOn": "2023-02-18T11:30:16.000Z",
-          "wordCount": null,
-          "title": "EU Markets in Crypto-Assets (MiCA) with Seth Hertlein, Patrick Hansen, & Rebecca Rettig",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103334802.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (93 min) | 3rd Friday of February, 2023",
-          "link": "https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur",
-          "publishedOn": "2023-02-17T11:30:58.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: SEC Staking Krakdown | $BLUR Airdrop | SBF’s Bailout Money Source | Ordinals Still Growing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103452791.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (53 min) | The $330M airdrop to Blur traders",
-          "link": "https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman",
-          "publishedOn": "2023-02-16T11:30:53.000Z",
-          "wordCount": null,
-          "title": "$BLUR AIRDROP with Blur's Founder, Pacman",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103191406.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
-          "author": "David Hoffman",
-          "description": "Listen now (67 min) | Operation Chokepoint is in full effect—here's everything you need to know",
-          "link": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
-          "publishedOn": "2023-02-15T11:30:13.000Z",
-          "wordCount": null,
-          "title": "The SEC Declares War on Crypto with Ryan & David",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/102996218.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1-d46",
-          "author": "David Hoffman",
-          "description": "Listen now (105 min) | Digital Identity, Gaming, Open-Source Funding, Cross-Chain Data, and zk-Hardware",
-          "link": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1-d46",
-          "publishedOn": "2023-02-11T03:08:36.000Z",
-          "wordCount": null,
-          "title": "The StarkWare Sessions | Episodes #5-9",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/102197259.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
