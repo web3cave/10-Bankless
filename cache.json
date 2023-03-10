@@ -6,6 +6,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/uponly-and-flip-with-brian-krogsgard",
+          "author": "David Hoffman",
+          "description": "Listen now (15 min) | Interview #8",
+          "link": "https://shows.banklesshq.com/p/uponly-and-flip-with-brian-krogsgard",
+          "publishedOn": "2023-03-09T19:01:07.000Z",
+          "wordCount": null,
+          "title": "UpOnly & Flip with Brian Krogsgard (Ledger) | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107327486.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder",
+          "author": null,
+          "description": "Listen now (13 min) | Interview #7",
+          "link": "https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder",
+          "publishedOn": "2023-03-09T16:01:34.000Z",
+          "wordCount": null,
+          "title": "Arbitrum’s Stylus with Steven Goldfeder | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107312419.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/the-state-of-eigenlayer-with-sreeram",
+          "author": "David Hoffman",
+          "description": "Listen now (18 min) | Interview #6",
+          "link": "https://shows.banklesshq.com/p/the-state-of-eigenlayer-with-sreeram",
+          "publishedOn": "2023-03-09T13:01:49.000Z",
+          "wordCount": null,
+          "title": "The State of EigenLayer with Sreeram Kannan | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107305189.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023",
           "author": "David Hoffman",
           "description": "Listen now (10 min) | Interview #5",
@@ -272,54 +320,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/104545068.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank",
-          "author": "David Hoffman",
-          "description": "Listen now (68 min) | 3rd Largest Community?",
-          "link": "https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank",
-          "publishedOn": "2023-02-22T11:33:56.000Z",
-          "wordCount": null,
-          "title": "The Polygon NFT Ecosystem with Frank (DeGods), Zhuoxun Yin (Magic Eden), & Stani Kulechov (Lens)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/104188822.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-eliezer",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode",
-          "link": "https://shows.banklesshq.com/p/debrief-eliezer",
-          "publishedOn": "2023-02-21T18:39:00.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - We're All Gonna Die",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103214358/4f64d64b6dc93f30b1d4db2986a42181.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (103 min) | With AGI on the horizon, is there hope for humanity?",
-          "link": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
-          "publishedOn": "2023-02-20T09:30:00.000Z",
-          "wordCount": null,
-          "title": "159 - We’re All Gonna Die with Eliezer Yudkowsky",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103213495.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
